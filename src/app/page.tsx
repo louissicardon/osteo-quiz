@@ -16,6 +16,9 @@ export default function Home() {
           <Link href="./zootechnie" className={styles.startButton}>
             Zootechnie
           </Link>
+          <Link href="./pharmacologie" className={styles.startButton}>
+            Zootechnie
+          </Link>
         </div>
       </div>
     </div>
