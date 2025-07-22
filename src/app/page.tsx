@@ -17,7 +17,7 @@ export default function Home() {
             Zootechnie
           </Link>
           <Link href="./pharmacologie" className={styles.startButton}>
-            Zootechnie
+            Pharmacologie
           </Link>
         </div>
       </div>
