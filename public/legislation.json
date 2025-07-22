@@ -8,7 +8,11 @@
       { "text": "Le vétérinaire traitant", "correct": false },
       { "text": "La compagnie d’assurance uniquement", "correct": false }
     ],
-    "source": []
+    "source": [
+      "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041553",
+      "https://www.village-justice.com/articles/dans-quelles-mesures-est-responsable-juridiquement-son-animal,30187.html",
+      "https://fr.wikipedia.org/wiki/Responsabilit%C3%A9_du_fait_des_animaux"
+    ]
   },
   {
     "question": "Quel organisme tient le Registre national d’aptitude (RNA) des personnes autorisées à pratiquer l’ostéopathie animale ?",
@@ -19,7 +23,11 @@
       { "text": "La DGCCRF", "correct": false },
       { "text": "Le Conseil national de l’Ordre des médecins", "correct": false }
     ],
-    "source": []
+    "source": [
+      "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000034450108",
+      "https://ifoa.fr/le-cnov-lexamen-daptitude-en-osteopathie-animale/",
+      "https://agriculture.gouv.fr/osteopathie-animale-etat-des-lieux-du-secteur-evaluation-de-lepreuve-daptitude-et-de-lenseignement"
+    ]
   },
   {
     "question": "Quelle sanction pénale maximale encoure l’exercice illégal de la médecine vétérinaire ?",
@@ -30,7 +38,11 @@
       { "text": "Une simple amende administrative", "correct": false },
       { "text": "Radiation automatique du CNOV uniquement", "correct": false }
     ],
-    "source": []
+    "source": [
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071367/LEGISCTA000006152415/",
+      "https://www.lepointveterinaire.fr/publications/la-semaine-veterinaire/article/n-1450/l-exercice-illegal-revet-de-multiples-facettes.html",
+      "https://www.veterinaire.fr/la-profession-veterinaire/la-reglementation-professionnelle/index-juridique/la-profession-veterinaire/atteintes-aux-activites-reservees"
+    ]
   },
   {
     "question": "Pour un animal sauvage blessé appartenant à une espèce protégée, quel est le premier réflexe légal ?",
@@ -41,7 +53,11 @@
       { "text": "L’euthanasier pour abréger ses souffrances", "correct": false },
       { "text": "Appeler la mairie pour qu’elle le conserve en captivité", "correct": false }
     ],
-    "source": []
+    "source": [
+      "https://www.veterinaire.fr/je-suis-proprietaire-danimaux/fiches-pratiques/que-faire-si-je-trouve-un-animal-sauvage-blesse",
+      "https://www.ofb.gouv.fr/sites/default/files/Fichiers/Plaquettes%20et%20rapports%20instit/plaquette-animaux-detresse.pdf",
+      "https://www.haute-savoie.gouv.fr/Actions-de-l-Etat/Vos-animaux/Faune-sauvage/Animal-sauvage-en-souffrance"
+    ]
   },
   {
     "question": "Parmi les missions légales du CNOV, laquelle fait partie de son « rôle disciplinaire » ?",
@@ -52,7 +68,11 @@
       { "text": "Gérer les régimes de retraite des vétérinaires", "correct": false },
       { "text": "Contrôler l’importation d’animaux exotiques", "correct": false }
     ],
-    "source": []
+    "source": [
+      "https://www.veterinaire.fr/lordre/qui-sommes-nous/nos-missions/les-missions-de-lordre",
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071367/LEGISCTA000006152414/",
+      "https://www.temavet.fr/presse-veterinaire/juridique-et-comptabilite/lordre-des-veterinaires-en-5-questions-725741.php"
+    ]
   },
   {
     "question": "Le secret professionnel vétérinaire peut être levé sans consentement du client lorsqu’il s’agit :",
@@ -63,7 +83,11 @@
       { "text": "D’un cas de maltraitance grave à signaler aux autorités compétentes", "correct": true },
       { "text": "D’un souhait de l’éleveur voisin", "correct": false }
     ],
-    "source": []
+    "source": [
+      "https://academie-veterinaire.fr/fileadmin/user_upload/EspaceMembres/Annexe_9_Secret.pdf",
+      "https://www.ofb.gouv.fr/sites/default/files/Fichiers/Plaquettes%20et%20rapports%20instit/plaquette-animaux-detresse.pdf",
+      "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006152208/"
+    ]
   },
   {
     "question": "Quel article définit les actes de médecine et de chirurgie vétérinaires réservés ?",
@@ -74,7 +98,11 @@
       { "text": "Article L211-19-1 du Code rural", "correct": false },
       { "text": "Article R243-8 du CRPM", "correct": false }
     ],
-    "source": []
+    "source": [
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071367/LEGISCTA000006152415/",
+      "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044365105",
+      "https://www.veterinaire.fr/la-profession-veterinaire/la-reglementation-professionnelle/index-juridique/la-profession-veterinaire/atteintes-aux-activites-reservees"
+    ]
   },
   {
     "question": "Un vétérinaire non ressortissant de l’UE peut exercer en France :",
@@ -85,7 +113,11 @@
       { "text": "Sans restriction après trois ans de résidence", "correct": false },
       { "text": "S’il possède un diplôme d’un pays tiers homologué par l’OIE", "correct": false }
     ],
-    "source": []
+    "source": [
+      "https://www.depecheveterinaire.com/veterinaires-non-europeens-attention-a-l-exercice-illegal-alerte-l-ordre_679F53873B6CA96A.html",
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071367/LEGISCTA000006168710/2020-02-12",
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071367/LEGISCTA000006152414/"
+    ]
   },
   {
     "question": "Quelle règle de déontologie interdit la collusion commerciale entre vétérinaires et tiers ?",
@@ -96,7 +128,11 @@
       { "text": "Le principe de permanence des soins", "correct": false },
       { "text": "Le devoir de conseil vaccinal", "correct": false }
     ],
-    "source": []
+    "source": [
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071367/LEGISCTA000006168195/",
+      "https://www.veterinaire.fr/la-profession-veterinaire/la-reglementation-professionnelle/le-code-de-deontologie-commente",
+      "https://www.veterinaire.fr/system/files/files/2023-03/CNO%20VETOS%20-%20Code%20deontologie%20%20V1.pdf"
+    ]
   },
   {
     "question": "Qui doit assurer la permanence et la continuité des soins vétérinaires dans une zone donnée ?",
@@ -107,7 +143,11 @@
       { "text": "Les vétérinaires exerçant dans la zone, selon les modalités fixées par le CROV", "correct": true },
       { "text": "Les pompiers", "correct": false }
     ],
-    "source": []
+    "source": [
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071367/LEGISCTA000006168195/",
+      "https://www.conseil-etat.fr/fr/arianeweb/CRP/conclusion/2019-12-20/410771?download_pdf",
+      "https://www.temavet.fr/presse-veterinaire/juridique-et-comptabilite/lordre-des-veterinaires-en-5-questions-725741.php"
+    ]
   },
   {
     "question": "L’administration de médicaments à usage humain à un animal par un vétérinaire est :",
@@ -118,7 +158,11 @@
       { "text": "Décidée par le pharmacien", "correct": false },
       { "text": "Possible pour les animaux de rente seulement", "correct": false }
     ],
-    "source": []
+    "source": [
+      "https://www.veterinaire.fr/la-profession-veterinaire/la-reglementation-professionnelle/le-code-de-deontologie-commente",
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071367/LEGISCTA000006168195/",
+      "https://www.veterinaire.fr/system/files/files/2023-03/CNO%20VETOS%20-%20Code%20deontologie%20%20V1.pdf"
+    ]
   },
   {
     "question": "À quelle fréquence un vétérinaire doit-il actualiser ses connaissances professionnelles ?",
@@ -129,7 +173,11 @@
       { "text": "Uniquement sur demande du CNOV", "correct": false },
       { "text": "Jamais, s’il est diplômé avant 2000", "correct": false }
     ],
-    "source": []
+    "source": [
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071367/LEGISCTA000006168195/",
+      "https://www.veterinaire.fr/la-profession-veterinaire/la-reglementation-professionnelle/le-code-de-deontologie-commente",
+      "https://www.veterinaire.fr/lordre/qui-sommes-nous/nos-missions/les-missions-de-lordre"
+    ]
   },
   {
     "question": "La vaccination antirabique par le propriétaire lui-même est considérée comme :",
@@ -140,7 +188,11 @@
       { "text": "Obligatoire en élevage bovin", "correct": false },
       { "text": "Un acte pharmaceutique non vétérinaire", "correct": false }
     ],
-    "source": []
+    "source": [
+      "https://www.veterinaire.fr/la-profession-veterinaire/la-reglementation-professionnelle/index-juridique/la-profession-veterinaire/atteintes-aux-activites-reservees",
+      "https://www.lepointveterinaire.fr/publications/la-semaine-veterinaire/article/n-1450/l-exercice-illegal-revet-de-multiples-facettes.html",
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071367/LEGISCTA000006152415/"
+    ]
   },
   {
     "question": "Le Code de déontologie vétérinaire est :",
@@ -151,7 +203,11 @@
       { "text": "Un arrêté préfectoral", "correct": false },
       { "text": "Un guide pratique facultatif", "correct": false }
     ],
-    "source": []
+    "source": [
+      "https://www.veterinaire.fr/lordre/qui-sommes-nous/nos-missions/les-missions-de-lordre",
+      "https://www.labase-lextenso.fr/code-rural-et-de-la-peche-maritime/LEGISCTA000030963424",
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071367/LEGISCTA000006168195/"
+    ]
   },
   {
     "question": "Quel organisme est compétent pour gérer les animaux sauvages trouvés morts sur la voie publique ?",
@@ -162,7 +218,11 @@
       { "text": "La DDPP uniquement", "correct": false },
       { "text": "Le centre de sauvegarde local", "correct": false }
     ],
-    "source": []
+    "source": [
+      "https://www.ofb.gouv.fr/sites/default/files/Fichiers/Plaquettes%20et%20rapports%20instit/plaquette-animaux-detresse.pdf",
+      "https://www.haute-savoie.gouv.fr/Actions-de-l-Etat/Vos-animaux/Faune-sauvage/Animal-sauvage-en-souffrance",
+      "https://mairesdefrance.com/animaux-errants-obligations-maire-article-847-0"
+    ]
   },
   {
     "question": "L’article L214-1 du Code rural interdit :",
@@ -173,7 +233,11 @@
       { "text": "La détention d’oiseaux exotiques", "correct": false },
       { "text": "La possession de reptiles", "correct": false }
     ],
-    "source": []
+    "source": [
+      "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006152208/",
+      "https://www.ofb.gouv.fr/sites/default/files/Fichiers/Plaquettes%20et%20rapports%20instit/plaquette-animaux-detresse.pdf",
+      "https://refuge-arche.org/qui-sommes-nous/un-centre-de-sauvegarde/"
+    ]
   },
   {
     "question": "Le propriétaire d’un cabinet doit déclarer au CROV :",
@@ -184,7 +248,11 @@
       { "text": "Ses stocks de vaccins", "correct": false },
       { "text": "Ses jours de congés", "correct": false }
     ],
-    "source": []
+    "source": [
+      "https://www.conseil-etat.fr/fr/arianeweb/CRP/conclusion/2019-12-20/410771?download_pdf",
+      "https://www.temavet.fr/presse-veterinaire/juridique-et-comptabilite/lordre-des-veterinaires-en-5-questions-725741.php",
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071367/LEGISCTA000006168710/2020-02-12"
+    ]
   },
   {
     "question": "Quelle obligation s’impose au vétérinaire concernant l’antibiorésistance ?",
@@ -195,7 +263,11 @@
       { "text": "Informer l’ARS de chaque ordonnance", "correct": false },
       { "text": "Prescrire les antibiotiques les moins chers", "correct": false }
     ],
-    "source": []
+    "source": [
+      "https://www.veterinaire.fr/la-profession-veterinaire/la-reglementation-professionnelle/le-code-de-deontologie-commente",
+      "https://www.veterinaire.fr/system/files/files/2023-03/CNO%20VETOS%20-%20Code%20deontologie%20%20V1.pdf",
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071367/LEGISCTA000006168195/"
+    ]
   },
   {
     "question": "Une société commerciale peut-elle détenir des parts majoritaires d’une clinique vétérinaire ?",
@@ -206,7 +278,11 @@
       { "text": "Seulement pour les pharmacies vétérinaires", "correct": false },
       { "text": "Uniquement si le préfet l’autorise", "correct": false }
     ],
-    "source": []
+    "source": [
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071367/LEGISCTA000006152414/",
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071367/LEGISCTA000006168195/",
+      "https://www.vie-publique.fr/rapport/34604-lexercice-de-la-medecine-veterinaire-par-des-structures-non-veterinaire"
+    ]
   },
   {
     "question": "Le maire est tenu de prendre des mesures contre :",
@@ -217,7 +293,11 @@
       { "text": "Les centres de soins faune sauvage", "correct": false },
       { "text": "Les cliniques vétérinaires de garde", "correct": false }
     ],
-    "source": []
+    "source": [
+      "https://mairesdefrance.com/animaux-errants-obligations-maire-article-847-0",
+      "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006152208/",
+      "https://www.haute-savoie.gouv.fr/Actions-de-l-Etat/Vos-animaux/Faune-sauvage/Animal-sauvage-en-souffrance"
+    ]
   },
   {
     "question": "Quel texte encadre les règles déontologiques des ostéopathes animaliers non vétérinaires ?",
@@ -228,7 +308,11 @@
       { "text": "Convention collective agricole", "correct": false },
       { "text": "Arrêté préfectoral annuel", "correct": false }
     ],
-    "source": []
+    "source": [
+      "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000034450108",
+      "https://agriculture.gouv.fr/osteopathie-animale-etat-des-lieux-du-secteur-evaluation-de-lepreuve-daptitude-et-de-lenseignement",
+      "https://avef.fr/exercice-illegal/"
+    ]
   },
   {
     "question": "L’interdiction pour un vétérinaire de couvrir de son titre un non-vétérinaire figure dans :",
@@ -239,7 +323,11 @@
       { "text": "Le règlement intérieur du CNOV", "correct": false },
       { "text": "La charte LPO", "correct": false }
     ],
-    "source": []
+    "source": [
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071367/LEGISCTA000006168195/",
+      "https://www.veterinaire.fr/la-profession-veterinaire/la-reglementation-professionnelle/le-code-de-deontologie-commente",
+      "https://www.veterinaire.fr/system/files/files/2023-03/CNO%20VETOS%20-%20Code%20deontologie%20%20V1.pdf"
+    ]
   },
   {
     "question": "Quelle entité est chargée d’élaborer le projet de Code de déontologie avant son approbation par le Conseil d’État ?",
@@ -250,7 +338,11 @@
       { "text": "Les CROV réunis en assemblée", "correct": false },
       { "text": "La Cour de cassation", "correct": false }
     ],
-    "source": []
+    "source": [
+      "https://www.veterinaire.fr/lordre/qui-sommes-nous/nos-missions/les-missions-de-lordre",
+      "https://www.labase-lextenso.fr/code-rural-et-de-la-peche-maritime/LEGISCTA000030963424",
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071367/LEGISCTA000006152414/"
+    ]
   },
   {
     "question": "Le vétérinaire peut être exonéré de responsabilité du fait des animaux qu’il soigne :",
@@ -261,7 +353,11 @@
       { "text": "S’il est salarié", "correct": false },
       { "text": "S’il a averti le propriétaire par écrit", "correct": false }
     ],
-    "source": []
+    "source": [
+      "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041553",
+      "https://www.tondu-avocat.fr/morsure-de-chien-et-responsabilite-du-fait-des-animaux/",
+      "https://fr.wikipedia.org/wiki/Responsabilit%C3%A9_du_fait_des_animaux"
+    ]
   },
   {
     "question": "Quelle structure peut recueillir légalement un hérisson blessé ?",
@@ -272,7 +368,11 @@
       { "text": "La mairie après autorisation du préfet", "correct": false },
       { "text": "Une association non déclarée", "correct": false }
     ],
-    "source": []
+    "source": [
+      "https://www.veterinaire.fr/je-suis-proprietaire-danimaux/fiches-pratiques/que-faire-si-je-trouve-un-animal-sauvage-blesse",
+      "https://www.lpo.fr/la-lpo-en-actions/agir-pour-la-faune-en-detresse/centres-de-soins",
+      "https://www.jagispourlanature.org/article/centres-de-sauvegarde-de-la-faune-sauvage"
+    ]
   },
   {
     "question": "Le vétérinaire doit refuser d’exercer si :",
@@ -283,7 +383,11 @@
       { "text": "Le client vient d’un autre département", "correct": false },
       { "text": "L’animal est non vacciné", "correct": false }
     ],
-    "source": []
+    "source": [
+      "https://www.veterinaire.fr/system/files/files/2023-03/CNO%20VETOS%20-%20Code%20deontologie%20%20V1.pdf",
+      "https://www.veterinaire.fr/la-profession-veterinaire/la-reglementation-professionnelle/le-code-de-deontologie-commente",
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071367/LEGISCTA000006168195/"
+    ]
   },
   {
     "question": "Qui fixe librement le montant des honoraires vétérinaires ?",
@@ -294,7 +398,11 @@
       { "text": "Le préfet", "correct": false },
       { "text": "L’Ordre des médecins", "correct": false }
     ],
-    "source": []
+    "source": [
+      "https://www.veterinaire.fr/la-profession-veterinaire/la-reglementation-professionnelle/le-code-de-deontologie-commente",
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071367/LEGISCTA000006168195/",
+      "https://www.veterinaire.fr/lordre/qui-sommes-nous/nos-missions/les-missions-de-lordre"
+    ]
   },
   {
     "question": "L’Ordre des vétérinaires participe à la surveillance de :",
@@ -305,7 +413,11 @@
       { "text": "La consommation des ménages", "correct": false },
       { "text": "Les importations de chevaux de course", "correct": false }
     ],
-    "source": []
+    "source": [
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071367/LEGISCTA000006152414/",
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071367/LEGISCTA000006168710/2020-02-12",
+      "https://www.reseau-sante-publique-veterinaire.com/wp-content/uploads/2018/11/CNOV.pdf"
+    ]
   },
   {
     "question": "La détention d’un animal sauvage protégé sans autorisation peut entraîner jusqu’à :",
@@ -316,7 +428,11 @@
       { "text": "Une simple mise en demeure", "correct": false },
       { "text": "Aucune sanction en cas de soins bénévoles", "correct": false }
     ],
-    "source": []
+    "source": [
+      "https://www.ofb.gouv.fr/sites/default/files/Fichiers/Plaquettes%20et%20rapports%20instit/plaquette-animaux-detresse.pdf",
+      "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006152208/",
+      "https://www.veterinaire.fr/je-suis-proprietaire-danimaux/fiches-pratiques/que-faire-si-je-trouve-un-animal-sauvage-blesse"
+    ]
   },
   {
     "question": "Lorsque plusieurs vétérinaires collaborent libéralement au sein d’un même domicile professionnel, ils doivent :",
@@ -327,7 +443,11 @@
       { "text": "Faire valider les contrats par un notaire", "correct": false },
       { "text": "Publier les contrats au Journal officiel", "correct": false }
     ],
-    "source": []
+    "source": [
+      "https://www.conseil-etat.fr/fr/arianeweb/CRP/conclusion/2019-12-20/410771?download_pdf",
+      "https://www.temavet.fr/presse-veterinaire/juridique-et-comptabilite/lordre-des-veterinaires-en-5-questions-725741.php",
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071367/LEGISCTA000006168710/2020-02-12"
+    ]
   },
   {
     "question": "La prescription vétérinaire doit être rédigée :",
@@ -338,7 +458,11 @@
       { "text": "Sans mention de l’espèce", "correct": false },
       { "text": "Sur papier libre sans signature", "correct": false }
     ],
-    "source": []
+    "source": [
+      "https://www.veterinaire.fr/system/files/files/2023-03/CNO%20VETOS%20-%20Code%20deontologie%20%20V1.pdf",
+      "https://www.veterinaire.fr/la-profession-veterinaire/la-reglementation-professionnelle/le-code-de-deontologie-commente",
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071367/LEGISCTA000006168195/"
+    ]
   },
   {
     "question": "En cas de divergence d’opinion sur un diagnostic entre deux vétérinaires, le Code de déontologie impose :",
@@ -349,7 +473,11 @@
       { "text": "Le signalement au CNOV dans les 24 h", "correct": false },
       { "text": "La désignation d’un tiers arbitre par le client", "correct": false }
     ],
-    "source": []
+    "source": [
+      "https://www.veterinaire.fr/la-profession-veterinaire/la-reglementation-professionnelle/le-code-de-deontologie-commente",
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071367/LEGISCTA000006168195/",
+      "https://www.veterinaire.fr/system/files/files/2023-03/CNO%20VETOS%20-%20Code%20deontologie%20%20V1.pdf"
+    ]
   },
   {
     "question": "Tout vétérinaire doit posséder une assurance :",
@@ -360,7 +488,11 @@
       { "text": "Vie privée", "correct": false },
       { "text": "Multirisque habitation", "correct": false }
     ],
-    "source": []
+    "source": [
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071367/LEGISCTA000006168195/",
+      "https://www.veterinaire.fr/la-profession-veterinaire/la-reglementation-professionnelle/le-code-de-deontologie-commente",
+      "https://www.veterinaire.fr/system/files/files/2023-03/CNO%20VETOS%20-%20Code%20deontologie%20%20V1.pdf"
+    ]
   },
   {
     "question": "Les actes d’ostéopathie animale autorisés aux non-vétérinaires sont limités à :",
@@ -371,7 +503,11 @@
       { "text": "Chirurgie mineure", "correct": false },
       { "text": "Vaccination sublinguale", "correct": false }
     ],
-    "source": []
+    "source": [
+      "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000034450108",
+      "https://agriculture.gouv.fr/osteopathie-animale-etat-des-lieux-du-secteur-evaluation-de-lepreuve-daptitude-et-de-lenseignement",
+      "https://avef.fr/exercice-illegal/"
+    ]
   },
   {
     "question": "Un vétérinaire peut faire de la publicité :",
@@ -382,7 +518,11 @@
       { "text": "En critiquant publiquement un confrère", "correct": false },
       { "text": "Sans aucune limite légale", "correct": false }
     ],
-    "source": []
+    "source": [
+      "https://www.veterinaire.fr/la-profession-veterinaire/la-reglementation-professionnelle/le-code-de-deontologie-commente",
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071367/LEGISCTA000006168195/",
+      "https://www.veterinaire.fr/system/files/files/2023-03/CNO%20VETOS%20-%20Code%20deontologie%20%20V1.pdf"
+    ]
   },
   {
     "question": "Qui décide de la suspension temporaire du droit d’exercer pour un vétérinaire ?",
@@ -393,7 +533,11 @@
       { "text": "Le pharmacien inspecteur", "correct": false },
       { "text": "Le propriétaire de la clinique", "correct": false }
     ],
-    "source": []
+    "source": [
+      "https://www.veterinaire.fr/lordre/qui-sommes-nous/nos-missions/les-missions-de-lordre",
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071367/LEGISCTA000006152414/",
+      "https://www.temavet.fr/presse-veterinaire/juridique-et-comptabilite/lordre-des-veterinaires-en-5-questions-725741.php"
+    ]
   },
   {
     "question": "La notion d’« animal en détresse » permet :",
@@ -404,7 +548,11 @@
       { "text": "D’effacer toute poursuite pour détention illégale", "correct": false },
       { "text": "De l’intégrer immédiatement dans un élevage", "correct": false }
     ],
-    "source": []
+    "source": [
+      "https://www.ofb.gouv.fr/sites/default/files/Fichiers/Plaquettes%20et%20rapports%20instit/plaquette-animaux-detresse.pdf",
+      "https://www.veterinaire.fr/je-suis-proprietaire-danimaux/fiches-pratiques/que-faire-si-je-trouve-un-animal-sauvage-blesse",
+      "https://www.lpo.fr/la-lpo-en-actions/agir-pour-la-faune-en-detresse/centres-de-soins"
+    ]
   },
   {
     "question": "Le Code de déontologie impose au vétérinaire de respecter l’environnement :",
@@ -415,7 +563,11 @@
       { "text": "Jamais, ce n’est pas mentionné", "correct": false },
       { "text": "Seulement en élevage intensif", "correct": false }
     ],
-    "source": []
+    "source": [
+      "https://www.veterinaire.fr/la-profession-veterinaire/la-reglementation-professionnelle/le-code-de-deontologie-commente",
+      "https://www.veterinaire.fr/system/files/files/2023-03/CNO%20VETOS%20-%20Code%20deontologie%20%20V1.pdf",
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071367/LEGISCTA000006168195/"
+    ]
   },
   {
     "question": "En cas d’urgence vitale et d’absence de vétérinaire disponible, un éleveur peut pratiquer :",
@@ -426,7 +578,11 @@
       { "text": "Un diagnostic radiographique", "correct": false },
       { "text": "L’administration d’un anesthésique général", "correct": false }
     ],
-    "source": []
+    "source": [
+      "https://www.lepointveterinaire.fr/publications/la-semaine-veterinaire/article/n-1450/l-exercice-illegal-revet-de-multiples-facettes.html",
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071367/LEGISCTA000006152415/",
+      "https://www.veterinaire.fr/la-profession-veterinaire/la-reglementation-professionnelle/index-juridique/la-profession-veterinaire/atteintes-aux-activites-reservees"
+    ]
   },
   {
     "question": "Lorsqu’un vétérinaire exerce dans des conditions compromettant la qualité de ses actes, il contrevient :",
@@ -437,6 +593,10 @@
       { "text": "À l’arrêté du maire", "correct": false },
       { "text": "À la convention collective", "correct": false }
     ],
-    "source": []
+    "source": [
+      "https://www.veterinaire.fr/system/files/files/2023-03/CNO%20VETOS%20-%20Code%20deontologie%20%20V1.pdf",
+      "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071367/LEGISCTA000006168195/",
+      "https://www.veterinaire.fr/la-profession-veterinaire/la-reglementation-professionnelle/le-code-de-deontologie-commente"
+    ]
   }
 ]
