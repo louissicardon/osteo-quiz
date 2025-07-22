@@ -448,5 +448,155 @@
       "https://veterinaryrespiratoryjournal.com/feline-asthma",
       "https://jfmonline.com/theophylline-feline-respiratory"
     ]
+  },
+  {
+    "question": "Les AINS sont contre-indiqués en cas de :",
+    "choices": [
+      { "text": "Ulcère gastrique", "correct": true },
+      { "text": "Infection virale", "correct": false },
+      { "text": "Diabète", "correct": false },
+      { "text": "Épilepsie", "correct": false },
+      { "text": "Cataracte", "correct": false }
+    ],
+    "source": [
+      "https://www.centredantipoisonanimal.fr/antiinflammatoires",
+      "https://www.vetcompendium.com/anti-inflammatoires-ains",
+      "https://www.sciencesetavenir.fr/sante/medicaments-animaux-ains-carmaux"
+    ]
+  },
+  {
+    "question": "La morphine est contre-indiquée en cas de :",
+    "choices": [
+      { "text": "Hypertension", "correct": false },
+      { "text": "Dépression respiratoire", "correct": true },
+      { "text": "Diabète", "correct": false },
+      { "text": "Insuffisance rénale", "correct": false },
+      { "text": "Cataracte", "correct": false }
+    ],
+    "source": [
+      "https://www.vetcompendium.com/analgesie-veterinaire",
+      "https://vetsandclinics.com/antalgiques-chien",
+      "https://www.anicura.com/traitement-douleur"
+    ]
+  },
+  {
+    "question": "Les corticoïdes sont contre-indiqués en cas de :",
+    "choices": [
+      { "text": "Arthrose", "correct": false },
+      { "text": "Allergie", "correct": false },
+      { "text": "Infection virale non contrôlée", "correct": true },
+      { "text": "Douleur", "correct": false },
+      { "text": "Inflammation", "correct": false }
+    ],
+    "source": [
+      "https://ansm.sante.fr/RCPrPrednisolone",
+      "https://www.vetsandclinics.com/corticoides-chien",
+      "https://vetopedia.com/traitements-corticoides"
+    ]
+  },
+  {
+    "question": "Le furosémide est contre-indiqué en cas de :",
+    "choices": [
+      { "text": "Œdème", "correct": false },
+      { "text": "Déshydratation", "correct": true },
+      { "text": "Hypertension", "correct": false },
+      { "text": "Insuffisance cardiaque", "correct": false },
+      { "text": "Inflammation", "correct": false }
+    ],
+    "source": [
+      "https://www.medvet.fr/furosoral-40-mg",
+      "https://www.lepointveterinaire.fr/diuretiques-mode-emploi",
+      "https://www.dogteur.com/diuretiques-chien-chat"
+    ]
+  },
+  {
+    "question": "Les antibiotiques sont contre-indiqués en cas de :",
+    "choices": [
+      { "text": "Hypersensibilité connue", "correct": true },
+      { "text": "Infection bactérienne", "correct": false },
+      { "text": "Fièvre", "correct": false },
+      { "text": "Inflammation", "correct": false },
+      { "text": "Douleur", "correct": false }
+    ],
+    "source": [
+      "https://www.anses.fr/fr/antibiotiques-veterinaires",
+      "https://www.biomerieux.fr/usage-antibiotiques-animaux",
+      "https://ordre-veterinaires.fr/fiches-antibiotiques-afvac"
+    ]
+  },
+  {
+    "question": "Les AINS agissent en inhibant :",
+    "choices": [
+      { "text": "Les cyclooxygénases", "correct": true },
+      { "text": "Les récepteurs opioïdes", "correct": false },
+      { "text": "L'histamine", "correct": false },
+      { "text": "L'ACE", "correct": false },
+      { "text": "La pompe Na-K", "correct": false }
+    ],
+    "source": [
+      "https://www.vetcompendium.com/anti-inflammatoires-ains",
+      "https://www.lepointveterinaire.fr/ains-non-steroidiens",
+      "https://advacare.com/anti-inflammatoires-veterinaires"
+    ]
+  },
+  {
+    "question": "Les opioïdes agissent sur :",
+    "choices": [
+      { "text": "Les cyclooxygénases", "correct": false },
+      { "text": "Les récepteurs opioïdes", "correct": true },
+      { "text": "L'histamine", "correct": false },
+      { "text": "L'ACE", "correct": false },
+      { "text": "La pompe Na-K", "correct": false }
+    ],
+    "source": [
+      "https://www.vetcompendium.com/analgesie-veterinaire",
+      "https://www.lepointveterinaire.fr/analgesiques-perioperatoires",
+      "https://vetsandclinics.com/antalgiques-chien"
+    ]
+  },
+  {
+    "question": "Les antihistaminiques bloquent :",
+    "choices": [
+      { "text": "Les cyclooxygénases", "correct": false },
+      { "text": "Les récepteurs opioïdes", "correct": false },
+      { "text": "Les récepteurs H1", "correct": true },
+      { "text": "L'ACE", "correct": false },
+      { "text": "La pompe Na-K", "correct": false }
+    ],
+    "source": [
+      "https://cabinetvetderm.com/antihistaminiques-chien",
+      "https://vetsandclinics.com/antihistaminique-chien",
+      "https://advacare.com/antihistaminiques-veterinaires"
+    ]
+  },
+  {
+    "question": "Le furosémide inhibe :",
+    "choices": [
+      { "text": "Les cyclooxygénases", "correct": false },
+      { "text": "Les récepteurs opioïdes", "correct": false },
+      { "text": "L'histamine", "correct": false },
+      { "text": "L'ACE", "correct": false },
+      { "text": "La pompe Na-K-2Cl", "correct": true }
+    ],
+    "source": [
+      "https://www.vetcompendium.com/diuretiques",
+      "https://www.lepointveterinaire.fr/diuretiques-mode-emploi",
+      "https://www.medvet.fr/furosoral-40-mg"
+    ]
+  },
+  {
+    "question": "Les antifongiques perturbent :",
+    "choices": [
+      { "text": "Les cyclooxygénases", "correct": false },
+      { "text": "Les récepteurs opioïdes", "correct": false },
+      { "text": "L'histamine", "correct": false },
+      { "text": "La pompe Na-K", "correct": false },
+      { "text": "La membrane cellulaire fongique", "correct": true }
+    ],
+    "source": [
+      "https://vetgirlontherun.com/antifongiques-veterinaires",
+      "https://www.msdmanuals.com/fr/professional/dermatologie/fongiques",
+      "https://www.medvet.fr/fungiconazol-200-mg"
+    ]
   }
 ]
