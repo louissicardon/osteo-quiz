@@ -40,7 +40,7 @@ export default function Quiz2() {
       setLoading(false)
     } catch (error) {
       console.error('Erreur:', error)
-      setError('Impossible de charger les questions du Quiz legislation.')
+      setError('Impossible de charger les questions du Quiz Pharmacologie.')
       setLoading(false)
     }
   }
@@ -95,7 +95,7 @@ export default function Quiz2() {
     return (
       <div className={styles.container}>
         <div className={styles.questionContainer}>
-          <div>Chargement des questions du Quiz sur la Législation...</div>
+          <div>Chargement des questions du Quiz sur la Pharmacologie...</div>
         </div>
       </div>
     )
@@ -118,7 +118,7 @@ export default function Quiz2() {
     return (
       <div className={styles.container}>
         <div className={styles.questionContainer}>
-          <div>Aucune question disponible pour le Quiz sur la Législation.</div>
+          <div>Aucune question disponible pour le Quiz sur la Pharmacologie.</div>
           <Link href="../" className={styles.homeLink}>
             Retour à l'accueil
           </Link>
@@ -133,7 +133,7 @@ export default function Quiz2() {
         <Link href="../" className={styles.homeLink}>
           ← Retour à l'accueil
         </Link>
-        <h2 className={styles.quizTitle}>Législation</h2>
+        <h2 className={styles.quizTitle}>Pharmacologie</h2>
       </div>
       <div className={styles.questionContainer}>
         <div className={styles.question}>{currentQuestion.question}</div>
