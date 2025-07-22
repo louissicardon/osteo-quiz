@@ -9,12 +9,14 @@ export default function Home() {
         <p className={styles.welcomeDescription}>
           Quiz sur la législation de l'ostéopathie animale en France
         </p>
-        <Link href="./legislation" className={styles.startButton}>
-          Législation
-        </Link>
-        <Link href="./zootechnie" className={styles.startButton}>
-          Zootechnie
-        </Link>
+        <div className={styles.buttonsContainer}>
+          <Link href="./legislation" className={styles.startButton}>
+            Législation
+          </Link>
+          <Link href="./zootechnie" className={styles.startButton}>
+            Zootechnie
+          </Link>
+        </div>
       </div>
     </div>
   )

@@ -18,6 +18,7 @@ interface Question {
 export default function Quiz2() {
   const [quizData, setQuizData] = useState<Question[]>([])
   const [currentQuestion, setCurrentQuestion] = useState<Question | null>(null)
+  const [currentQuestionNumber, setCurrentQuestionNumber] = useState<number>(1)
   const [usedIndexes, setUsedIndexes] = useState<number[]>([])
   const [showAnswer, setShowAnswer] = useState(false)
   const [shuffledChoices, setShuffledChoices] = useState<Choice[]>([])
@@ -39,7 +40,7 @@ export default function Quiz2() {
       setLoading(false)
     } catch (error) {
       console.error('Erreur:', error)
-      setError('Impossible de charger les questions du Quiz 2.')
+      setError('Impossible de charger les questions du Quiz Zootechnie.')
       setLoading(false)
     }
   }
@@ -47,6 +48,7 @@ export default function Quiz2() {
   const getRandomIndex = (): number => {
     if (usedIndexes.length === quizData.length) {
       setUsedIndexes([])
+      setCurrentQuestionNumber(1)
     }
     let index: number
     const currentUsedIndexes = usedIndexes.length === quizData.length ? [] : usedIndexes
@@ -54,7 +56,11 @@ export default function Quiz2() {
       index = Math.floor(Math.random() * quizData.length)
     } while (currentUsedIndexes.includes(index))
     
-    setUsedIndexes(prev => prev.length === quizData.length ? [index] : [...prev, index])
+    setUsedIndexes(prev => {
+      const newUsed = prev.length === quizData.length ? [index] : [...prev, index]
+      setCurrentQuestionNumber(newUsed.length)
+      return newUsed
+    })
     return index
   }
 
@@ -71,7 +77,8 @@ export default function Quiz2() {
     setShuffledChoices(shuffled)
   }
 
-  const handleAnswerClick = () => {
+  const handleAnswerClick = (e) => {
+    console.log(e);
     setShowAnswer(true)
   }
 
@@ -89,7 +96,7 @@ export default function Quiz2() {
     return (
       <div className={styles.container}>
         <div className={styles.questionContainer}>
-          <div>Chargement des questions du Quiz 2...</div>
+          <div>Chargement des questions du Quiz sur la Zootechnie...</div>
         </div>
       </div>
     )
@@ -112,7 +119,7 @@ export default function Quiz2() {
     return (
       <div className={styles.container}>
         <div className={styles.questionContainer}>
-          <div>Aucune question disponible pour le Quiz 2.</div>
+          <div>Aucune question disponible pour le Quiz sur la Zootechnie.</div>
           <Link href="../" className={styles.homeLink}>
             Retour à l'accueil
           </Link>
@@ -124,10 +131,10 @@ export default function Quiz2() {
   return (
     <div className={styles.container}>
       <div className={styles.header}>
-        <Link href="/" className={styles.homeLink}>
+        <Link href="../" className={styles.homeLink}>
           ← Retour à l'accueil
         </Link>
-        <h2 className={styles.quizTitle}>Quiz 2 - Pratique</h2>
+        <h2 className={styles.quizTitle}>Zootechnie</h2>
       </div>
       <div className={styles.questionContainer}>
         <div className={styles.question}>{currentQuestion.question}</div>
@@ -142,7 +149,7 @@ export default function Quiz2() {
                     : styles.incorrect
                   : ''
               }`}
-              onClick={handleAnswerClick}
+              onClick={(e) => handleAnswerClick(e)}
               disabled={showAnswer}
             >
               {choice.text}
@@ -178,6 +185,17 @@ export default function Quiz2() {
             Question suivante
           </button>
         )}
+      </div>
+      <div className={styles.progressContainer}>
+        <span className={styles.progressText}>
+          Question {currentQuestionNumber} / {quizData.length}
+        </span>
+        <div className={styles.progressBar}>
+          <div 
+            className={styles.progressFill}
+            style={{ width: `${(currentQuestionNumber / quizData.length) * 100}%` }}
+          ></div>
+        </div>
       </div>
     </div>
   )

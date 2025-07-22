@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react'
 import Link from 'next/link'
-import styles from './quiz.module.css';
+import styles from './quiz.module.css'
 
 interface Choice {
   text: string
@@ -12,12 +12,13 @@ interface Choice {
 interface Question {
   question: string
   choices: Choice[]
-  source: string
+  source: string | string[]
 }
 
-export default function Quiz() {
+export default function Quiz2() {
   const [quizData, setQuizData] = useState<Question[]>([])
   const [currentQuestion, setCurrentQuestion] = useState<Question | null>(null)
+  const [currentQuestionNumber, setCurrentQuestionNumber] = useState<number>(1)
   const [usedIndexes, setUsedIndexes] = useState<number[]>([])
   const [showAnswer, setShowAnswer] = useState(false)
   const [shuffledChoices, setShuffledChoices] = useState<Choice[]>([])
@@ -30,7 +31,7 @@ export default function Quiz() {
 
   const loadQuestions = async () => {
     try {
-      const response = await fetch(`${process.env.NODE_ENV === 'production' ? '/osteo-quiz' : ''}/legislation.json`)
+      const response = await fetch(`${process.env.NODE_ENV === 'production' ? '/osteo-quiz' : ''}/legislation.json`);
       if (!response.ok) {
         throw new Error('Erreur lors du chargement du fichier JSON')
       }
@@ -39,7 +40,7 @@ export default function Quiz() {
       setLoading(false)
     } catch (error) {
       console.error('Erreur:', error)
-      setError('Impossible de charger les questions.')
+      setError('Impossible de charger les questions du Quiz legislation.')
       setLoading(false)
     }
   }
@@ -47,6 +48,7 @@ export default function Quiz() {
   const getRandomIndex = (): number => {
     if (usedIndexes.length === quizData.length) {
       setUsedIndexes([])
+      setCurrentQuestionNumber(1)
     }
     let index: number
     const currentUsedIndexes = usedIndexes.length === quizData.length ? [] : usedIndexes
@@ -54,7 +56,11 @@ export default function Quiz() {
       index = Math.floor(Math.random() * quizData.length)
     } while (currentUsedIndexes.includes(index))
     
-    setUsedIndexes(prev => prev.length === quizData.length ? [index] : [...prev, index])
+    setUsedIndexes(prev => {
+      const newUsed = prev.length === quizData.length ? [index] : [...prev, index]
+      setCurrentQuestionNumber(newUsed.length)
+      return newUsed
+    })
     return index
   }
 
@@ -89,7 +95,7 @@ export default function Quiz() {
     return (
       <div className={styles.container}>
         <div className={styles.questionContainer}>
-          <div>Chargement des questions...</div>
+          <div>Chargement des questions du Quiz sur la Législation...</div>
         </div>
       </div>
     )
@@ -112,7 +118,7 @@ export default function Quiz() {
     return (
       <div className={styles.container}>
         <div className={styles.questionContainer}>
-          <div>Aucune question disponible.</div>
+          <div>Aucune question disponible pour le Quiz sur la Législation.</div>
           <Link href="../" className={styles.homeLink}>
             Retour à l'accueil
           </Link>
@@ -127,6 +133,7 @@ export default function Quiz() {
         <Link href="../" className={styles.homeLink}>
           ← Retour à l'accueil
         </Link>
+        <h2 className={styles.quizTitle}>Législation</h2>
       </div>
       <div className={styles.questionContainer}>
         <div className={styles.question}>{currentQuestion.question}</div>
@@ -150,9 +157,26 @@ export default function Quiz() {
         </div>
         {showAnswer && (
           <div className={styles.source}>
-            Source : <a href={currentQuestion.source} target="_blank" rel="noopener noreferrer">
-              {currentQuestion.source}
-            </a>
+            {Array.isArray(currentQuestion.source) ? (
+              <>
+                <strong>Sources :</strong>
+                <ul className={styles.sourceList}>
+                  {currentQuestion.source.map((src, index) => (
+                    <li key={index}>
+                      <a href={src} target="_blank" rel="noopener noreferrer">
+                        {src}
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </>
+            ) : (
+              <>
+                Source : <a href={currentQuestion.source} target="_blank" rel="noopener noreferrer">
+                  {currentQuestion.source}
+                </a>
+              </>
+            )}
           </div>
         )}
         {showAnswer && (
@@ -160,6 +184,17 @@ export default function Quiz() {
             Question suivante
           </button>
         )}
+      </div>
+      <div className={styles.progressContainer}>
+        <span className={styles.progressText}>
+          Question {currentQuestionNumber} / {quizData.length}
+        </span>
+        <div className={styles.progressBar}>
+          <div 
+            className={styles.progressFill}
+            style={{ width: `${(currentQuestionNumber / quizData.length) * 100}%` }}
+          ></div>
+        </div>
       </div>
     </div>
   )

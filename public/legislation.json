@@ -1,2603 +1,442 @@
 [
   {
-    "question": "Quelle est la principale source du droit en France ?",
+    "question": "Qui est civilement responsable des dommages causés par un animal domestique ?",
     "choices": [
-      {
-        "text": "La coutume",
-        "correct": false
-      },
-      {
-        "text": "La jurisprudence",
-        "correct": false
-      },
-      {
-        "text": "Le droit canon",
-        "correct": false
-      },
-      {
-        "text": "La doctrine",
-        "correct": false
-      },
-      {
-        "text": "La loi",
-        "correct": true
-      }
+      { "text": "Le maire de la commune", "correct": false },
+      { "text": "L’Office français de la biodiversité (OFB)", "correct": false },
+      { "text": "Le propriétaire ou celui qui s’en sert pendant qu’il est à son usage", "correct": true },
+      { "text": "Le vétérinaire traitant", "correct": false },
+      { "text": "La compagnie d’assurance uniquement", "correct": false }
     ],
-    "source": "https://www.vie-publique.fr/fiches/19520-quelles-sont-les-sources-du-droit"
+    "source": []
   },
   {
-    "question": "Que désigne le terme \"hiérarchie des normes\" ?",
+    "question": "Quel organisme tient le Registre national d’aptitude (RNA) des personnes autorisées à pratiquer l’ostéopathie animale ?",
     "choices": [
-      {
-        "text": "Le classement des lois par ordre chronologique",
-        "correct": false
-      },
-      {
-        "text": "La liste des lois abrogées",
-        "correct": false
-      },
-      {
-        "text": "Le pouvoir d'interprétation du juge",
-        "correct": false
-      },
-      {
-        "text": "Le budget alloué à chaque norme",
-        "correct": false
-      },
-      {
-        "text": "L'organisation des normes juridiques selon leur force obligatoire",
-        "correct": true
-      }
+      { "text": "Le ministère de la Santé", "correct": false },
+      { "text": "Le Conseil national de l’Ordre des vétérinaires (CNOV)", "correct": true },
+      { "text": "La LPO", "correct": false },
+      { "text": "La DGCCRF", "correct": false },
+      { "text": "Le Conseil national de l’Ordre des médecins", "correct": false }
     ],
-    "source": "https://www.vie-publique.fr/fiches/19521-la-hierarchie-des-normes-juridiques"
+    "source": []
   },
   {
-    "question": "Quelle institution élabore les lois en France ?",
+    "question": "Quelle sanction pénale maximale encoure l’exercice illégal de la médecine vétérinaire ?",
     "choices": [
-      {
-        "text": "Le Conseil d’État",
-        "correct": false
-      },
-      {
-        "text": "La Cour de cassation",
-        "correct": false
-      },
-      {
-        "text": "Le Conseil constitutionnel",
-        "correct": false
-      },
-      {
-        "text": "Le président du Sénat",
-        "correct": false
-      },
-      {
-        "text": "Le Parlement",
-        "correct": true
-      }
+      { "text": "Six mois de prison et 7 500 € d’amende", "correct": false },
+      { "text": "Un an de prison et 15 000 € d’amende", "correct": false },
+      { "text": "Deux ans de prison et 30 000 € d’amende", "correct": true },
+      { "text": "Une simple amende administrative", "correct": false },
+      { "text": "Radiation automatique du CNOV uniquement", "correct": false }
     ],
-    "source": "https://www.vie-publique.fr/fiches/19501-comment-sont-votees-les-lois"
+    "source": []
   },
   {
-    "question": "Le Code rural et de la pêche maritime contient principalement des dispositions relatives à :",
+    "question": "Pour un animal sauvage blessé appartenant à une espèce protégée, quel est le premier réflexe légal ?",
     "choices": [
-      {
-        "text": "La navigation fluviale",
-        "correct": false
-      },
-      {
-        "text": "L’importation de bois",
-        "correct": false
-      },
-      {
-        "text": "La pêche en haute mer",
-        "correct": false
-      },
-      {
-        "text": "La sécurité routière",
-        "correct": false
-      },
-      {
-        "text": "L’agriculture, l’élevage et la santé animale",
-        "correct": true
-      }
+      { "text": "Contacter un centre de sauvegarde ou l’OFB avant toute manipulation", "correct": true },
+      { "text": "Le soigner soi-même à domicile", "correct": false },
+      { "text": "Le confier directement à un éleveur", "correct": false },
+      { "text": "L’euthanasier pour abréger ses souffrances", "correct": false },
+      { "text": "Appeler la mairie pour qu’elle le conserve en captivité", "correct": false }
     ],
-    "source": "https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006071367/"
+    "source": []
   },
   {
-    "question": "Quelle est la fonction du Conseil d’État ?",
+    "question": "Parmi les missions légales du CNOV, laquelle fait partie de son « rôle disciplinaire » ?",
     "choices": [
-      {
-        "text": "Voter les lois",
-        "correct": false
-      },
-      {
-        "text": "Délivrer les diplômes vétérinaires",
-        "correct": false
-      },
-      {
-        "text": "Représenter les citoyens",
-        "correct": false
-      },
-      {
-        "text": "Appliquer les décisions judiciaires",
-        "correct": false
-      },
-      {
-        "text": "Conseiller le gouvernement et juger les litiges administratifs",
-        "correct": true
-      }
+      { "text": "Fixer les tarifs des actes vétérinaires", "correct": false },
+      { "text": "Attribuer les DOTations en médicaments", "correct": false },
+      { "text": "Sanctionner les manquements au Code de déontologie", "correct": true },
+      { "text": "Gérer les régimes de retraite des vétérinaires", "correct": false },
+      { "text": "Contrôler l’importation d’animaux exotiques", "correct": false }
     ],
-    "source": "https://www.conseil-etat.fr"
+    "source": []
   },
   {
-    "question": "Que signifie \"jurisprudence\" ?",
+    "question": "Le secret professionnel vétérinaire peut être levé sans consentement du client lorsqu’il s’agit :",
     "choices": [
-      {
-        "text": "Une loi votée récemment",
-        "correct": false
-      },
-      {
-        "text": "Un projet de loi",
-        "correct": false
-      },
-      {
-        "text": "Une convention entre États",
-        "correct": false
-      },
-      {
-        "text": "Une décision rendue par un juge",
-        "correct": false
-      },
-      {
-        "text": "L’ensemble des décisions rendues par les juridictions",
-        "correct": true
-      }
+      { "text": "D’un désaccord financier sur les honoraires", "correct": false },
+      { "text": "D’un changement de vétérinaire traitant", "correct": false },
+      { "text": "D’une demande d’une association de protection animale", "correct": false },
+      { "text": "D’un cas de maltraitance grave à signaler aux autorités compétentes", "correct": true },
+      { "text": "D’un souhait de l’éleveur voisin", "correct": false }
     ],
-    "source": "https://www.vie-publique.fr/fiches/19520-quelles-sont-les-sources-du-droit"
+    "source": []
   },
   {
-    "question": "Quel texte a une valeur supérieure à la loi ?",
+    "question": "Quel article définit les actes de médecine et de chirurgie vétérinaires réservés ?",
     "choices": [
-      {
-        "text": "Un arrêté municipal",
-        "correct": false
-      },
-      {
-        "text": "Une circulaire",
-        "correct": false
-      },
-      {
-        "text": "Un décret",
-        "correct": false
-      },
-      {
-        "text": "Un règlement européen",
-        "correct": false
-      },
-      {
-        "text": "La Constitution",
-        "correct": true
-      }
+      { "text": "Article R242-44 du CRPM", "correct": false },
+      { "text": "Article L243-1 du Code rural et de la pêche maritime", "correct": true },
+      { "text": "Article 515-14 du Code civil", "correct": false },
+      { "text": "Article L211-19-1 du Code rural", "correct": false },
+      { "text": "Article R243-8 du CRPM", "correct": false }
     ],
-    "source": "https://www.conseil-constitutionnel.fr"
+    "source": []
   },
   {
-    "question": "Une ordonnance est :",
+    "question": "Un vétérinaire non ressortissant de l’UE peut exercer en France :",
     "choices": [
-      {
-        "text": "Une loi votée par le Sénat",
-        "correct": false
-      },
-      {
-        "text": "Une décision rendue par un juge",
-        "correct": false
-      },
-      {
-        "text": "Une décision du président",
-        "correct": false
-      },
-      {
-        "text": "Un arrêté préfectoral",
-        "correct": false
-      },
-      {
-        "text": "Un acte pris par le gouvernement avec autorisation du Parlement",
-        "correct": true
-      }
+      { "text": "En cabinet privé après simple déclaration", "correct": false },
+      { "text": "Comme salarié d’une clinique rurale", "correct": false },
+      { "text": "Uniquement dans le cadre des écoles vétérinaires nationales", "correct": true },
+      { "text": "Sans restriction après trois ans de résidence", "correct": false },
+      { "text": "S’il possède un diplôme d’un pays tiers homologué par l’OIE", "correct": false }
     ],
-    "source": "https://www.vie-publique.fr/fiches/19506-quelle-est-la-difference-entre-loi-et-ordonnance"
+    "source": []
   },
   {
-    "question": "Quel rôle joue la Cour de cassation ?",
+    "question": "Quelle règle de déontologie interdit la collusion commerciale entre vétérinaires et tiers ?",
     "choices": [
-      {
-        "text": "Créer de nouvelles lois",
-        "correct": false
-      },
-      {
-        "text": "Statuer sur la constitutionnalité des lois",
-        "correct": false
-      },
-      {
-        "text": "Approuver les budgets ministériels",
-        "correct": false
-      },
-      {
-        "text": "Représenter les avocats",
-        "correct": false
-      },
-      {
-        "text": "Contrôler la bonne application du droit par les juridictions inférieures",
-        "correct": true
-      }
+      { "text": "Le devoir d’actualisation des connaissances", "correct": false },
+      { "text": "L’obligation d’assurance", "correct": false },
+      { "text": "L’interdiction du compérage", "correct": true },
+      { "text": "Le principe de permanence des soins", "correct": false },
+      { "text": "Le devoir de conseil vaccinal", "correct": false }
     ],
-    "source": "https://www.courdecassation.fr"
+    "source": []
   },
   {
-    "question": "Le droit européen est :",
+    "question": "Qui doit assurer la permanence et la continuité des soins vétérinaires dans une zone donnée ?",
     "choices": [
-      {
-        "text": "Supérieur uniquement aux arrêtés préfectoraux",
-        "correct": false
-      },
-      {
-        "text": "Subordonné au Code civil",
-        "correct": false
-      },
-      {
-        "text": "Non applicable sans ratification du président",
-        "correct": false
-      },
-      {
-        "text": "Utilisé uniquement en Alsace-Moselle",
-        "correct": false
-      },
-      {
-        "text": "Supérieur à la loi nationale",
-        "correct": true
-      }
+      { "text": "La commune", "correct": false },
+      { "text": "L’ARS", "correct": false },
+      { "text": "La DDPP", "correct": false },
+      { "text": "Les vétérinaires exerçant dans la zone, selon les modalités fixées par le CROV", "correct": true },
+      { "text": "Les pompiers", "correct": false }
     ],
-    "source": "https://eur-lex.europa.eu"
+    "source": []
   },
   {
-    "question": "Qu’est-ce qu’un décret ?",
+    "question": "L’administration de médicaments à usage humain à un animal par un vétérinaire est :",
     "choices": [
-      {
-        "text": "Une proposition de loi du Sénat",
-        "correct": false
-      },
-      {
-        "text": "Un avis du Conseil constitutionnel",
-        "correct": false
-      },
-      {
-        "text": "Une convention internationale",
-        "correct": false
-      },
-      {
-        "text": "Un texte sans valeur juridique",
-        "correct": false
-      },
-      {
-        "text": "Une norme édictée par le pouvoir exécutif",
-        "correct": true
-      }
+      { "text": "Toujours autorisée", "correct": false },
+      { "text": "Interdite sauf dérogation prévue par le Code de déontologie", "correct": true },
+      { "text": "Libre si l’éleveur y consent", "correct": false },
+      { "text": "Décidée par le pharmacien", "correct": false },
+      { "text": "Possible pour les animaux de rente seulement", "correct": false }
     ],
-    "source": "https://www.vie-publique.fr/fiches/19509-decret"
+    "source": []
   },
   {
-    "question": "Une loi entre en vigueur lorsqu’elle est :",
+    "question": "À quelle fréquence un vétérinaire doit-il actualiser ses connaissances professionnelles ?",
     "choices": [
-      {
-        "text": "Votée par l’Assemblée nationale uniquement",
-        "correct": false
-      },
-      {
-        "text": "Lue au Journal Officiel",
-        "correct": false
-      },
-      {
-        "text": "Proposée au Conseil d’État",
-        "correct": false
-      },
-      {
-        "text": "Signée par le président du Sénat",
-        "correct": false
-      },
-      {
-        "text": "Publiée au Journal Officiel",
-        "correct": true
-      }
+      { "text": "Une fois dans sa carrière", "correct": false },
+      { "text": "Tous les dix ans", "correct": false },
+      { "text": "De manière continue tout au long de l’exercice", "correct": true },
+      { "text": "Uniquement sur demande du CNOV", "correct": false },
+      { "text": "Jamais, s’il est diplômé avant 2000", "correct": false }
     ],
-    "source": "https://www.legifrance.gouv.fr"
+    "source": []
   },
   {
-    "question": "Qu’est-ce que le pouvoir réglementaire ?",
+    "question": "La vaccination antirabique par le propriétaire lui-même est considérée comme :",
     "choices": [
-      {
-        "text": "Le pouvoir de contrôler les juges",
-        "correct": false
-      },
-      {
-        "text": "Le pouvoir d’amender la Constitution",
-        "correct": false
-      },
-      {
-        "text": "Le pouvoir de censurer des lois",
-        "correct": false
-      },
-      {
-        "text": "Le pouvoir de créer les partis politiques",
-        "correct": false
-      },
-      {
-        "text": "Le pouvoir de prendre des actes juridiques pour appliquer les lois",
-        "correct": true
-      }
+      { "text": "Un acte d’usage courant autorisé", "correct": false },
+      { "text": "Un exercice illégal de la médecine vétérinaire", "correct": true },
+      { "text": "Une pratique tolérée par l’OFB", "correct": false },
+      { "text": "Obligatoire en élevage bovin", "correct": false },
+      { "text": "Un acte pharmaceutique non vétérinaire", "correct": false }
     ],
-    "source": "https://www.vie-publique.fr/fiches/19508-pouvoir-reglementaire"
+    "source": []
   },
   {
-    "question": "Le droit administratif concerne :",
+    "question": "Le Code de déontologie vétérinaire est :",
     "choices": [
-      {
-        "text": "Les affaires internationales",
-        "correct": false
-      },
-      {
-        "text": "Le droit des entreprises",
-        "correct": false
-      },
-      {
-        "text": "Le droit pénal",
-        "correct": false
-      },
-      {
-        "text": "Le droit du travail",
-        "correct": false
-      },
-      {
-        "text": "Les relations entre les particuliers et les administrations",
-        "correct": true
-      }
+      { "text": "Une recommandation sans valeur juridique", "correct": false },
+      { "text": "Un décret en Conseil d’État", "correct": true },
+      { "text": "Une circulaire ministérielle", "correct": false },
+      { "text": "Un arrêté préfectoral", "correct": false },
+      { "text": "Un guide pratique facultatif", "correct": false }
     ],
-    "source": "https://www.conseil-etat.fr"
+    "source": []
   },
   {
-    "question": "Qui peut déposer une proposition de loi ?",
+    "question": "Quel organisme est compétent pour gérer les animaux sauvages trouvés morts sur la voie publique ?",
     "choices": [
-      {
-        "text": "Un juge administratif",
-        "correct": false
-      },
-      {
-        "text": "Un préfet",
-        "correct": false
-      },
-      {
-        "text": "Un vétérinaire",
-        "correct": false
-      },
-      {
-        "text": "Un président de tribunal",
-        "correct": false
-      },
-      {
-        "text": "Un député ou un sénateur",
-        "correct": true
-      }
+      { "text": "La mairie ou les services routiers désignés", "correct": true },
+      { "text": "Le CNOV", "correct": false },
+      { "text": "Le vétérinaire traitant le plus proche", "correct": false },
+      { "text": "La DDPP uniquement", "correct": false },
+      { "text": "Le centre de sauvegarde local", "correct": false }
     ],
-    "source": "https://www.assemblee-nationale.fr"
+    "source": []
   },
   {
-    "question": "La légalité d’un acte administratif peut être contrôlée par :",
+    "question": "L’article L214-1 du Code rural interdit :",
     "choices": [
-      {
-        "text": "La Cour européenne des droits de l’homme",
-        "correct": false
-      },
-      {
-        "text": "Le Conseil de l’ordre des vétérinaires",
-        "correct": false
-      },
-      {
-        "text": "La préfecture",
-        "correct": false
-      },
-      {
-        "text": "L’Ordre des médecins",
-        "correct": false
-      },
-      {
-        "text": "Le juge administratif",
-        "correct": true
-      }
+      { "text": "La vente d’animaux domestiques", "correct": false },
+      { "text": "Les mauvais traitements envers les animaux domestiques ou sauvages apprivoisés", "correct": true },
+      { "text": "Le transport d’animaux de compagnie en voiture", "correct": false },
+      { "text": "La détention d’oiseaux exotiques", "correct": false },
+      { "text": "La possession de reptiles", "correct": false }
     ],
-    "source": "https://www.conseil-etat.fr"
+    "source": []
   },
   {
-    "question": "En droit, une \"circulaire\" est :",
+    "question": "Le propriétaire d’un cabinet doit déclarer au CROV :",
     "choices": [
-      {
-        "text": "Une loi contraignante",
-        "correct": false
-      },
-      {
-        "text": "Un décret présidentiel",
-        "correct": false
-      },
-      {
-        "text": "Un texte de droit européen",
-        "correct": false
-      },
-      {
-        "text": "Un jugement",
-        "correct": false
-      },
-      {
-        "text": "Une instruction sans valeur contraignante émanant d’une autorité administrative",
-        "correct": true
-      }
+      { "text": "Uniquement les changements de tarifs", "correct": false },
+      { "text": "Tout nouveau contrat de collaboration vétérinaire", "correct": true },
+      { "text": "La liste de ses clients", "correct": false },
+      { "text": "Ses stocks de vaccins", "correct": false },
+      { "text": "Ses jours de congés", "correct": false }
     ],
-    "source": "https://www.vie-publique.fr/fiches/19507-circulaire"
+    "source": []
   },
   {
-    "question": "Qu’est-ce qu’un arrêté ?",
+    "question": "Quelle obligation s’impose au vétérinaire concernant l’antibiorésistance ?",
     "choices": [
-      {
-        "text": "Une loi adoptée par le Parlement",
-        "correct": false
-      },
-      {
-        "text": "Un contrat",
-        "correct": false
-      },
-      {
-        "text": "Une procédure judiciaire",
-        "correct": false
-      },
-      {
-        "text": "Une décision de l’UE",
-        "correct": false
-      },
-      {
-        "text": "Un acte administratif pris par une autorité exécutive",
-        "correct": true
-      }
+      { "text": "Aucune, c’est du ressort du pharmacien", "correct": false },
+      { "text": "Prendre en compte les conséquences de son activité sur la santé publique et limiter les antibiotiques", "correct": true },
+      { "text": "Ne jamais prescrire d’antibiotiques à large spectre", "correct": false },
+      { "text": "Informer l’ARS de chaque ordonnance", "correct": false },
+      { "text": "Prescrire les antibiotiques les moins chers", "correct": false }
     ],
-    "source": "https://www.legifrance.gouv.fr"
+    "source": []
   },
   {
-    "question": "Qui vérifie la conformité des lois à la Constitution ?",
+    "question": "Une société commerciale peut-elle détenir des parts majoritaires d’une clinique vétérinaire ?",
     "choices": [
-      {
-        "text": "Le Conseil d’État",
-        "correct": false
-      },
-      {
-        "text": "L’Assemblée nationale",
-        "correct": false
-      },
-      {
-        "text": "Le président de la République",
-        "correct": false
-      },
-      {
-        "text": "La Cour de cassation",
-        "correct": false
-      },
-      {
-        "text": "Le Conseil constitutionnel",
-        "correct": true
-      }
+      { "text": "Oui, sans condition", "correct": false },
+      { "text": "Oui, si elle répond aux conditions des sociétés d’exercice vétérinaire prévues à l’article L241-17", "correct": true },
+      { "text": "Non, c’est strictement interdit", "correct": false },
+      { "text": "Seulement pour les pharmacies vétérinaires", "correct": false },
+      { "text": "Uniquement si le préfet l’autorise", "correct": false }
     ],
-    "source": "https://www.conseil-constitutionnel.fr"
+    "source": []
   },
   {
-    "question": "Que représente le Journal Officiel (JO) ?",
+    "question": "Le maire est tenu de prendre des mesures contre :",
     "choices": [
-      {
-        "text": "Un journal de débat parlementaire",
-        "correct": false
-      },
-      {
-        "text": "Une revue juridique privée",
-        "correct": false
-      },
-      {
-        "text": "Une lettre d’information de la Cour de cassation",
-        "correct": false
-      },
-      {
-        "text": "Une base de jurisprudence",
-        "correct": false
-      },
-      {
-        "text": "Le recueil officiel des textes législatifs et réglementaires",
-        "correct": true
-      }
+      { "text": "Les chiens tenus en laisse", "correct": false },
+      { "text": "Les chats domestiques", "correct": false },
+      { "text": "La divagation d’animaux errants sur la voie publique", "correct": true },
+      { "text": "Les centres de soins faune sauvage", "correct": false },
+      { "text": "Les cliniques vétérinaires de garde", "correct": false }
     ],
-    "source": "https://www.legifrance.gouv.fr/dossier_lg.php?pag=1&rubrique=JO"
+    "source": []
   },
-  
   {
-    "question": "Pour exercer légalement en tant qu’ostéopathe animalier en France, il faut :",
+    "question": "Quel texte encadre les règles déontologiques des ostéopathes animaliers non vétérinaires ?",
     "choices": [
-      {
-        "text": "Être titulaire d’un bac +3",
-        "correct": false
-      },
-      {
-        "text": "Être diplômé de médecine humaine",
-        "correct": false
-      },
-      {
-        "text": "Être inscrit à la MSA",
-        "correct": false
-      },
-      {
-        "text": "Avoir une formation en kinésithérapie animale",
-        "correct": false
-      },
-      {
-        "text": "Être inscrit sur la liste tenue par l’Ordre des vétérinaires",
-        "correct": true
-      }
+      { "text": "Décret n° 2017-572 (articles R243-8 à R243-11)", "correct": true },
+      { "text": "Ordonnance n° 2011-78 uniquement", "correct": false },
+      { "text": "Code civil article 1243", "correct": false },
+      { "text": "Convention collective agricole", "correct": false },
+      { "text": "Arrêté préfectoral annuel", "correct": false }
     ],
-    "source": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043507681"
+    "source": []
   },
   {
-    "question": "Quel organisme est en charge de la validation des compétences pour la pratique de l’ostéopathie animale ?",
+    "question": "L’interdiction pour un vétérinaire de couvrir de son titre un non-vétérinaire figure dans :",
     "choices": [
-      {
-        "text": "L’Ordre des médecins",
-        "correct": false
-      },
-      {
-        "text": "La Direction générale de la santé",
-        "correct": false
-      },
-      {
-        "text": "Le Ministère de l’Éducation nationale",
-        "correct": false
-      },
-      {
-        "text": "L’Ordre des ostéopathes humains",
-        "correct": false
-      },
-      {
-        "text": "Le Conseil national de l’ordre des vétérinaires (CNOV)",
-        "correct": true
-      }
+      { "text": "Le Code de déontologie vétérinaire", "correct": true },
+      { "text": "Le Code pénal", "correct": false },
+      { "text": "Le Code des assurances", "correct": false },
+      { "text": "Le règlement intérieur du CNOV", "correct": false },
+      { "text": "La charte LPO", "correct": false }
     ],
-    "source": "https://www.veterinaire.fr"
+    "source": []
   },
   {
-    "question": "L’exercice de l’ostéopathie animale est autorisé :",
+    "question": "Quelle entité est chargée d’élaborer le projet de Code de déontologie avant son approbation par le Conseil d’État ?",
     "choices": [
-      {
-        "text": "En accès libre pour tous les diplômés en ostéopathie humaine",
-        "correct": false
-      },
-      {
-        "text": "À condition d’être auxiliaire vétérinaire",
-        "correct": false
-      },
-      {
-        "text": "Uniquement en présence d’un vétérinaire",
-        "correct": false
-      },
-      {
-        "text": "Dans le cadre de stages bénévoles",
-        "correct": false
-      },
-      {
-        "text": "Sous conditions strictes et encadré par le Code rural",
-        "correct": true
-      }
+      { "text": "Le Sénat", "correct": false },
+      { "text": "Le CNOV", "correct": true },
+      { "text": "Le Conseil économique et social", "correct": false },
+      { "text": "Les CROV réunis en assemblée", "correct": false },
+      { "text": "La Cour de cassation", "correct": false }
     ],
-    "source": "https://www.legifrance.gouv.fr"
+    "source": []
   },
   {
-    "question": "Le décret du 19 avril 2017 précise :",
+    "question": "Le vétérinaire peut être exonéré de responsabilité du fait des animaux qu’il soigne :",
     "choices": [
-      {
-        "text": "Les modalités de facturation des vétérinaires",
-        "correct": false
-      },
-      {
-        "text": "Le statut juridique de l’Ordre des vétérinaires",
-        "correct": false
-      },
-      {
-        "text": "L’interdiction de manipuler des bovins",
-        "correct": false
-      },
-      {
-        "text": "Les limites de l’ostéopathie humaine",
-        "correct": false
-      },
-      {
-        "text": "Les actes pouvant être réalisés par un ostéopathe animalier",
-        "correct": true
-      }
+      { "text": "S’il n’en a pas la garde au moment du dommage", "correct": true },
+      { "text": "Jamais, il est toujours responsable", "correct": false },
+      { "text": "Uniquement pour les animaux sauvages", "correct": false },
+      { "text": "S’il est salarié", "correct": false },
+      { "text": "S’il a averti le propriétaire par écrit", "correct": false }
     ],
-    "source": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000034440975"
+    "source": []
   },
   {
-    "question": "Pour s’inscrire sur la liste des personnes autorisées à pratiquer l’ostéopathie animale, il faut :",
+    "question": "Quelle structure peut recueillir légalement un hérisson blessé ?",
     "choices": [
-      {
-        "text": "Détenir uniquement un certificat de scolarité",
-        "correct": false
-      },
-      {
-        "text": "Avoir 5 ans d’expérience en cabinet vétérinaire",
-        "correct": false
-      },
-      {
-        "text": "Être membre d’une association professionnelle",
-        "correct": false
-      },
-      {
-        "text": "Avoir une autorisation municipale",
-        "correct": false
-      },
-      {
-        "text": "Réussir une épreuve d’aptitude organisée par le CNOV",
-        "correct": true
-      }
+      { "text": "Tout particulier bienveillant", "correct": false },
+      { "text": "Un centre de sauvegarde de la faune sauvage agréé", "correct": true },
+      { "text": "Une clinique vétérinaire pour animaux de rente uniquement", "correct": false },
+      { "text": "La mairie après autorisation du préfet", "correct": false },
+      { "text": "Une association non déclarée", "correct": false }
     ],
-    "source": "https://www.veterinaire.fr/osteopathie-animale.html"
+    "source": []
   },
   {
-    "question": "Le non-respect des règles d’exercice de l’ostéopathie animale peut entraîner :",
+    "question": "Le vétérinaire doit refuser d’exercer si :",
     "choices": [
-      {
-        "text": "Une amende sans poursuite",
-        "correct": false
-      },
-      {
-        "text": "Une simple réprimande",
-        "correct": false
-      },
-      {
-        "text": "Une mise à pied administrative",
-        "correct": false
-      },
-      {
-        "text": "Une annulation automatique du diplôme",
-        "correct": false
-      },
-      {
-        "text": "Des sanctions pénales pour exercice illégal de la médecine vétérinaire",
-        "correct": true
-      }
+      { "text": "Le client refuse de payer d’avance", "correct": false },
+      { "text": "L’acte demandé est trop simple", "correct": false },
+      { "text": "Les conditions compromettent la qualité des actes et la sécurité", "correct": true },
+      { "text": "Le client vient d’un autre département", "correct": false },
+      { "text": "L’animal est non vacciné", "correct": false }
     ],
-    "source": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043507681"
+    "source": []
   },
   {
-    "question": "Les actes d’ostéopathie animale sont considérés comme :",
+    "question": "Qui fixe librement le montant des honoraires vétérinaires ?",
     "choices": [
-      {
-        "text": "Des soins de confort assimilés à la kinésithérapie",
-        "correct": false
-      },
-      {
-        "text": "Des pratiques alternatives non réglementées",
-        "correct": false
-      },
-      {
-        "text": "Des massages équins",
-        "correct": false
-      },
-      {
-        "text": "Des actes de bien-être animal",
-        "correct": false
-      },
-      {
-        "text": "Des actes relevant de la médecine vétérinaire",
-        "correct": true
-      }
+      { "text": "Le vétérinaire lui-même dans le cadre de la liberté de prescription", "correct": true },
+      { "text": "Le CNOV", "correct": false },
+      { "text": "La DGCCRF", "correct": false },
+      { "text": "Le préfet", "correct": false },
+      { "text": "L’Ordre des médecins", "correct": false }
     ],
-    "source": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043507681"
+    "source": []
   },
   {
-    "question": "Le titre d’ostéopathe animalier :",
+    "question": "L’Ordre des vétérinaires participe à la surveillance de :",
     "choices": [
-      {
-        "text": "Est réservé aux vétérinaires uniquement",
-        "correct": false
-      },
-      {
-        "text": "Peut être librement utilisé sans contrôle",
-        "correct": false
-      },
-      {
-        "text": "Est octroyé par le rectorat",
-        "correct": false
-      },
-      {
-        "text": "Est reconnu par le Code du travail",
-        "correct": false
-      },
-      {
-        "text": "N’est pas protégé, mais la pratique est encadrée",
-        "correct": true
-      }
+      { "text": "La météorologie agricole", "correct": false },
+      { "text": "La démographie de la profession à travers un observatoire national", "correct": true },
+      { "text": "La qualité des aliments pour chiens", "correct": false },
+      { "text": "La consommation des ménages", "correct": false },
+      { "text": "Les importations de chevaux de course", "correct": false }
     ],
-    "source": "https://www.veterinaire.fr/osteopathie-animale.html"
+    "source": []
   },
   {
-    "question": "La liste des ostéopathes animaliers autorisés est tenue par :",
+    "question": "La détention d’un animal sauvage protégé sans autorisation peut entraîner jusqu’à :",
     "choices": [
-      {
-        "text": "La MSA",
-        "correct": false
-      },
-      {
-        "text": "L’Ordre des ostéopathes",
-        "correct": false
-      },
-      {
-        "text": "La préfecture",
-        "correct": false
-      },
-      {
-        "text": "L’URSSAF",
-        "correct": false
-      },
-      {
-        "text": "Le CNOV",
-        "correct": true
-      }
+      { "text": "150 000 € d’amende et 3 ans d’emprisonnement", "correct": true },
+      { "text": "1 000 € d’amende", "correct": false },
+      { "text": "Une contravention de 5ᵉ classe", "correct": false },
+      { "text": "Une simple mise en demeure", "correct": false },
+      { "text": "Aucune sanction en cas de soins bénévoles", "correct": false }
     ],
-    "source": "https://www.veterinaire.fr/osteopathie-animale.html"
+    "source": []
   },
   {
-    "question": "Une personne non inscrite sur la liste du CNOV effectuant un acte d’ostéopathie animale risque :",
+    "question": "Lorsque plusieurs vétérinaires collaborent libéralement au sein d’un même domicile professionnel, ils doivent :",
     "choices": [
-      {
-        "text": "Une simple réprimande",
-        "correct": false
-      },
-      {
-        "text": "Une demande de régularisation rétroactive",
-        "correct": false
-      },
-      {
-        "text": "Une suspension de diplôme",
-        "correct": false
-      },
-      {
-        "text": "Une interdiction temporaire",
-        "correct": false
-      },
-      {
-        "text": "Une condamnation pour exercice illégal",
-        "correct": true
-      }
+      { "text": "Travailler sous contrat oral", "correct": false },
+      { "text": "Transmettre leurs contrats au CROV pour contrôle déontologique", "correct": true },
+      { "text": "Obtenir l’accord de la DDPP", "correct": false },
+      { "text": "Faire valider les contrats par un notaire", "correct": false },
+      { "text": "Publier les contrats au Journal officiel", "correct": false }
     ],
-    "source": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043507681"
+    "source": []
   },
   {
-    "question": "Peut-on manipuler un animal à titre ostéopathique sans prescription vétérinaire ?",
+    "question": "La prescription vétérinaire doit être rédigée :",
     "choices": [
-      {
-        "text": "Non, jamais sans ordonnance",
-        "correct": false
-      },
-      {
-        "text": "Oui, à condition de prévenir un vétérinaire",
-        "correct": false
-      },
-      {
-        "text": "Oui, pour les animaux domestiques uniquement",
-        "correct": false
-      },
-      {
-        "text": "Non, sauf en cas d’urgence",
-        "correct": false
-      },
-      {
-        "text": "Oui, si on est inscrit sur la liste CNOV et que l’animal ne présente aucun symptôme pathologique",
-        "correct": true
-      }
+      { "text": "De manière appropriée au cas considéré et respecter les exigences légales", "correct": true },
+      { "text": "Uniquement en fonction du prix des médicaments", "correct": false },
+      { "text": "Toujours pour 6 mois minimum", "correct": false },
+      { "text": "Sans mention de l’espèce", "correct": false },
+      { "text": "Sur papier libre sans signature", "correct": false }
     ],
-    "source": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000034440975"
+    "source": []
   },
   {
-    "question": "Quelle obligation légale concerne le dossier de suivi d’un animal manipulé ?",
+    "question": "En cas de divergence d’opinion sur un diagnostic entre deux vétérinaires, le Code de déontologie impose :",
     "choices": [
-      {
-        "text": "L’envoyer au vétérinaire traitant",
-        "correct": false
-      },
-      {
-        "text": "Le conserver en mairie",
-        "correct": false
-      },
-      {
-        "text": "L’archiver à la DDETSPP",
-        "correct": false
-      },
-      {
-        "text": "Le publier sur demande du CNOV",
-        "correct": false
-      },
-      {
-        "text": "Tenir un registre des actes d’ostéopathie",
-        "correct": true
-      }
+      { "text": "La saisine immédiate du tribunal", "correct": false },
+      { "text": "L’intervention de l’ARS", "correct": false },
+      { "text": "Le respect mutuel et l’échange constructif d’informations", "correct": true },
+      { "text": "Le signalement au CNOV dans les 24 h", "correct": false },
+      { "text": "La désignation d’un tiers arbitre par le client", "correct": false }
     ],
-    "source": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000034440990"
+    "source": []
   },
   {
-    "question": "Le champ d’intervention d’un ostéopathe animalier se limite :",
+    "question": "Tout vétérinaire doit posséder une assurance :",
     "choices": [
-      {
-        "text": "Aux chevaux uniquement",
-        "correct": false
-      },
-      {
-        "text": "Aux animaux d’élevage exclusivement",
-        "correct": false
-      },
-      {
-        "text": "Aux animaux suivis par un vétérinaire",
-        "correct": false
-      },
-      {
-        "text": "Aux animaux domestiques",
-        "correct": false
-      },
-      {
-        "text": "Aux actes définis comme ne nécessitant pas de diagnostic médical",
-        "correct": true
-      }
+      { "text": "Responsabilité civile professionnelle", "correct": true },
+      { "text": "Accidents de la route", "correct": false },
+      { "text": "Perte d’exploitation obligatoire", "correct": false },
+      { "text": "Vie privée", "correct": false },
+      { "text": "Multirisque habitation", "correct": false }
     ],
-    "source": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000034440975"
+    "source": []
   },
   {
-    "question": "Le diagnostic vétérinaire :",
+    "question": "Les actes d’ostéopathie animale autorisés aux non-vétérinaires sont limités à :",
     "choices": [
-      {
-        "text": "Peut être réalisé par un ostéopathe animalier diplômé",
-        "correct": false
-      },
-      {
-        "text": "Est obligatoire uniquement en élevage",
-        "correct": false
-      },
-      {
-        "text": "Est autorisé pour les NAC",
-        "correct": false
-      },
-      {
-        "text": "Est réservé au CNOV",
-        "correct": false
-      },
-      {
-        "text": "Ne peut être posé que par un vétérinaire",
-        "correct": true
-      }
+      { "text": "Toutes les manipulations invasives", "correct": false },
+      { "text": "Manipulations et mobilisations non instrumentales, directes et indirectes, non forcées", "correct": true },
+      { "text": "Injections intra-articulaires", "correct": false },
+      { "text": "Chirurgie mineure", "correct": false },
+      { "text": "Vaccination sublinguale", "correct": false }
     ],
-    "source": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043507681"
+    "source": []
   },
   {
-    "question": "Le respect du bien-être animal dans la pratique ostéopathique est encadré par :",
+    "question": "Un vétérinaire peut faire de la publicité :",
     "choices": [
-      {
-        "text": "Le Code civil",
-        "correct": false
-      },
-      {
-        "text": "Le Code du travail",
-        "correct": false
-      },
-      {
-        "text": "Le règlement intérieur des écoles",
-        "correct": false
-      },
-      {
-        "text": "Le Code de la santé publique",
-        "correct": false
-      },
-      {
-        "text": "Le Code rural",
-        "correct": true
-      }
+      { "text": "Comparative envers ses confrères", "correct": false },
+      { "text": "Sous réserve de rester loyale et non trompeuse", "correct": true },
+      { "text": "En vantant des remèdes miracles", "correct": false },
+      { "text": "En critiquant publiquement un confrère", "correct": false },
+      { "text": "Sans aucune limite légale", "correct": false }
     ],
-    "source": "https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006071367/"
+    "source": []
   },
   {
-    "question": "Le titre professionnel d’ostéopathe animalier est :",
+    "question": "Qui décide de la suspension temporaire du droit d’exercer pour un vétérinaire ?",
     "choices": [
-      {
-        "text": "Un diplôme d’État",
-        "correct": false
-      },
-      {
-        "text": "Obligatoire pour exercer",
-        "correct": false
-      },
-      {
-        "text": "Délivré par le CNOV",
-        "correct": false
-      },
-      {
-        "text": "Inscrit au RNCP niveau 7",
-        "correct": false
-      },
-      {
-        "text": "Un titre non reconnu par l’État mais encadré par la réglementation vétérinaire",
-        "correct": true
-      }
+      { "text": "Le ministre de l’Intérieur", "correct": false },
+      { "text": "L’OFB", "correct": false },
+      { "text": "La chambre de discipline de l’Ordre des vétérinaires", "correct": true },
+      { "text": "Le pharmacien inspecteur", "correct": false },
+      { "text": "Le propriétaire de la clinique", "correct": false }
     ],
-    "source": "https://www.veterinaire.fr/osteopathie-animale.html"
+    "source": []
   },
   {
-    "question": "L’inscription sur la liste CNOV est :",
+    "question": "La notion d’« animal en détresse » permet :",
     "choices": [
-      {
-        "text": "Facultative si on a un diplôme en ostéopathie humaine",
-        "correct": false
-      },
-      {
-        "text": "Soumise au nombre d’heures de stage",
-        "correct": false
-      },
-      {
-        "text": "Nécessaire uniquement pour les animaux de rente",
-        "correct": false
-      },
-      {
-        "text": "Remplaçable par une assurance professionnelle",
-        "correct": false
-      },
-      {
-        "text": "Obligatoire pour pratiquer légalement l’ostéopathie animale",
-        "correct": true
-      }
+      { "text": "De garder un animal sauvage chez soi à long terme", "correct": false },
+      { "text": "De transporter un animal sauvage blessé vers un centre de soins sans autorisation préalable", "correct": true },
+      { "text": "De le vendre à un zoo", "correct": false },
+      { "text": "D’effacer toute poursuite pour détention illégale", "correct": false },
+      { "text": "De l’intégrer immédiatement dans un élevage", "correct": false }
     ],
-    "source": "https://www.veterinaire.fr/osteopathie-animale.html"
+    "source": []
   },
   {
-    "question": "Peut-on pratiquer l’ostéopathie animale en tant qu’auto-entrepreneur ?",
+    "question": "Le Code de déontologie impose au vétérinaire de respecter l’environnement :",
     "choices": [
-      {
-        "text": "Non, uniquement sous statut libéral",
-        "correct": false
-      },
-      {
-        "text": "Non, sauf en tant que salarié",
-        "correct": false
-      },
-      {
-        "text": "Oui, sans condition particulière",
-        "correct": false
-      },
-      {
-        "text": "Oui, si l’on exerce bénévolement",
-        "correct": false
-      },
-      {
-        "text": "Oui, si l’on est inscrit sur la liste CNOV",
-        "correct": true
-      }
+      { "text": "Uniquement dans les zones Natura 2000", "correct": false },
+      { "text": "Dans l’ensemble de son activité professionnelle", "correct": true },
+      { "text": "S’il exerce en faune sauvage", "correct": false },
+      { "text": "Jamais, ce n’est pas mentionné", "correct": false },
+      { "text": "Seulement en élevage intensif", "correct": false }
     ],
-    "source": "https://www.veterinaire.fr/osteopathie-animale.html"
+    "source": []
   },
   {
-    "question": "Les écoles privées formant à l’ostéopathie animale :",
+    "question": "En cas d’urgence vitale et d’absence de vétérinaire disponible, un éleveur peut pratiquer :",
     "choices": [
-      {
-        "text": "Sont toutes reconnues par l’Éducation nationale",
-        "correct": false
-      },
-      {
-        "text": "Ouvrent droit à une validation automatique par le CNOV",
-        "correct": false
-      },
-      {
-        "text": "Dépendent du Ministère de la Santé",
-        "correct": false
-      },
-      {
-        "text": "Sont gratuites",
-        "correct": false
-      },
-      {
-        "text": "Ne délivrent pas de diplôme d’État",
-        "correct": true
-      }
+      { "text": "Une césarienne", "correct": false },
+      { "text": "Une vaccination complexe", "correct": false },
+      { "text": "Des soins d’usage courant définis par dérogation", "correct": true },
+      { "text": "Un diagnostic radiographique", "correct": false },
+      { "text": "L’administration d’un anesthésique général", "correct": false }
     ],
-    "source": "https://www.veterinaire.fr/osteopathie-animale.html"
+    "source": []
   },
   {
-    "question": "Une évaluation pratique des compétences en ostéopathie animale :",
+    "question": "Lorsqu’un vétérinaire exerce dans des conditions compromettant la qualité de ses actes, il contrevient :",
     "choices": [
-      {
-        "text": "Est prévue seulement en fin d’études",
-        "correct": false
-      },
-      {
-        "text": "Est remplacée par un QCM",
-        "correct": false
-      },
-      {
-        "text": "Est faite par un vétérinaire généraliste",
-        "correct": false
-      },
-      {
-        "text": "Est organisée tous les deux ans par les écoles",
-        "correct": false
-      },
-      {
-        "text": "Est exigée pour toute inscription sur la liste du CNOV",
-        "correct": true
-      }
+      { "text": "À l’article R242-33-VI du Code de déontologie", "correct": true },
+      { "text": "À l’article 1243 du Code civil", "correct": false },
+      { "text": "À une circulaire du ministère de la Santé", "correct": false },
+      { "text": "À l’arrêté du maire", "correct": false },
+      { "text": "À la convention collective", "correct": false }
     ],
-    "source": "https://www.veterinaire.fr/osteopathie-animale.html"
-  },
-  {
-    "question": "En cas de manipulation sur un animal blessé, l’ostéopathe animalier doit :",
-    "choices": [
-      {
-        "text": "Appliquer des huiles essentielles",
-        "correct": false
-      },
-      {
-        "text": "Poursuivre la séance s’il a l’accord du propriétaire",
-        "correct": false
-      },
-      {
-        "text": "Prendre une photo pour ses archives",
-        "correct": false
-      },
-      {
-        "text": "Poser un diagnostic et orienter vers un kiné animalier",
-        "correct": false
-      },
-      {
-        "text": "S’abstenir de toute manipulation et orienter vers un vétérinaire",
-        "correct": true
-      }
-    ],
-    "source": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000043507681"
-  },
-  {
-    "question": "Peut-on intervenir en ostéopathie animale dans un refuge ?",
-    "choices": [
-      {
-        "text": "Oui, sans condition car ce sont des animaux abandonnés",
-        "correct": false
-      },
-      {
-        "text": "Non, les animaux de refuge ne sont pas concernés",
-        "correct": false
-      },
-      {
-        "text": "Oui, uniquement s’il s’agit de chiens",
-        "correct": false
-      },
-      {
-        "text": "Oui, uniquement sur demande d’un ostéopathe humain",
-        "correct": false
-      },
-      {
-        "text": "Oui, à condition d’être autorisé par le responsable sanitaire et inscrit sur la liste CNOV",
-        "correct": true
-      }
-    ],
-    "source": "https://www.veterinaire.fr/osteopathie-animale.html"
-  },
-  {
-    "question": "Que faire si un cheval présente de la fièvre avant une séance ?",
-    "choices": [
-      {
-        "text": "Le faire marcher 20 minutes pour chauffer les muscles",
-        "correct": false
-      },
-      {
-        "text": "Adapter la séance à l’état général de l’animal",
-        "correct": false
-      },
-      {
-        "text": "Utiliser des techniques plus douces",
-        "correct": false
-      },
-      {
-        "text": "Donner des plantes anti-inflammatoires",
-        "correct": false
-      },
-      {
-        "text": "Annuler la séance et recommander une consultation vétérinaire",
-        "correct": true
-      }
-    ],
-    "source": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000043507681"
-  },
-  {
-    "question": "Lors d’un soin, un chien mord le praticien. Qui est responsable ?",
-    "choices": [
-      {
-        "text": "Le vétérinaire référent",
-        "correct": false
-      },
-      {
-        "text": "L’assurance du praticien",
-        "correct": false
-      },
-      {
-        "text": "L’État",
-        "correct": false
-      },
-      {
-        "text": "Le maire de la commune",
-        "correct": false
-      },
-      {
-        "text": "Le propriétaire du chien",
-        "correct": true
-      }
-    ],
-    "source": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000006417484"
-  },
-  {
-    "question": "Peut-on manipuler un animal de rente en ostéopathie ?",
-    "choices": [
-      {
-        "text": "Oui, sans formalité particulière",
-        "correct": false
-      },
-      {
-        "text": "Non, c’est interdit",
-        "correct": false
-      },
-      {
-        "text": "Oui, si c’est en présence du maire",
-        "correct": false
-      },
-      {
-        "text": "Oui, uniquement dans un cadre pédagogique",
-        "correct": false
-      },
-      {
-        "text": "Oui, à condition d’être inscrit sur la liste CNOV",
-        "correct": true
-      }
-    ],
-    "source": "https://www.veterinaire.fr/osteopathie-animale.html"
-  },
-  {
-    "question": "Peut-on pratiquer l’ostéopathie sur un animal sauvage blessé ?",
-    "choices": [
-      {
-        "text": "Oui, si l’animal est dans une structure de soins agréée",
-        "correct": true
-      },
-      {
-        "text": "Oui, si on est ostéopathe humain",
-        "correct": false
-      },
-      {
-        "text": "Oui, à la demande d’un particulier",
-        "correct": false
-      },
-      {
-        "text": "Oui, après déclaration à la mairie",
-        "correct": false
-      },
-      {
-        "text": "Oui, sur autorisation de la préfecture",
-        "correct": false
-      }
-    ],
-    "source": "https://www.lpo.fr/soins/faune-sauvage-et-reglementation"
-  },
-  {
-    "question": "Un ostéopathe animalier est sollicité pour une vache ayant vêlé. Que doit-il vérifier avant d’intervenir ?",
-    "choices": [
-      {
-        "text": "Que la vache soit à jeun",
-        "correct": false
-      },
-      {
-        "text": "Que le vétérinaire soit informé",
-        "correct": false
-      },
-      {
-        "text": "Que l’animal ne soit pas en lactation",
-        "correct": false
-      },
-      {
-        "text": "Que la séance ait été payée",
-        "correct": false
-      },
-      {
-        "text": "Qu’aucun signe pathologique ne soit présent",
-        "correct": true
-      }
-    ],
-    "source": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000034440975"
-  },
-  {
-    "question": "Si un propriétaire refuse l’envoi de données à son vétérinaire, l’ostéopathe animalier :",
-    "choices": [
-      {
-        "text": "Doit suspendre son activité",
-        "correct": false
-      },
-      {
-        "text": "Doit changer de vétérinaire",
-        "correct": false
-      },
-      {
-        "text": "Peut transmettre les données sans accord",
-        "correct": false
-      },
-      {
-        "text": "Doit contacter la DDT",
-        "correct": false
-      },
-      {
-        "text": "Est tenu de respecter la confidentialité",
-        "correct": true
-      }
-    ],
-    "source": "https://www.cnil.fr/fr/le-rgpd-cest-quoi"
-  },
-  {
-    "question": "Un cheval tombe pendant une manipulation. Que doit faire le praticien ?",
-    "choices": [
-      {
-        "text": "Finir la séance et partir rapidement",
-        "correct": false
-      },
-      {
-        "text": "Demander une attestation au propriétaire",
-        "correct": false
-      },
-      {
-        "text": "Réparer lui-même les dégâts",
-        "correct": false
-      },
-      {
-        "text": "Ignorer l’incident",
-        "correct": false
-      },
-      {
-        "text": "Rédiger un compte-rendu et orienter vers un vétérinaire",
-        "correct": true
-      }
-    ],
-    "source": "https://www.legifrance.gouv.fr"
-  },
-  {
-    "question": "En cas de suspicion de maltraitance, le praticien en ostéopathie animale doit :",
-    "choices": [
-      {
-        "text": "Garder l’information pour lui",
-        "correct": false
-      },
-      {
-        "text": "Appeler le maire",
-        "correct": false
-      },
-      {
-        "text": "Publier une photo sur les réseaux sociaux",
-        "correct": false
-      },
-      {
-        "text": "Contacter la chambre d’agriculture",
-        "correct": false
-      },
-      {
-        "text": "Transmettre l’information au vétérinaire ou signaler aux autorités compétentes",
-        "correct": true
-      }
-    ],
-    "source": "https://www.service-public.fr/particuliers/actualites/A15450"
-  },
-  {
-    "question": "Un ostéopathe animalier est appelé pour un chien ayant subi une opération récente. Que doit-il faire ?",
-    "choices": [
-      {
-        "text": "Proposer un massage de récupération",
-        "correct": false
-      },
-      {
-        "text": "Continuer sans poser de questions",
-        "correct": false
-      },
-      {
-        "text": "Adapter la séance avec des techniques douces",
-        "correct": false
-      },
-      {
-        "text": "Attendre que les points soient tombés",
-        "correct": false
-      },
-      {
-        "text": "Demander un avis vétérinaire avant toute manipulation",
-        "correct": true
-      }
-    ],
-    "source": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000043507681"
-  },
-  {
-    "question": "Que doit faire l’ostéopathe animalier s’il identifie une boiterie inexpliquée ?",
-    "choices": [
-      {
-        "text": "La corriger par une mobilisation passive",
-        "correct": false
-      },
-      {
-        "text": "Poursuivre la séance pour soulager l’animal",
-        "correct": false
-      },
-      {
-        "text": "Suggérer une prise de sang",
-        "correct": false
-      },
-      {
-        "text": "Conseiller un massage ciblé",
-        "correct": false
-      },
-      {
-        "text": "Stopper la séance et conseiller une consultation vétérinaire",
-        "correct": true
-      }
-    ],
-    "source": "https://www.veterinaire.fr/osteopathie-animale.html"
-  },
-  {
-    "question": "Peut-on pratiquer une manipulation ostéopathique en concours ou compétition ?",
-    "choices": [
-      {
-        "text": "Oui, sans condition",
-        "correct": false
-      },
-      {
-        "text": "Oui, avec l’accord du sponsor",
-        "correct": false
-      },
-      {
-        "text": "Oui, si cela reste discret",
-        "correct": false
-      },
-      {
-        "text": "Non, uniquement sur terrain privé",
-        "correct": false
-      },
-      {
-        "text": "Oui, si l’animal n’est pas en souffrance et que l’on est inscrit CNOV",
-        "correct": true
-      }
-    ],
-    "source": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000034440975"
-  },
-  {
-    "question": "Un propriétaire demande une manipulation sur un poulain de 2 semaines. Que doit faire l’ostéopathe ?",
-    "choices": [
-      {
-        "text": "Manipuler sans problème",
-        "correct": false
-      },
-      {
-        "text": "Refuser systématiquement",
-        "correct": false
-      },
-      {
-        "text": "Demander une décharge écrite",
-        "correct": false
-      },
-      {
-        "text": "Attendre que l’animal soit sevré",
-        "correct": false
-      },
-      {
-        "text": "S’assurer de l’absence de pathologie et consulter un vétérinaire si doute",
-        "correct": true
-      }
-    ],
-    "source": "https://www.veterinaire.fr/osteopathie-animale.html"
-  },
-  {
-    "question": "Un ostéopathe observe une anomalie cardiaque pendant une séance. Que doit-il faire ?",
-    "choices": [
-      {
-        "text": "Utiliser des techniques de détente",
-        "correct": false
-      },
-      {
-        "text": "Continuer car ce n’est pas grave",
-        "correct": false
-      },
-      {
-        "text": "Conclure à une anomalie structurelle",
-        "correct": false
-      },
-      {
-        "text": "Faire un suivi régulier",
-        "correct": false
-      },
-      {
-        "text": "Suspendre la séance et orienter vers un vétérinaire",
-        "correct": true
-      }
-    ],
-    "source": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043507681"
-  },
-  {
-    "question": "Quel professionnel est compétent pour établir un protocole de soins chez l’animal ?",
-    "choices": [
-      {
-        "text": "L’ostéopathe animalier",
-        "correct": false
-      },
-      {
-        "text": "L’éleveur",
-        "correct": false
-      },
-      {
-        "text": "Le responsable du centre équestre",
-        "correct": false
-      },
-      {
-        "text": "Le toiletteur",
-        "correct": false
-      },
-      {
-        "text": "Le vétérinaire",
-        "correct": true
-      }
-    ],
-    "source": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043507681"
-  },
-  {
-    "question": "Que doit contenir le registre de suivi d’un ostéopathe animalier ?",
-    "choices": [
-      {
-        "text": "Le numéro de puce du praticien",
-        "correct": false
-      },
-      {
-        "text": "La marque de matériel utilisé",
-        "correct": false
-      },
-      {
-        "text": "Le carnet de santé complet de l’animal",
-        "correct": false
-      },
-      {
-        "text": "Le tarif appliqué",
-        "correct": false
-      },
-      {
-        "text": "La date, l’espèce, l’identification et les actes réalisés",
-        "correct": true
-      }
-    ],
-    "source": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000034440990"
-  },
-  {
-    "question": "Peut-on intervenir sur un animal de cirque ?",
-    "choices": [
-      {
-        "text": "Oui, sans aucune condition",
-        "correct": false
-      },
-      {
-        "text": "Non, jamais",
-        "correct": false
-      },
-      {
-        "text": "Oui, si le vétérinaire responsable est informé et que l’on est inscrit CNOV",
-        "correct": true
-      },
-      {
-        "text": "Oui, uniquement avec autorisation du public",
-        "correct": false
-      },
-      {
-        "text": "Oui, mais seulement dans les locaux privés",
-        "correct": false
-      }
-    ],
-    "source": "https://www.ecologie.gouv.fr/animaux-spectacle-et-divertissement"
-  },
-  {
-    "question": "Dans quel cas un ostéopathe animalier peut-il refuser une consultation ?",
-    "choices": [
-      {
-        "text": "Si l’animal est vacciné",
-        "correct": false
-      },
-      {
-        "text": "Si l’animal est trop âgé",
-        "correct": false
-      },
-      {
-        "text": "S’il n’a pas envie de travailler",
-        "correct": false
-      },
-      {
-        "text": "Si l’animal appartient à une race interdite",
-        "correct": false
-      },
-      {
-        "text": "Si l’animal présente un risque pour sa sécurité ou une pathologie grave",
-        "correct": true
-      }
-    ],
-    "source": "https://www.legifrance.gouv.fr"
-  },
-  {
-    "question": "Un client exige une manipulation contre l’avis vétérinaire. Que doit faire le praticien ?",
-    "choices": [
-      {
-        "text": "Obéir au client",
-        "correct": false
-      },
-      {
-        "text": "Manipuler quand même en prenant des précautions",
-        "correct": false
-      },
-      {
-        "text": "Se décharger de toute responsabilité par écrit",
-        "correct": false
-      },
-      {
-        "text": "Reporter à plus tard",
-        "correct": false
-      },
-      {
-        "text": "Refuser l’acte conformément à la réglementation",
-        "correct": true
-      }
-    ],
-    "source": "https://www.veterinaire.fr"
-  },
-  {
-    "question": "Dans quel cas un ostéopathe animalier peut-il refuser une consultation ?",
-    "choices": [
-      {
-        "text": "Si l’animal est vacciné",
-        "correct": false
-      },
-      {
-        "text": "Si l’animal est trop âgé",
-        "correct": false
-      },
-      {
-        "text": "S’il n’a pas envie de travailler",
-        "correct": false
-      },
-      {
-        "text": "Si l’animal appartient à une race interdite",
-        "correct": false
-      },
-      {
-        "text": "Si l’animal présente un risque pour sa sécurité ou une pathologie grave",
-        "correct": true
-      }
-    ],
-    "source": "https://www.legifrance.gouv.fr"
-  },
-  {
-    "question": "Un client exige une manipulation contre l’avis vétérinaire. Que doit faire le praticien ?",
-    "choices": [
-      {
-        "text": "Obéir au client",
-        "correct": false
-      },
-      {
-        "text": "Manipuler quand même en prenant des précautions",
-        "correct": false
-      },
-      {
-        "text": "Se décharger de toute responsabilité par écrit",
-        "correct": false
-      },
-      {
-        "text": "Reporter à plus tard",
-        "correct": false
-      },
-      {
-        "text": "Refuser l’acte conformément à la réglementation",
-        "correct": true
-      }
-    ],
-    "source": "https://www.veterinaire.fr"
-  },
-  {
-    "question": "L’ostéopathe animalier est-il autorisé à effectuer des injections ?",
-    "choices": [
-      {
-        "text": "Oui, avec accord du propriétaire",
-        "correct": false
-      },
-      {
-        "text": "Oui, en cas d'urgence",
-        "correct": false
-      },
-      {
-        "text": "Oui, s’il est diplômé d’une école reconnue",
-        "correct": false
-      },
-      {
-        "text": "Oui, si l’animal est domestique",
-        "correct": false
-      },
-      {
-        "text": "Non, les injections relèvent exclusivement de l’acte vétérinaire",
-        "correct": true
-      }
-    ],
-    "source": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000043507681"
-  },
-  {
-    "question": "Les manipulations ostéopathiques sur un animal doivent respecter :",
-    "choices": [
-      {
-        "text": "Les règles de sécurité publique",
-        "correct": false
-      },
-      {
-        "text": "Le règlement intérieur du cabinet",
-        "correct": false
-      },
-      {
-        "text": "Le code du commerce",
-        "correct": false
-      },
-      {
-        "text": "Le bon vouloir du propriétaire",
-        "correct": false
-      },
-      {
-        "text": "Le bien-être et l’intégrité physique de l’animal",
-        "correct": true
-      }
-    ],
-    "source": "https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006071367"
-  },
-  {
-    "question": "Quel type d’assurance est fortement recommandé pour un ostéopathe animalier ?",
-    "choices": [
-      {
-        "text": "Assurance automobile professionnelle",
-        "correct": false
-      },
-      {
-        "text": "Mutuelle santé",
-        "correct": false
-      },
-      {
-        "text": "Assurance vol de matériel",
-        "correct": false
-      },
-      {
-        "text": "Assurance habitation professionnelle",
-        "correct": false
-      },
-      {
-        "text": "Assurance responsabilité civile professionnelle",
-        "correct": true
-      }
-    ],
-    "source": "https://entreprendre.service-public.fr/vosdroits/F31136"
-  },
-  {
-    "question": "Peut-on pratiquer l’ostéopathie animale à domicile ?",
-    "choices": [
-      {
-        "text": "Oui, uniquement dans les grandes villes",
-        "correct": false
-      },
-      {
-        "text": "Non, uniquement en structure vétérinaire",
-        "correct": false
-      },
-      {
-        "text": "Oui, si l’animal est vacciné",
-        "correct": false
-      },
-      {
-        "text": "Oui, sans avoir à prévenir les autorités",
-        "correct": false
-      },
-      {
-        "text": "Oui, à condition d’être inscrit sur la liste du CNOV",
-        "correct": true
-      }
-    ],
-    "source": "https://www.veterinaire.fr/osteopathie-animale.html"
-  },
-  {
-    "question": "Quel document doit obligatoirement être délivré après une séance d’ostéopathie animale ?",
-    "choices": [
-      {
-        "text": "Un rapport détaillé au vétérinaire",
-        "correct": false
-      },
-      {
-        "text": "Une ordonnance de suivi",
-        "correct": false
-      },
-      {
-        "text": "Une fiche de satisfaction",
-        "correct": false
-      },
-      {
-        "text": "Un certificat d’aptitude à la compétition",
-        "correct": false
-      },
-      {
-        "text": "Une facture et une mention de la nature de l’acte",
-        "correct": true
-      }
-    ],
-    "source": "https://entreprendre.service-public.fr/vosdroits/F31808"
-  },
-  {
-    "question": "Quel code encadre la profession d’ostéopathe animalier ?",
-    "choices": [
-      {
-        "text": "Le Code du sport",
-        "correct": false
-      },
-      {
-        "text": "Le Code du travail",
-        "correct": false
-      },
-      {
-        "text": "Le Code de la consommation",
-        "correct": false
-      },
-      {
-        "text": "Le Code civil",
-        "correct": false
-      },
-      {
-        "text": "Le Code rural et de la pêche maritime",
-        "correct": true
-      }
-    ],
-    "source": "https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006071367"
-  },
-  {
-    "question": "Peut-on faire de la publicité pour ses prestations d’ostéopathie animale ?",
-    "choices": [
-      {
-        "text": "Non, c’est totalement interdit",
-        "correct": false
-      },
-      {
-        "text": "Oui, avec validation de la DDPP",
-        "correct": false
-      },
-      {
-        "text": "Oui, uniquement sur les réseaux sociaux",
-        "correct": false
-      },
-      {
-        "text": "Oui, si on a plus de 10 ans d’expérience",
-        "correct": false
-      },
-      {
-        "text": "Oui, si elle reste loyale et non mensongère",
-        "correct": true
-      }
-    ],
-    "source": "https://entreprendre.service-public.fr/vosdroits/F22355"
-  },
-  {
-    "question": "En cas de litige avec un client, l’ostéopathe animalier peut :",
-    "choices": [
-      {
-        "text": "Porter plainte à la mairie",
-        "correct": false
-      },
-      {
-        "text": "Saisir le conseil régional de l’ordre des médecins",
-        "correct": false
-      },
-      {
-        "text": "Contacter la fédération des éleveurs",
-        "correct": false
-      },
-      {
-        "text": "Passer par les réseaux sociaux",
-        "correct": false
-      },
-      {
-        "text": "Faire appel à un médiateur de la consommation",
-        "correct": true
-      }
-    ],
-    "source": "https://entreprendre.service-public.fr/vosdroits/F33654"
-  },
-  {
-    "question": "Peut-on pratiquer l’ostéopathie animale sur les NAC (Nouveaux Animaux de Compagnie) ?",
-    "choices": [
-      {
-        "text": "Oui, sans aucune condition",
-        "correct": false
-      },
-      {
-        "text": "Non, c’est strictement interdit",
-        "correct": false
-      },
-      {
-        "text": "Oui, si le propriétaire est un vétérinaire",
-        "correct": false
-      },
-      {
-        "text": "Non, sauf si l’animal pèse plus de 5 kg",
-        "correct": false
-      },
-      {
-        "text": "Oui, si l’on est inscrit sur la liste du CNOV",
-        "correct": true
-      }
-    ],
-    "source": "https://www.veterinaire.fr/osteopathie-animale.html"
-  },
-  {
-    "question": "Un ostéopathe animalier peut-il déléguer une manipulation à un stagiaire ?",
-    "choices": [
-      {
-        "text": "Oui, avec supervision vétérinaire",
-        "correct": false
-      },
-      {
-        "text": "Oui, s’il est dans le même cabinet",
-        "correct": false
-      },
-      {
-        "text": "Non, jamais",
-        "correct": false
-      },
-      {
-        "text": "Oui, s’il est diplômé",
-        "correct": false
-      },
-      {
-        "text": "Non, sauf si le stagiaire est lui-même inscrit sur la liste du CNOV",
-        "correct": true
-      }
-    ],
-    "source": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000034440975"
-  },
-  {
-    "question": "Quelles espèces sont concernées par l’encadrement des actes d’ostéopathie animale ?",
-    "choices": [
-      {
-        "text": "Uniquement les animaux de compagnie",
-        "correct": false
-      },
-      {
-        "text": "Uniquement les chevaux et bovins",
-        "correct": false
-      },
-      {
-        "text": "Uniquement les animaux domestiques",
-        "correct": false
-      },
-      {
-        "text": "Toutes sauf les poissons",
-        "correct": false
-      },
-      {
-        "text": "Toutes les espèces animales",
-        "correct": true
-      }
-    ],
-    "source": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000034440975"
-  },
-  {
-    "question": "L’ostéopathe animalier peut-il s’opposer à la présence du propriétaire lors de la séance ?",
-    "choices": [
-      {
-        "text": "Non, c’est interdit",
-        "correct": false
-      },
-      {
-        "text": "Oui, si cela est justifié pour la sécurité",
-        "correct": true
-      },
-      {
-        "text": "Oui, pour des raisons commerciales",
-        "correct": false
-      },
-      {
-        "text": "Oui, en zone rurale uniquement",
-        "correct": false
-      },
-      {
-        "text": "Non, sauf si l’animal est dangereux",
-        "correct": false
-      }
-    ],
-    "source": "https://entreprendre.service-public.fr"
-  },
-  {
-    "question": "Quel est le rôle principal du CNOV dans le cadre de l’ostéopathie animale ?",
-    "choices": [
-      {
-        "text": "Former les praticiens",
-        "correct": false
-      },
-      {
-        "text": "Représenter les usagers",
-        "correct": false
-      },
-      {
-        "text": "Assurer la communication auprès des éleveurs",
-        "correct": false
-      },
-      {
-        "text": "Distribuer des aides financières",
-        "correct": false
-      },
-      {
-        "text": "Encadrer l’exercice légal des actes relevant de la médecine vétérinaire",
-        "correct": true
-      }
-    ],
-    "source": "https://www.veterinaire.fr/ordre-des-veterinaires"
-  },
-  {
-    "question": "Peut-on exercer l’ostéopathie animale en libéral ?",
-    "choices": [
-      {
-        "text": "Non, uniquement en cabinet vétérinaire",
-        "correct": false
-      },
-      {
-        "text": "Oui, sans numéro SIRET",
-        "correct": false
-      },
-      {
-        "text": "Oui, uniquement si salarié",
-        "correct": false
-      },
-      {
-        "text": "Non, sauf dans les cliniques",
-        "correct": false
-      },
-      {
-        "text": "Oui, en respectant les règles de l’activité indépendante",
-        "correct": true
-      }
-    ],
-    "source": "https://entreprendre.service-public.fr/vosdroits/F23264"
-  },
-  {
-    "question": "Quel document réglementaire précise les actes autorisés en ostéopathie animale ?",
-    "choices": [
-      {
-        "text": "Le Code pénal",
-        "correct": false
-      },
-      {
-        "text": "Le Code des assurances",
-        "correct": false
-      },
-      {
-        "text": "Le Code général des impôts",
-        "correct": false
-      },
-      {
-        "text": "Le Code de la route",
-        "correct": false
-      },
-      {
-        "text": "Le Code rural et de la pêche maritime",
-        "correct": true
-      }
-    ],
-    "source": "https://www.legifrance.gouv.fr"
-  },
-  {
-    "question": "L’ostéopathe animalier peut-il prodiguer des conseils d’hygiène ?",
-    "choices": [
-      {
-        "text": "Oui, s’il est vétérinaire",
-        "correct": false
-      },
-      {
-        "text": "Non, cela relève du domaine médical",
-        "correct": false
-      },
-      {
-        "text": "Oui, mais seulement à des professionnels",
-        "correct": false
-      },
-      {
-        "text": "Non, sauf en élevage bovin",
-        "correct": false
-      },
-      {
-        "text": "Oui, à titre préventif et non curatif",
-        "correct": true
-      }
-    ],
-    "source": "https://www.veterinaire.fr"
-  },
-  {
-    "question": "L’ostéopathe animalier peut-il annoncer un diagnostic ?",
-    "choices": [
-      {
-        "text": "Oui, c’est son rôle principal",
-        "correct": false
-      },
-      {
-        "text": "Oui, s’il est diplômé depuis plus de 5 ans",
-        "correct": false
-      },
-      {
-        "text": "Oui, uniquement en cas d’urgence",
-        "correct": false
-      },
-      {
-        "text": "Oui, s’il a un accord écrit du propriétaire",
-        "correct": false
-      },
-      {
-        "text": "Non, seul le vétérinaire est habilité à poser un diagnostic médical",
-        "correct": true
-      }
-    ],
-    "source": "https://www.legifrance.gouv.fr"
-  },
-  {
-    "question": "Peut-on exercer en tant qu’ostéopathe animalier sous statut auto-entrepreneur ?",
-    "choices": [
-      {
-        "text": "Non, ce statut est réservé aux activités commerciales",
-        "correct": false
-      },
-      {
-        "text": "Oui, si l’on ne dépasse pas 10 clients par mois",
-        "correct": false
-      },
-      {
-        "text": "Non, sauf en zone rurale",
-        "correct": false
-      },
-      {
-        "text": "Oui, sous condition d'être inscrit et couvert en responsabilité civile professionnelle",
-        "correct": true
-      },
-      {
-        "text": "Oui, uniquement après une validation du CNOV",
-        "correct": false
-      }
-    ],
-    "source": "https://entreprendre.service-public.fr/vosdroits/F23264"
-  },
-  {
-    "question": "Un ostéopathe animalier peut-il garantir la guérison d’un animal ?",
-    "choices": [
-      {
-        "text": "Oui, s’il a de bons résultats",
-        "correct": false
-      },
-      {
-        "text": "Oui, si le propriétaire le demande",
-        "correct": false
-      },
-      {
-        "text": "Non, mais il peut faire une estimation chiffrée",
-        "correct": false
-      },
-      {
-        "text": "Oui, pour les chevaux uniquement",
-        "correct": false
-      },
-      {
-        "text": "Non, il est tenu à une obligation de moyens, pas de résultats",
-        "correct": true
-      }
-    ],
-    "source": "https://entreprendre.service-public.fr/vosdroits/F33654"
-  },
-  {
-    "question": "Quel document permet à un ostéopathe animalier de prouver son droit à exercer ?",
-    "choices": [
-      {
-        "text": "Une attestation de formation continue",
-        "correct": false
-      },
-      {
-        "text": "Un diplôme universitaire",
-        "correct": false
-      },
-      {
-        "text": "Un numéro de SIRET",
-        "correct": false
-      },
-      {
-        "text": "Une carte professionnelle",
-        "correct": false
-      },
-      {
-        "text": "L’inscription sur la liste du CNOV",
-        "correct": true
-      }
-    ],
-    "source": "https://www.veterinaire.fr/osteopathie-animale.html"
-  },
-  {
-    "question": "En cas de comportement agressif d’un animal, que doit faire l’ostéopathe animalier ?",
-    "choices": [
-      {
-        "text": "Continuer à tout prix la manipulation",
-        "correct": false
-      },
-      {
-        "text": "Demander au propriétaire de maîtriser l’animal",
-        "correct": false
-      },
-      {
-        "text": "Appeler la police",
-        "correct": false
-      },
-      {
-        "text": "Contacter un vétérinaire pour une sédation",
-        "correct": false
-      },
-      {
-        "text": "Mettre fin à la séance pour raisons de sécurité",
-        "correct": true
-      }
-    ],
-    "source": "https://www.legifrance.gouv.fr"
-  },
-  {
-    "question": "L’ostéopathe animalier peut-il recevoir des commissions pour des recommandations ?",
-    "choices": [
-      {
-        "text": "Oui, cela fait partie du marketing",
-        "correct": false
-      },
-      {
-        "text": "Oui, si le client est informé",
-        "correct": false
-      },
-      {
-        "text": "Oui, uniquement pour des produits naturels",
-        "correct": false
-      },
-      {
-        "text": "Oui, si c’est écrit dans ses CGV",
-        "correct": false
-      },
-      {
-        "text": "Non, cela est contraire à la déontologie",
-        "correct": true
-      }
-    ],
-    "source": "https://entreprendre.service-public.fr"
-  },
-  {
-    "question": "Un ostéopathe animalier peut-il conseiller un changement d’alimentation ?",
-    "choices": [
-      {
-        "text": "Non, seul un vétérinaire nutritionniste peut le faire",
-        "correct": false
-      },
-      {
-        "text": "Oui, avec un diplôme en diététique",
-        "correct": false
-      },
-      {
-        "text": "Oui, si c’est une marque partenaire",
-        "correct": false
-      },
-      {
-        "text": "Non, sauf avec une ordonnance",
-        "correct": false
-      },
-      {
-        "text": "Oui, à condition de ne pas poser d’acte médical",
-        "correct": true
-      }
-    ],
-    "source": "https://www.veterinaire.fr"
-  },
-  {
-    "question": "En cas de faute professionnelle, à quoi s’expose un ostéopathe animalier ?",
-    "choices": [
-      {
-        "text": "À une simple amende symbolique",
-        "correct": false
-      },
-      {
-        "text": "À un rappel à la loi",
-        "correct": false
-      },
-      {
-        "text": "À une suspension du permis de conduire",
-        "correct": false
-      },
-      {
-        "text": "À une suppression de son diplôme",
-        "correct": false
-      },
-      {
-        "text": "À une action civile ou pénale selon la gravité",
-        "correct": true
-      }
-    ],
-    "source": "https://www.service-public.fr/professionnels-entreprises/vosdroits/F31808"
-  },
-  {
-    "question": "Quelle obligation s’impose en cas de blessure de l’animal pendant la séance ?",
-    "choices": [
-      {
-        "text": "La dissimulation de l’incident",
-        "correct": false
-      },
-      {
-        "text": "La rédaction d’un certificat médical",
-        "correct": false
-      },
-      {
-        "text": "Le remboursement automatique",
-        "correct": false
-      },
-      {
-        "text": "La demande de décharge au client",
-        "correct": false
-      },
-      {
-        "text": "L’information immédiate du propriétaire et traçabilité",
-        "correct": true
-      }
-    ],
-    "source": "https://entreprendre.service-public.fr"
-  },
-  {
-    "question": "Un praticien peut-il exercer en itinérance (sans lieu fixe) ?",
-    "choices": [
-      {
-        "text": "Non, c’est illégal",
-        "correct": false
-      },
-      {
-        "text": "Oui, à condition d’être vétérinaire",
-        "correct": false
-      },
-      {
-        "text": "Non, sauf si encadré par une clinique",
-        "correct": false
-      },
-      {
-        "text": "Oui, seulement dans les foires",
-        "correct": false
-      },
-      {
-        "text": "Oui, à condition d’être déclaré et joignable",
-        "correct": true
-      }
-    ],
-    "source": "https://entreprendre.service-public.fr/vosdroits/F23570"
-  },
-  {
-    "question": "Peut-on exercer en tant qu’ostéopathe animalier dans un élevage ?",
-    "choices": [
-      {
-        "text": "Non, sauf avec autorisation du préfet",
-        "correct": false
-      },
-      {
-        "text": "Oui, à condition de s’occuper uniquement des jeunes animaux",
-        "correct": false
-      },
-      {
-        "text": "Non, car cela relève uniquement des vétérinaires",
-        "correct": false
-      },
-      {
-        "text": "Oui, uniquement si salarié de l’élevage",
-        "correct": false
-      },
-      {
-        "text": "Oui, à condition que l’éleveur ait fait appel à lui",
-        "correct": true
-      }
-    ],
-    "source": "https://www.veterinaire.fr/osteopathie-animale.html"
-  },
-  {
-    "question": "L’ostéopathe animalier peut-il établir un devis ?",
-    "choices": [
-      {
-        "text": "Non, ce n’est pas une pratique légale",
-        "correct": false
-      },
-      {
-        "text": "Oui, uniquement à la demande du vétérinaire",
-        "correct": false
-      },
-      {
-        "text": "Oui, pour les actes gratuits uniquement",
-        "correct": false
-      },
-      {
-        "text": "Non, cela relève de la DDPP",
-        "correct": false
-      },
-      {
-        "text": "Oui, c’est même une obligation au-delà d’un certain montant",
-        "correct": true
-      }
-    ],
-    "source": "https://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fiches-pratiques/Devis"
-  },
-  {
-    "question": "Qu’est-ce qu’une obligation de moyens ?",
-    "choices": [
-      {
-        "text": "Un devoir de réussite absolue",
-        "correct": false
-      },
-      {
-        "text": "L’assurance de résultats chiffrés",
-        "correct": false
-      },
-      {
-        "text": "Une garantie commerciale",
-        "correct": false
-      },
-      {
-        "text": "Une clause contractuelle optionnelle",
-        "correct": false
-      },
-      {
-        "text": "L’engagement à tout mettre en œuvre pour le bien de l’animal",
-        "correct": true
-      }
-    ],
-    "source": "https://www.economie.gouv.fr"
-  },
-  {
-    "question": "Quelle mention doit apparaître sur les documents professionnels ?",
-    "choices": [
-      {
-        "text": "Le nom du vétérinaire superviseur",
-        "correct": false
-      },
-      {
-        "text": "La date de naissance du praticien",
-        "correct": false
-      },
-      {
-        "text": "Le numéro de sécurité sociale",
-        "correct": false
-      },
-      {
-        "text": "La taille et le poids moyen des animaux",
-        "correct": false
-      },
-      {
-        "text": "Le numéro SIRET et la nature de l’activité",
-        "correct": true
-      }
-    ],
-    "source": "https://entreprendre.service-public.fr/vosdroits/F31808"
-  },
-  {
-    "question": "Le secret professionnel s’applique-t-il à l’ostéopathe animalier ?",
-    "choices": [
-      {
-        "text": "Non, sauf s’il travaille avec un vétérinaire",
-        "correct": false
-      },
-      {
-        "text": "Oui, mais seulement dans les cliniques",
-        "correct": false
-      },
-      {
-        "text": "Non, car ce n’est pas une profession médicale",
-        "correct": false
-      },
-      {
-        "text": "Oui, uniquement avec des animaux dangereux",
-        "correct": false
-      },
-      {
-        "text": "Oui, il est tenu de respecter la confidentialité des données",
-        "correct": true
-      }
-    ],
-    "source": "https://www.cnil.fr"
-  },
-  {
-    "question": "L’ostéopathe animalier peut-il facturer un déplacement ?",
-    "choices": [
-      {
-        "text": "Non, les tarifs sont réglementés",
-        "correct": false
-      },
-      {
-        "text": "Oui, mais sans prévenir le client",
-        "correct": false
-      },
-      {
-        "text": "Oui, si l’animal est hospitalisé",
-        "correct": false
-      },
-      {
-        "text": "Non, sauf en zone rurale",
-        "correct": false
-      },
-      {
-        "text": "Oui, si cela est mentionné clairement dans la grille tarifaire",
-        "correct": true
-      }
-    ],
-    "source": "https://www.economie.gouv.fr/dgccrf"
-  },
-  {
-    "question": "Une ostéopathe animalier peut-elle s’associer avec un vétérinaire ?",
-    "choices": [
-      {
-        "text": "Non, c’est interdit",
-        "correct": false
-      },
-      {
-        "text": "Oui, uniquement dans un cabinet vétérinaire",
-        "correct": false
-      },
-      {
-        "text": "Non, sauf avec une autorisation préfectorale",
-        "correct": false
-      },
-      {
-        "text": "Oui, s’il ne s’agit pas d’une structure de soins",
-        "correct": false
-      },
-      {
-        "text": "Oui, à condition de respecter la séparation des compétences",
-        "correct": true
-      }
-    ],
-    "source": "https://www.veterinaire.fr"
-  },
-  {
-    "question": "Quelle est la durée de conservation recommandée des dossiers de suivi ostéopathique ?",
-    "choices": [
-      {
-        "text": "1 an maximum",
-        "correct": false
-      },
-      {
-        "text": "5 ans",
-        "correct": false
-      },
-      {
-        "text": "Jusqu'à la fin de l’activité",
-        "correct": false
-      },
-      {
-        "text": "2 mois",
-        "correct": false
-      },
-      {
-        "text": "10 ans minimum",
-        "correct": true
-      }
-    ],
-    "source": "https://www.cnil.fr/fr/les-durees-de-conservation"
-  },
-  {
-    "question": "L’ostéopathe animalier peut-il exercer dans plusieurs régions ?",
-    "choices": [
-      {
-        "text": "Non, c’est limité au département de déclaration",
-        "correct": false
-      },
-      {
-        "text": "Oui, mais uniquement avec l’accord du préfet",
-        "correct": false
-      },
-      {
-        "text": "Oui, en demandant une carte de mobilité",
-        "correct": false
-      },
-      {
-        "text": "Non, sauf si salarié",
-        "correct": false
-      },
-      {
-        "text": "Oui, s’il est inscrit au CNOV et respecte la législation",
-        "correct": true
-      }
-    ],
-    "source": "https://entreprendre.service-public.fr/vosdroits/F23570"
-  },
-  {
-    "question": "Une ostéopathe animalier peut-elle être en même temps éleveuse d’animaux ?",
-    "choices": [
-      {
-        "text": "Non, conflit d’intérêt direct",
-        "correct": false
-      },
-      {
-        "text": "Oui, sans conditions",
-        "correct": false
-      },
-      {
-        "text": "Oui, si elle ne pratique que sur ses animaux",
-        "correct": false
-      },
-      {
-        "text": "Non, sauf pour les chevaux",
-        "correct": false
-      },
-      {
-        "text": "Oui, si elle sépare clairement les deux activités",
-        "correct": true
-      }
-    ],
-    "source": "https://www.economie.gouv.fr"
-  },
-  {
-    "question": "Un ostéopathe animalier peut-il transmettre des données à un tiers ?",
-    "choices": [
-      {
-        "text": "Oui, à toute entreprise partenaire",
-        "correct": false
-      },
-      {
-        "text": "Oui, sans autorisation si c’est pour des statistiques",
-        "correct": false
-      },
-      {
-        "text": "Non, c’est toujours interdit",
-        "correct": false
-      },
-      {
-        "text": "Oui, à condition de prévenir le vétérinaire",
-        "correct": false
-      },
-      {
-        "text": "Oui, avec le consentement éclairé du propriétaire",
-        "correct": true
-      }
-    ],
-    "source": "https://www.cnil.fr/fr/reglement-europeen-protection-donnees"
-  },
-  {
-    "question": "Quel est le risque de travailler sans assurance professionnelle ?",
-    "choices": [
-      {
-        "text": "Aucun si l’activité est en zone rurale",
-        "correct": false
-      },
-      {
-        "text": "Une simple mise en garde par courrier",
-        "correct": false
-      },
-      {
-        "text": "La radiation de la liste CNOV",
-        "correct": false
-      },
-      {
-        "text": "Un redressement fiscal uniquement",
-        "correct": false
-      },
-      {
-        "text": "Une mise en cause personnelle en cas de litige",
-        "correct": true
-      }
-    ],
-    "source": "https://entreprendre.service-public.fr/vosdroits/F31136"
+    "source": []
   }
 ]
