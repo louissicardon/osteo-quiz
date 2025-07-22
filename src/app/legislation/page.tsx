@@ -100,7 +100,7 @@ export default function Quiz() {
       <div className={styles.container}>
         <div className={styles.questionContainer}>
           <div>{error}</div>
-          <Link href="/" className={styles.homeLink}>
+          <Link href="../" className={styles.homeLink}>
             Retour à l'accueil
           </Link>
         </div>
@@ -113,7 +113,7 @@ export default function Quiz() {
       <div className={styles.container}>
         <div className={styles.questionContainer}>
           <div>Aucune question disponible.</div>
-          <Link href="/" className={styles.homeLink}>
+          <Link href="../" className={styles.homeLink}>
             Retour à l'accueil
           </Link>
         </div>
@@ -124,7 +124,7 @@ export default function Quiz() {
   return (
     <div className={styles.container}>
       <div className={styles.header}>
-        <Link href="/" className={styles.homeLink}>
+        <Link href="../" className={styles.homeLink}>
           ← Retour à l'accueil
         </Link>
       </div>
