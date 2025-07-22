@@ -1,0 +1,1202 @@
+[
+  {
+    "question": "Quelle est la définition exacte de la zootechnie selon les sources scientifiques ?",
+    "choices": [
+      {
+        "text": "Discipline d'application qui étudie les techniques et l'économie des productions animales et de l'élevage en général",
+        "correct": true
+      },
+      {
+        "text": "Science qui étudie exclusivement les techniques d'amélioration génétique des animaux domestiques",
+        "correct": false
+      },
+      {
+        "text": "Ensemble des méthodes de diagnostic et de traitement des maladies animales",
+        "correct": false
+      },
+      {
+        "text": "Discipline qui s'occupe uniquement de l'alimentation rationnelle des animaux d'élevage",
+        "correct": false
+      },
+      {
+        "text": "Science de la reproduction artificielle et de la sélection génétique moderne",
+        "correct": false
+      }
+    ],
+    "source": [
+      "https://www.cnrtl.fr/definition/zootechnie",
+      "https://fac.umc.edu.dz/vet/Cours_Ligne/cours_20_21/Zootechnie_A2/zootechnie_ruminants.pdf",
+      "https://www.studysmarter.fr/resumes/medecine/medecine-veterinaire/zootechnie/"
+    ]
+  },
+  {
+    "question": "Quelle différence fondamentale distingue la zootechnie de la zoologie ?",
+    "choices": [
+      {
+        "text": "La zootechnie étudie les animaux vivants, la zoologie les animaux morts",
+        "correct": false
+      },
+      {
+        "text": "La zootechnie s'applique aux animaux domestiques d'élevage, la zoologie aux animaux en général",
+        "correct": true
+      },
+      {
+        "text": "La zootechnie concerne les grands animaux, la zoologie les petits animaux",
+        "correct": false
+      },
+      {
+        "text": "La zootechnie est une science appliquée, la zoologie une science théorique pure",
+        "correct": false
+      },
+      {
+        "text": "La zootechnie étudie le comportement, la zoologie l'anatomie",
+        "correct": false
+      }
+    ],
+    "source": [
+      "https://gerflint.fr/Base/Espagne1/olmocazevielle.pdf",
+      "https://lemagdesanimaux.ouest-france.fr/dossier-1368-zootechnie-definition-quels-metiers-sont-concernes.html",
+      "https://www.cnrtl.fr/definition/zootechnie"
+    ]
+  },
+  {
+    "question": "Comment se subdivisent précisément les branches de la zootechnie ?",
+    "choices": [
+      {
+        "text": "Zootechnie morphologique et zootechnie physiologique",
+        "correct": false
+      },
+      {
+        "text": "Zootechnie générale (méthodes d'amélioration) et zootechnie spéciale (application à une production donnée)",
+        "correct": true
+      },
+      {
+        "text": "Zootechnie clinique et zootechnie préventive",
+        "correct": false
+      },
+      {
+        "text": "Zootechnie théorique et zootechnie expérimentale",
+        "correct": false
+      },
+      {
+        "text": "Zootechnie descriptive et zootechnie comparative",
+        "correct": false
+      }
+    ],
+    "source": [
+      "https://fac.umc.edu.dz/vet/Cours_Ligne/cours_20_21/Zootechnie_A2/zootechnie_ruminants.pdf",
+      "https://www.cnrtl.fr/definition/zootechnie",
+      "https://www.studysmarter.fr/resumes/medecine/medecine-veterinaire/zootechnie/"
+    ]
+  },
+  {
+    "question": "Selon la définition scientifique, la domestication correspond à :",
+    "choices": [
+      {
+        "text": "Processus naturel d'adaptation des espèces sauvages au climat tempéré",
+        "correct": false
+      },
+      {
+        "text": "Action de l'homme sur des animaux en se les appropriant pour les utiliser selon ses besoins",
+        "correct": true
+      },
+      {
+        "text": "Modification génétique artificielle des caractères morphologiques des animaux",
+        "correct": false
+      },
+      {
+        "text": "Sélection naturelle orientée par la présence humaine en milieu rural",
+        "correct": false
+      },
+      {
+        "text": "Transformation progressive des animaux sauvages en animaux sociables",
+        "correct": false
+      }
+    ],
+    "source": [
+      "https://fac.umc.edu.dz/vet/Cours_Ligne/cours_20_21/Zootechnie_A2/zootechnie_ruminants.pdf",
+      "https://fr.scribd.com/document/743788552/Zootechnie-Generale-1",
+      "https://www.studysmarter.fr/resumes/medecine/medecine-veterinaire/zootechnie/"
+    ]
+  },
+  {
+    "question": "Quelles sont les quatre conditions nécessaires à la domestication d'une espèce ?",
+    "choices": [
+      {
+        "text": "Grande taille, longévité élevée, régime alimentaire varié et croissance rapide",
+        "correct": false
+      },
+      {
+        "text": "Docilité naturelle, monogamie, gestation courte et faible agressivité territoriale",
+        "correct": false
+      },
+      {
+        "text": "Instinct de sociabilité, faculté d'apprivoisement, fécondité en captivité et transmission héréditaire des caractères",
+        "correct": true
+      },
+      {
+        "text": "Adaptation climatique, résistance aux maladies, facilité de transport et rentabilité économique",
+        "correct": false
+      },
+      {
+        "text": "Cycle reproductif régulier, omnivorie, intelligence développée et absence de migration",
+        "correct": false
+      }
+    ],
+    "source": [
+      "https://fac.umc.edu.dz/vet/Cours_Ligne/cours_20_21/Zootechnie_A2/zootechnie_ruminants.pdf",
+      "https://fr.scribd.com/document/743788552/Zootechnie-Generale-1",
+      "https://horizon.documentation.ird.fr/exl-doc/pleins_textes/pleins_textes_5/b_fdi_20-21/28046.pdf"
+    ]
+  },
+  {
+    "question": "Quelle est la dénomination scientifique exacte des bovins domestiques ?",
+    "choices": [
+      {
+        "text": "Bos taurus",
+        "correct": true
+      },
+      {
+        "text": "Bos domesticus",
+        "correct": false
+      },
+      {
+        "text": "Bos europaeus",
+        "correct": false
+      },
+      {
+        "text": "Bos bovinus",
+        "correct": false
+      },
+      {
+        "text": "Bos communis",
+        "correct": false
+      }
+    ],
+    "source": [
+      "https://www.supervet.expert/combien-de-temps-dure-la-gestation-dune-vache/",
+      "https://fr.wikipedia.org/wiki/Bovinae",
+      "https://idele.fr/fileadmin/medias/Images/ITA-identification/Annexe_arrete_Identification_des_Bovins_v1.30.pdf"
+    ]
+  },
+  {
+    "question": "Selon les statistiques officielles récentes, quelle race bovine prédomine numériquement en France ?",
+    "choices": [
+      {
+        "text": "Charolaise (1,8 million de vaches)",
+        "correct": false
+      },
+      {
+        "text": "Montbéliarde (700 000 vaches)",
+        "correct": false
+      },
+      {
+        "text": "Prim'Holstein (2,8 millions de vaches)",
+        "correct": true
+      },
+      {
+        "text": "Normande (600 000 vaches)",
+        "correct": false
+      },
+      {
+        "text": "Limousine (900 000 vaches)",
+        "correct": false
+      }
+    ],
+    "source": [
+      "https://fr.wikipedia.org/wiki/Liste_des_races_bovines_de_France",
+      "https://bonjourlebon.fr/journal/races-viande-bovine-france-n33",
+      "https://nature-regions.com/comprendre-les-races-bovines/"
+    ]
+  },
+  {
+    "question": "Comment classe-t-on officiellement les races bovines françaises selon leurs aptitudes zootechniques ?",
+    "choices": [
+      {
+        "text": "Races de montagne, races de plaine, races littorales et races urbaines",
+        "correct": false
+      },
+      {
+        "text": "Races laitières, races mixtes (lait et viande), races à viande et races rustiques",
+        "correct": true
+      },
+      {
+        "text": "Races précoces, races tardives, races saisonnières et races continues",
+        "correct": false
+      },
+      {
+        "text": "Races intensives, races semi-intensives, races extensives et races biologiques",
+        "correct": false
+      },
+      {
+        "text": "Races européennes, races africaines, races asiatiques et races américaines",
+        "correct": false
+      }
+    ],
+    "source": [
+      "https://fr.wikipedia.org/wiki/Liste_des_races_bovines_de_France",
+      "https://la-viande.fr/animal-elevage/boeuf/races-bovines",
+      "https://bonjourlebon.fr/journal/races-viande-bovine-france-n33"
+    ]
+  },
+  {
+    "question": "Quelle classification des races ovines est utilisée en zootechnie française ?",
+    "choices": [
+      {
+        "text": "Races de laine fine, races de laine épaisse et races sans laine",
+        "correct": false
+      },
+      {
+        "text": "Races précoces, races d'herbages, races rustiques, races prolifiques et races laitières",
+        "correct": true
+      },
+      {
+        "text": "Races de bergerie, races de transhumance et races sédentaires",
+        "correct": false
+      },
+      {
+        "text": "Races blanches, races pigmentées et races tachetées",
+        "correct": false
+      },
+      {
+        "text": "Races cornues, races mottes et races polycères",
+        "correct": false
+      }
+    ],
+    "source": [
+      "https://chambres-agriculture.fr/actualites/actualite/a-la-decouverte-des-races-ovines-francaises-histoire-genetique-et-diversite",
+      "https://fr.wikipedia.org/wiki/Liste_et_classification_des_races_ovines_de_France",
+      "https://la-viande.fr/animal-elevage/agneau/races-ovines"
+    ]
+  },
+  {
+    "question": "Quelles sont les trois races porcines de base du schéma de sélection français ?",
+    "choices": [
+      {
+        "text": "Duroc, Hampshire et Yorkshire",
+        "correct": false
+      },
+      {
+        "text": "Large White, Landrace Français et Piétrain",
+        "correct": true
+      },
+      {
+        "text": "Blanc de l'Ouest, Bayeux et Normand",
+        "correct": false
+      },
+      {
+        "text": "Gascon, Basque et Limousin",
+        "correct": false
+      },
+      {
+        "text": "Mangalitsa, Tamworth et Gloucester",
+        "correct": false
+      }
+    ],
+    "source": [
+      "https://www.youtube.com/watch?v=NordaeVfNoQ",
+      "https://fr.wikipedia.org/wiki/Liste_des_races_porcines_de_France",
+      "https://svs.agroparistech.fr/especes/porcins.htm"
+    ]
+  },
+  {
+    "question": "Quel est l'objectif principal de la maîtrise de la reproduction en élevage moderne ?",
+    "choices": [
+      {
+        "text": "Synchroniser tous les cycles reproductifs sur le calendrier civil",
+        "correct": false
+      },
+      {
+        "text": "Assurer le renouvellement des générations au meilleur coût avec la qualité voulue",
+        "correct": true
+      },
+      {
+        "text": "Maximiser le nombre de descendants par reproducteur sans considération qualitative",
+        "correct": false
+      },
+      {
+        "text": "Uniformiser les caractères phénotypiques de tous les animaux du troupeau",
+        "correct": false
+      },
+      {
+        "text": "Éliminer complètement la variabilité génétique au sein des populations",
+        "correct": false
+      }
+    ],
+    "source": [
+      "https://productions-animales.org/article/download/4314/12837/31110",
+      "https://formation.cnam.fr/rechercher-par-discipline/zootechnie-2-reproduction-et-productions-animales-207770.kjsp",
+      "https://knowunity.fr/knows/stav-la-reproduction-zootechnie-811a5637-76f4-4dcd-b199-e2c53a046cca"
+    ]
+  },
+  {
+    "question": "Quels sont les deux principaux avantages de l'insémination artificielle en élevage ?",
+    "choices": [
+      {
+        "text": "Réduction des coûts d'alimentation et amélioration de la croissance des jeunes",
+        "correct": false
+      },
+      {
+        "text": "Diffusion de la génétique de mâles de haute valeur et amélioration de la sécurité sanitaire",
+        "correct": true
+      },
+      {
+        "text": "Synchronisation parfaite des chaleurs et augmentation systématique de la prolificité",
+        "correct": false
+      },
+      {
+        "text": "Élimination totale des maladies héréditaires et accélération de la maturation sexuelle",
+        "correct": false
+      },
+      {
+        "text": "Standardisation complète des caractères et réduction des coûts de logement",
+        "correct": false
+      }
+    ],
+    "source": [
+      "https://fr.wikipedia.org/wiki/Ins%C3%A9mination_artificielle",
+      "https://productions-animales.org/article/download/4314/12837/31110",
+      "https://www.procreation-medicale.fr/insemination-artificielle-ia/"
+    ]
+  },
+  {
+    "question": "Sur quoi repose fondamentalement l'amélioration génétique moderne en élevage ?",
+    "choices": [
+      {
+        "text": "Modification directe de l'ADN par des techniques de génie génétique avancées",
+        "correct": false
+      },
+      {
+        "text": "Sélection sur la valeur génétique additive et maîtrise de l'héritabilité des caractères",
+        "correct": true
+      },
+      {
+        "text": "Croisement systématique entre races différentes pour créer de nouvelles lignées",
+        "correct": false
+      },
+      {
+        "text": "Élimination progressive de tous les gènes récessifs par consanguinité dirigée",
+        "correct": false
+      },
+      {
+        "text": "Application exclusive de la sélection génomique basée sur les marqueurs moléculaires",
+        "correct": false
+      }
+    ],
+    "source": [
+      "https://planet-vie.ens.fr/thematiques/ecologie/production-agricole-agrosystemes/introduction-a-l-amelioration-genetique",
+      "https://chambres-agriculture.fr/sinformer/nos-ressources/elevage/genetique",
+      "https://www.salers.org/fr/content/genetique-et-selection"
+    ]
+  },
+  {
+    "question": "Quels sont les cinq groupes de nutriments essentiels dans l'alimentation animale ?",
+    "choices": [
+      {
+        "text": "Glucides, protides, lipides, vitamines et oligo-éléments",
+        "correct": false
+      },
+      {
+        "text": "Énergie, protéines, fibres, vitamines et minéraux",
+        "correct": true
+      },
+      {
+        "text": "Matières azotées, matières grasses, cellulose, amidon et eau",
+        "correct": false
+      },
+      {
+        "text": "Acides aminés, acides gras, sucres, sels minéraux et facteurs de croissance",
+        "correct": false
+      },
+      {
+        "text": "Substrats énergétiques, matières plastiques, catalyseurs, régulateurs et diluants",
+        "correct": false
+      }
+    ],
+    "source": [
+      "https://fr.wikipedia.org/wiki/Alimentation_animale",
+      "https://novial.fr/la-nutrition-animale-novial/",
+      "https://formationcontinue.institut-agro-rennes-angers.fr/formations/nutrition-et-alimentation-animales-les-fondamentaux-0"
+    ]
+  },
+  {
+    "question": "Quels sont les cinq facteurs environnementaux prioritaires pour le logement des animaux d'élevage ?",
+    "choices": [
+      {
+        "text": "Surface au sol, hauteur sous plafond, orientation des bâtiments, couleur des matériaux et acoustique",
+        "correct": false
+      },
+      {
+        "text": "Température, ventilation, humidité, espace disponible et luminosité",
+        "correct": true
+      },
+      {
+        "text": "Facilité de nettoyage, résistance des matériaux, esthétique, coût d'entretien et durabilité",
+        "correct": false
+      },
+      {
+        "text": "Proximité des habitations, accès routier, alimentation électrique, approvisionnement en eau et évacuation",
+        "correct": false
+      },
+      {
+        "text": "Protection contre les intempéries, isolation thermique, étanchéité, sécurité incendie et anti-intrusion",
+        "correct": false
+      }
+    ],
+    "source": [
+      "https://grands-troupeaux-mag.fr/wp-content/uploads/2022/03/Le-logement-des-ruminants.pdf",
+      "https://fr.scribd.com/document/806358398/Notes-de-Cours-de-Logement-des-animaux-domestiques-Msc-Bedze",
+      "https://books.openedition.org/cths/15630?lang=fr"
+    ]
+  },
+  {
+    "question": "Comment l'ANSES définit-elle officiellement le bien-être animal ?",
+    "choices": [
+      {
+        "text": "Absence de stress et de douleur dans un environnement naturel reconstitué",
+        "correct": false
+      },
+      {
+        "text": "État physique et mental positif lié à la satisfaction des besoins physiologiques et comportementaux",
+        "correct": true
+      },
+      {
+        "text": "Conditions d'élevage respectant les cinq libertés fondamentales sans exception",
+        "correct": false
+      },
+      {
+        "text": "Équilibre entre les impératifs de production et les besoins biologiques de l'espèce",
+        "correct": false
+      },
+      {
+        "text": "Adaptation optimale de l'animal à son environnement d'élevage artificiel",
+        "correct": false
+      }
+    ],
+    "source": [
+      "https://agriculture.gouv.fr/le-bien-etre-animal-quest-ce-que-cest",
+      "https://bien-etre-animal.chambres-agriculture.fr/definir-et-mettre-en-oeuvre",
+      "https://chlorofil.fr/fileadmin/user_upload/epa2/cahier/4p-epa-bien-etre-animal.pdf"
+    ]
+  },
+  {
+    "question": "Quelles sont exactement les 5 libertés fondamentales du bien-être animal ?",
+    "choices": [
+      {
+        "text": "Liberté de mouvement, de reproduction, de socialisation, d'expression et de choix alimentaire",
+        "correct": false
+      },
+      {
+        "text": "Absence de faim/soif, d'inconfort, de douleur/maladie, de peur/stress, et possibilité d'exprimer les comportements naturels",
+        "correct": true
+      },
+      {
+        "text": "Accès à l'eau, à la nourriture, à l'abri, aux soins vétérinaires et à l'espace extérieur",
+        "correct": false
+      },
+      {
+        "text": "Protection contre les prédateurs, les maladies, le froid, la chaleur et les nuisances sonores",
+        "correct": false
+      },
+      {
+        "text": "Droit au repos, à la reproduction, à la croissance, à la santé et à la longévité",
+        "correct": false
+      }
+    ],
+    "source": [
+      "https://agriculture.gouv.fr/le-bien-etre-animal-quest-ce-que-cest",
+      "https://bien-etre-animal.chambres-agriculture.fr/definir-et-mettre-en-oeuvre",
+      "https://chlorofil.fr/fileadmin/user_upload/epa2/cahier/4p-epa-bien-etre-animal.pdf"
+    ]
+  },
+  {
+    "question": "Quelles sont les trois principales voies de transmission des maladies infectieuses en élevage ?",
+    "choices": [
+      {
+        "text": "Transmission aérienne, hydrique et alimentaire",
+        "correct": false
+      },
+      {
+        "text": "Transmission directe, indirecte et vectorielle",
+        "correct": true
+      },
+      {
+        "text": "Transmission verticale, horizontale et environnementale",
+        "correct": false
+      },
+      {
+        "text": "Transmission contagieuse, héréditaire et acquise",
+        "correct": false
+      },
+      {
+        "text": "Transmission bactérienne, virale et parasitaire",
+        "correct": false
+      }
+    ],
+    "source": [
+      "https://umr-astre.cirad.fr/FichiersComplementaires/mallette-pedagogique-sante-animale-fiches-maladies.pdf",
+      "https://anses.fr/fr/content/maladies-transmises-vecteurs-enjeu-sante-bovins",
+      "https://agriculture.gouv.fr/maladies-animales"
+    ]
+  },
+  {
+    "question": "Selon GDS France, la biosécurité en élevage se définit comme :",
+    "choices": [
+      {
+        "text": "Application exclusive des réglementations sanitaires européennes en vigueur",
+        "correct": false
+      },
+      {
+        "text": "Ensemble des mesures de protection pour prévenir l'introduction et la dissémination d'agents pathogènes",
+        "correct": true
+      },
+      {
+        "text": "Utilisation raisonnée d'antibiotiques et de vaccins pour la prévention des maladies",
+        "correct": false
+      },
+      {
+        "text": "Mise en place d'un système de traçabilité complète de tous les animaux et produits",
+        "correct": false
+      },
+      {
+        "text": "Isolement géographique des élevages par rapport aux zones à risque sanitaire",
+        "correct": false
+      }
+    ],
+    "source": [
+      "https://gdsfrance.org/biosecurite-en-elevage/",
+      "https://gds64.fr/prevention-services/prevention/hygiene-biosecurite/",
+      "https://www.frgdsaura.fr/la-biosecurite-en-elevage"
+    ]
+  },
+  {
+    "question": "Quels sont les quatre piliers de la conduite de troupeau en élevage moderne ?",
+    "choices": [
+      {
+        "text": "Alimentation, abreuvement, hébergement et surveillance quotidienne",
+        "correct": false
+      },
+      {
+        "text": "Gestion de la reproduction, de l'alimentation, de la santé et du suivi des performances",
+        "correct": true
+      },
+      {
+        "text": "Sélection génétique, amélioration sanitaire, optimisation nutritionnelle et mécanisation",
+        "correct": false
+      },
+      {
+        "text": "Planification, organisation, contrôle et évaluation des résultats techniques",
+        "correct": false
+      },
+      {
+        "text": "Prévention, traitement, isolement et réforme des animaux à problèmes",
+        "correct": false
+      }
+    ],
+    "source": [
+      "https://apecita.com/actualites/conduite-de-lelevage-le-responsable-de-troupeau-est-loin-detre-un-mouton",
+      "https://inn-ovin.fr/wp-content/uploads/2017/03/Constitution-troupeau-et-son-inventaire.pdf",
+      "http://ct33.espaces-naturels.fr/la-conduite-generale-du-troupeau"
+    ]
+  },
+  {
+    "question": "Quels sont les cinq indicateurs clés pour évaluer les performances zootechniques d'un élevage ?",
+    "choices": [
+      {
+        "text": "Mortalité, morbidité, fertilité, fécondité et longévité productive",
+        "correct": false
+      },
+      {
+        "text": "Croissance, reproduction, production, santé et efficacité alimentaire",
+        "correct": true
+      },
+      {
+        "text": "Précocité, prolificité, productivité, rentabilité et durabilité",
+        "correct": false
+      },
+      {
+        "text": "Poids vif, gain moyen quotidien, indice de consommation, taux de conversion et rendement carcasse",
+        "correct": false
+      },
+      {
+        "text": "Coût de production, marge brute, amortissement, charges opérationnelles et bénéfice net",
+        "correct": false
+      }
+    ],
+    "source": [
+      "https://agritrop.cirad.fr/553132/1/document_553132.pdf",
+      "https://revues.cirad.fr/index.php/REMVT/article/download/10004/9998/0",
+      "https://gea.com/fr/stories/modern-herd-management-a-smarter-way-to-farm/"
+    ]
+  },
+  {
+    "question": "Quelles sont les quatre mesures fondamentales d'hygiène en élevage ?",
+    "choices": [
+      {
+        "text": "Isolation, ventilation, éclairage et chauffage des bâtiments",
+        "correct": false
+      },
+      {
+        "text": "Nettoyage, désinfection, vide sanitaire et gestion des effluents",
+        "correct": true
+      },
+      {
+        "text": "Vaccination, vermifugation, pédiluve et quarantaine des nouveaux animaux",
+        "correct": false
+      },
+      {
+        "text": "Contrôle des accès, identification des animaux, tenue de registres et formation du personnel",
+        "correct": false
+      },
+      {
+        "text": "Analyse d'eau, contrôle des aliments, dératisation et désinsectisation",
+        "correct": false
+      }
+    ],
+    "source": [
+      "https://paysan-breton.fr/2022/06/lhygiene-en-elevage/",
+      "https://servicesgo.fr/desinfection-en-elevage-prevenir-maladies-et-pertes-2/",
+      "https://vetagro-sup.scenari-community.org/La%20Peste%20Porcine%20Africaine/res/4_c.pdf"
+    ]
+  },
+  {
+    "question": "Quels sont les cinq principaux facteurs de risque sanitaire en élevage ?",
+    "choices": [
+      {
+        "text": "Surpeuplement, malnutrition, stress thermique, consanguinité et vieillissement du cheptel",
+        "correct": false
+      },
+      {
+        "text": "Introduction d'animaux, voisinage, matériel commun, visiteurs et faune sauvage",
+        "correct": true
+      },
+      {
+        "text": "Défaut d'aération, humidité excessive, température inadaptée, éclairage insuffisant et bruit",
+        "correct": false
+      },
+      {
+        "text": "Manque de surveillance, retard de diagnostic, sous-dosage thérapeutique, résistances et rechutes",
+        "correct": false
+      },
+      {
+        "text": "Alimentation déséquilibrée, eau de mauvaise qualité, litière souillée, espaces confinés et promiscuité",
+        "correct": false
+      }
+    ],
+    "source": [
+      "https://gds64.fr/prevention-services/prevention/hygiene-biosecurite/",
+      "https://gdsfrance.org/biosecurite-en-elevage/",
+      "https://agrialpro.fr/blog/post/la-biosecurite-maitriser-la-sante-de-mon-elevage"
+    ]
+  },
+  {
+    "question": "Quelle est la durée de gestation moyenne de la vache selon les données récentes ?",
+    "choices": [
+      {
+        "text": "270 jours (9 mois calendaires)",
+        "correct": false
+      },
+      {
+        "text": "283 jours selon les études récentes (280-287 jours selon les races)",
+        "correct": true
+      },
+      {
+        "text": "290 jours (9 mois et demi)",
+        "correct": false
+      },
+      {
+        "text": "275 jours (exactement 39 semaines)",
+        "correct": false
+      },
+      {
+        "text": "300 jours (10 months)",
+        "correct": false
+      }
+    ],
+    "source": [
+      "https://www.supervet.expert/combien-de-temps-dure-la-gestation-dune-vache/",
+      "https://idele.fr/detail-article/comprendre-la-genetique-de-la-duree-de-gestation",
+      "https://www.web-agri.fr/genetique/article/868645/durees-de-gestation-des-bovins-un-index-a-double-tranchant"
+    ]
+  },
+  {
+    "question": "Quelle est la durée de gestation exacte chez la truie selon l'adage traditionnel ?",
+    "choices": [
+      {
+        "text": "3 mois, 2 semaines et 5 jours (environ 110 jours)",
+        "correct": false
+      },
+      {
+        "text": "3 mois, 3 semaines et 3 jours (114-116 jours)",
+        "correct": true
+      },
+      {
+        "text": "3 mois et 4 semaines exactement (112 jours)",
+        "correct": false
+      },
+      {
+        "text": "4 mois moins une semaine (115 jours)",
+        "correct": false
+      },
+      {
+        "text": "16 semaines et 2 jours (114 jours)",
+        "correct": false
+      }
+    ],
+    "source": [
+      "https://lemagdesanimaux.ouest-france.fr/dossier-982-reproduction-cochon.html",
+      "https://www.leporc.com/le-porc-en-france/elevage/elevage-porcin",
+      "https://www.3trois3.com/articles/la-duree-de-la-gestation-est-elle-en-train-de-chez-les-truies_15149/"
+    ]
+  },
+  {
+    "question": "Quelle est la durée de gestation de la brebis selon les sources vétérinaires ?",
+    "choices": [
+      {
+        "text": "4 mois et 3 semaines (143 jours)",
+        "correct": false
+      },
+      {
+        "text": "5 mois (145-152 jours, moyenne 147 jours)",
+        "correct": true
+      },
+      {
+        "text": "21 semaines exactement (147 jours)",
+        "correct": false
+      },
+      {
+        "text": "5 mois et 1 semaine (154 jours)",
+        "correct": false
+      },
+      {
+        "text": "20 semaines et 5 jours (145 days)",
+        "correct": false
+      }
+    ],
+    "source": [
+      "https://www.supervet.expert/duree-de-gestation-dune-brebis/",
+      "https://www.ecomouton.fr/lautomne-la-periode-de-reproduction-chez-les-moutons",
+      "https://lemagdesanimaux.ouest-france.fr/dossier-965-reproduction-mouton.html"
+    ]
+  },
+  {
+    "question": "Comment classe-t-on scientifiquement les besoins nutritionnels des animaux d'élevage ?",
+    "choices": [
+      {
+        "text": "Besoins vitaux, besoins de développement et besoins de performance",
+        "correct": false
+      },
+      {
+        "text": "Besoins d'entretien, de croissance, de production et de reproduction",
+        "correct": true
+      },
+      {
+        "text": "Besoins énergétiques, plastiques et fonctionnels",
+        "correct": false
+      },
+      {
+        "text": "Besoins quantitatifs et besoins qualitatifs",
+        "correct": false
+      },
+      {
+        "text": "Besoins primaires et besoins secondaires",
+        "correct": false
+      }
+    ],
+    "source": [
+      "https://fr.wikipedia.org/wiki/Alimentation_animale",
+      "https://fac.umc.edu.dz/vet/Cours_Ligne/Cours/Alimentation/Alimentation_A2.pdf",
+      "https://formationcontinue.institut-agro-rennes-angers.fr/formations/nutrition-et-alimentation-animales-les-fondamentaux-0"
+    ]
+  },
+  {
+    "question": "Une zoonose se définit précisément comme :",
+    "choices": [
+      {
+        "text": "Maladie spécifique aux animaux de zoo et parcs animaliers",
+        "correct": false
+      },
+      {
+        "text": "Maladie transmissible naturellement de l'animal vertébré à l'homme",
+        "correct": true
+      },
+      {
+        "text": "Pathologie génétique héréditaire des animaux domestiques",
+        "correct": false
+      },
+      {
+        "text": "Infection nosocomiale contractée lors d'interventions vétérinaires",
+        "correct": false
+      },
+      {
+        "text": "Syndrome d'adaptation des animaux sauvages à la captivité",
+        "correct": false
+      }
+    ],
+    "source": [
+      "https://umr-astre.cirad.fr/FichiersComplementaires/mallette-pedagogique-sante-animale-fiches-maladies.pdf",
+      "https://anses.fr/fr/content/maladies-transmises-vecteurs-enjeu-sante-bovins",
+      "https://officiel-prevention.com/dossier/formation/fiches-metier/la-prevention-des-risques-des-metiers-de-lelevage"
+    ]
+  },
+  {
+    "question": "Pourquoi l'identification obligatoire des animaux d'élevage a-t-elle été mise en place ?",
+    "choices": [
+      {
+        "text": "Faciliter le comptage et l'inventaire du cheptel national",
+        "correct": false
+      },
+      {
+        "text": "Assurer la traçabilité sanitaire, contrôler les mouvements d'animaux et gérer les données génétiques",
+        "correct": true
+      },
+      {
+        "text": "Prévenir le vol et améliorer la sécurité des exploitations",
+        "correct": false
+      },
+      {
+        "text": "Harmoniser les pratiques d'élevage au niveau européen",
+        "correct": false
+      },
+      {
+        "text": "Optimiser la gestion informatisée des troupeaux modernes",
+        "correct": false
+      }
+    ],
+    "source": [
+      "https://idele.fr/fileadmin/medias/Images/ITA-identification/Annexe_arrete_Identification_des_Bovins_v1.30.pdf",
+      "https://inn-ovin.fr/wp-content/uploads/2017/03/Constitution-troupeau-et-son-inventaire.pdf",
+      "https://programmes.uliege.be/cocoon/cours/VETE2057-1.html"
+    ]
+  },
+  {
+    "question": "Quels sont les quatre principaux effets du stress thermique sur les animaux d'élevage ?",
+    "choices": [
+      {
+        "text": "Augmentation de l'activité, hyperphagie, tachycardie et déshydratation",
+        "correct": false
+      },
+      {
+        "text": "Baisse de production, troubles reproductifs, problèmes sanitaires et risque de mortalité",
+        "correct": true
+      },
+      {
+        "text": "Modification du comportement, altération de la croissance, baisse d'immunité et fatigue chronique",
+        "correct": false
+      },
+      {
+        "text": "Diminution de l'appétit, perte de poids, apathie et isolement social",
+        "correct": false
+      },
+      {
+        "text": "Hyperthermie, polypnée, prostration et convulsions",
+        "correct": false
+      }
+    ],
+    "source": [
+      "https://pleinchamp.com/actualite/pathologies-en-elevage-le-changement-climatique-au-centre-des-reflexions-pour-l-elevage-de-demain",
+      "https://grands-troupeaux-mag.fr/wp-content/uploads/2022/03/Le-logement-des-ruminants.pdf",
+      "https://fr.scribd.com/document/806358398/Notes-de-Cours-de-Logement-des-animaux-domestiques-Msc-Bedze"
+    ]
+  },
+  {
+    "question": "Quel est le rôle prioritaire de la ventilation dans les bâtiments d'élevage ?",
+    "choices": [
+      {
+        "text": "Économiser l'énergie de chauffage et réduire les coûts énergétiques",
+        "correct": false
+      },
+      {
+        "text": "Renouveler l'air, réguler la température, contrôler l'humidité et évacuer les gaz nocifs",
+        "correct": true
+      },
+      {
+        "text": "Homogénéiser la température dans tous les secteurs du bâtiment",
+        "correct": false
+      },
+      {
+        "text": "Protéger contre les insectes et limiter l'entrée des agents pathogènes",
+        "correct": false
+      },
+      {
+        "text": "Réduire les nuisances olfactives pour le voisinage et l'environnement",
+        "correct": false
+      }
+    ],
+    "source": [
+      "https://grands-troupeaux-mag.fr/wp-content/uploads/2022/03/Le-logement-des-ruminants.pdf",
+      "https://fr.scribd.com/document/806358398/Notes-de-Cours-de-Logement-des-animaux-domestiques-Msc-Bedze",
+      "https://acta.asso.fr/wp-content/uploads/2023/02/Plaquette-BienEtreAnimaux_Eleveurs.pdf"
+    ]
+  },
+  {
+    "question": "La sélection génomique en élevage correspond à :",
+    "choices": [
+      {
+        "text": "Modification directe des gènes par thérapie génique appliquée",
+        "correct": false
+      },
+      {
+        "text": "Évaluation génétique précoce basée sur l'analyse du génome complet",
+        "correct": true
+      },
+      {
+        "text": "Sélection basée uniquement sur les caractères morphologiques visibles",
+        "correct": false
+      },
+      {
+        "text": "Croisement dirigé entre animaux de races géographiquement éloignées",
+        "correct": false
+      },
+      {
+        "text": "Utilisation exclusive d'animaux issus de clonage reproductif",
+        "correct": false
+      }
+    ],
+    "source": [
+      "https://eliance.fr/fr/expertises/amelioration-genetique",
+      "https://productions-animales.org/article/view/3261",
+      "https://mediatheque.ifce.fr/doc_num.php?explnum_id=22683"
+    ]
+  },
+  {
+    "question": "L'objectif principal du croisement entre races en élevage est de :",
+    "choices": [
+      {
+        "text": "Créer de nouvelles races parfaitement adaptées au climat local",
+        "correct": false
+      },
+      {
+        "text": "Exploiter l'hétérosis (vigueur hybride) et combiner les qualités complémentaires",
+        "correct": true
+      },
+      {
+        "text": "Augmenter la variabilité génétique au sein d'une même population",
+        "correct": false
+      },
+      {
+        "text": "Réduire les coûts de production par standardisation génétique",
+        "correct": false
+      },
+      {
+        "text": "Éliminer les caractères indésirables par dilution génétique progressive",
+        "correct": false
+      }
+    ],
+    "source": [
+      "https://formation.cnam.fr/rechercher-par-discipline/zootechnie-2-reproduction-et-productions-animales-207770.kjsp",
+      "https://fr.wikipedia.org/wiki/Méthode_de_reproduction",
+      "https://avsf.org/app/uploads/2024/04/Note-technique-AVSF-genetique-animale-202413.pdf"
+    ]
+  },
+  {
+    "question": "Le sevrage en zootechnie désigne précisément :",
+    "choices": [
+      {
+        "text": "Première mise à la reproduction des jeunes femelles",
+        "correct": false
+      },
+      {
+        "text": "Séparation définitive des jeunes de leur mère avec arrêt de l'allaitement",
+        "correct": true
+      },
+      {
+        "text": "Passage d'une alimentation liquide à une alimentation solide",
+        "correct": false
+      },
+      {
+        "text": "Transfert des jeunes animaux vers un nouveau bâtiment d'élevage",
+        "correct": false
+      },
+      {
+        "text": "Début de l'autonomie alimentaire des jeunes par apprentissage",
+        "correct": false
+      }
+    ],
+    "source": [
+      "https://inn-ovin.fr/wp-content/uploads/2017/03/Constitution-troupeau-et-son-inventaire.pdf",
+      "https://nomadeducation.fr/revisions/btsa-analyse-conduite-et-strategie-de-l-entrepris-lb93a882/reproduction-des-animaux-delevage-cy883828",
+      "https://knowunity.fr/knows/stav-la-reproduction-zootechnie-811a5637-76f4-4dcd-b199-e2c53a046cca"
+    ]
+  },
+  {
+    "question": "Quelle est la durée minimale recommandée pour la quarantaine des animaux nouvellement introduits ?",
+    "choices": [
+      {
+        "text": "15 jours minimum selon la réglementation européenne",
+        "correct": false
+      },
+      {
+        "text": "3 à 4 semaines minimum selon les bonnes pratiques",
+        "correct": true
+      },
+      {
+        "text": "6 semaines pour éliminer tous les risques de maladie",
+        "correct": false
+      },
+      {
+        "text": "2 semaines suffisent pour la plupart des pathologies courantes",
+        "correct": false
+      },
+      {
+        "text": "8 semaines pour les reproducteurs de haute valeur génétique",
+        "correct": false
+      }
+    ],
+    "source": [
+      "https://gdsfrance.org/biosecurite-en-elevage/",
+      "https://vetagro-sup.scenari-community.org/La%20Peste%20Porcine%20Africaine/res/4_c.pdf",
+      "https://agrialpro.fr/blog/post/la-biosecurite-maitriser-la-sante-de-mon-elevage"
+    ]
+  },
+  {
+    "question": "Quels sont les quatre critères principaux de réforme d'un animal reproducteur ?",
+    "choices": [
+      {
+        "text": "Poids vif, conformation, couleur de robe et caractère docile",
+        "correct": false
+      },
+      {
+        "text": "Âge, performances reproductives, état sanitaire et qualité de la descendance",
+        "correct": true
+      },
+      {
+        "text": "Coût d'entretien, facilité de manipulation, adaptation climatique et longévité",
+        "correct": false
+      },
+      {
+        "text": "Valeur génétique, origine géographique, prix d'achat et potentiel de croissance",
+        "correct": false
+      },
+      {
+        "text": "Fertilité, fécondité, précocité sexuelle et instinct maternel",
+        "correct": false
+      }
+    ],
+    "source": [
+      "https://inn-ovin.fr/wp-content/uploads/2017/03/Constitution-troupeau-et-son-inventaire.pdf",
+      "http://ct33.espaces-naturels.fr/la-conduite-generale-du-troupeau",
+      "https://apecita.com/actualites/conduite-de-lelevage-le-responsable-de-troupeau-est-loin-detre-un-mouton"
+    ]
+  },
+  {
+    "question": "La conduite en bandes en élevage consiste à :",
+    "choices": [
+      {
+        "text": "Séparer les animaux par espèce dans des bâtiments différents",
+        "correct": false
+      },
+      {
+        "text": "Regrouper des animaux de même âge avec synchronisation des phases d'élevage",
+        "correct": true
+      },
+      {
+        "text": "Organiser les animaux par ordre décroissant de poids vif",
+        "correct": false
+      },
+      {
+        "text": "Alterner mâles et femelles pour optimiser la reproduction",
+        "correct": false
+      },
+      {
+        "text": "Constituer des groupes selon l'origine génétique des animaux",
+        "correct": false
+      }
+    ],
+    "source": [
+      "https://vetagro-sup.scenari-community.org/La%20Peste%20Porcine%20Africaine/res/4_c.pdf",
+      "https://inn-ovin.fr/wp-content/uploads/2017/03/Constitution-troupeau-et-son-inventaire.pdf",
+      "https://paysan-breton.fr/2022/06/lhygiene-en-elevage/"
+    ]
+  },
+  {
+    "question": "L'indice de consommation en zootechnie représente :",
+    "choices": [
+      {
+        "text": "La quantité d'aliment consommée par jour et par animal",
+        "correct": false
+      },
+      {
+        "text": "Le rapport entre la quantité d'aliment consommé et le gain de poids obtenu",
+        "correct": true
+      },
+      {
+        "text": "Le coût total de l'alimentation par kilogramme de produit fini",
+        "correct": false
+      },
+      {
+        "text": "Le pourcentage d'aliment valorisé par rapport à l'ingéré total",
+        "correct": false
+      },
+      {
+        "text": "Le nombre de repas quotidiens nécessaires à la croissance optimale",
+        "correct": false
+      }
+    ],
+    "source": [
+      "https://novial.fr/la-nutrition-animale-novial/",
+      "https://foodcom.pl/fr/nutrition-animale-guide-pratique/",
+      "https://formationcontinue.institut-agro-rennes-angers.fr/formations/nutrition-et-alimentation-animales-les-fondamentaux-0"
+    ]
+  },
+  {
+    "question": "La prolificité en élevage se définit comme :",
+    "choices": [
+      {
+        "text": "La capacité de reproduction élevée d'un reproducteur mâle",
+        "correct": false
+      },
+      {
+        "text": "Le nombre de jeunes nés viables par femelle reproductrice et par mise bas ou par an",
+        "correct": true
+      },
+      {
+        "text": "Le pourcentage de femelles reproductrices dans un troupeau",
+        "correct": false
+      },
+      {
+        "text": "La précocité sexuelle d'une race par rapport aux autres",
+        "correct": false
+      },
+      {
+        "text": "La capacité d'une femelle à élever ses jeunes jusqu'au sevrage",
+        "correct": false
+      }
+    ],
+    "source": [
+      "https://formation.cnam.fr/rechercher-par-discipline/zootechnie-2-reproduction-et-productions-animales-207770.kjsp",
+      "https://chambres-agriculture.fr/actualites/actualite/a-la-decouverte-des-races-ovines-francaises-histoire-genetique-et-diversite",
+      "https://inn-ovin.fr/wp-content/uploads/2017/03/Constitution-troupeau-et-son-inventaire.pdf"
+    ]
+  },
+  {
+    "question": "Quels sont les quatre facteurs principaux d'amélioration des performances zootechniques depuis 1950 ?",
+    "choices": [
+      {
+        "text": "Mécanisation, informatisation, spécialisation des exploitations et agrandissement des structures",
+        "correct": false
+      },
+      {
+        "text": "Amélioration génétique, maîtrise de l'alimentation, progrès sanitaires et modernisation des techniques d'élevage",
+        "correct": true
+      },
+      {
+        "text": "Développement de l'insémination artificielle, création de nouveaux aliments, vaccination généralisée et sélection sur index",
+        "correct": false
+      },
+      {
+        "text": "Recherche vétérinaire, formation des éleveurs, développement coopératif et soutiens publics",
+        "correct": false
+      },
+      {
+        "text": "Standardisation des méthodes, contrôle de performances, amélioration des bâtiments et organisation des filières",
+        "correct": false
+      }
+    ],
+    "source": [
+      "https://agriculture.gouv.fr/lalimentation-animale-facteur-damelioration-des-performances-zootechniques-en-elevage",
+      "https://l214.com/animaux/chiffres-cles/donnees-zootechnie-selection-genetique-elevage-viande-lait-oeufs/",
+      "https://fao.org/4/i1103f/i1103f.pdf"
+    ]
+  }
+]
