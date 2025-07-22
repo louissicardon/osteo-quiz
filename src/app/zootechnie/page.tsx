@@ -30,7 +30,7 @@ export default function Quiz2() {
 
   const loadQuestions = async () => {
     try {
-      const response = await fetch('/zootechnie.json')
+      const response = await fetch(`${process.env.NODE_ENV === 'production' ? '/osteo-quiz' : ''}/zootechnie.json`);
       if (!response.ok) {
         throw new Error('Erreur lors du chargement du fichier JSON')
       }
