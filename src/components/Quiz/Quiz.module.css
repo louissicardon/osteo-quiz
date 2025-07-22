@@ -1,6 +1,5 @@
 .container {
   font-family: Arial, sans-serif;
-  background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
   min-height: 100vh;
   padding: 2rem;
   display: flex;
@@ -22,7 +21,7 @@
   text-decoration: none;
   font-size: 1rem;
   font-weight: 500;
-  transition: color 0.3s ease;
+  transition: all 0.3s ease;
   background: rgba(255, 255, 255, 0.2);
   padding: 0.5rem 1rem;
   border-radius: 20px;
@@ -48,7 +47,7 @@
   backdrop-filter: blur(10px);
   padding: 1.5rem;
   border-radius: 15px;
-  box-shadow: 0 10px 30px rgba(245, 87, 108, 0.3);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
   border: 1px solid rgba(255, 255, 255, 0.2);
 }
 
@@ -69,7 +68,7 @@
   margin: 0.5rem 0;
   padding: 1rem;
   font-size: 1rem;
-  border: 2px solid #f093fb;
+  border: 2px solid var(--primary-color, #f093fb);
   border-radius: 8px;
   cursor: pointer;
   transition: all 0.3s ease;
@@ -78,8 +77,8 @@
 }
 
 .answerButton:hover:not(:disabled) {
-  border-color: #f5576c;
-  background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+  border-color: var(--secondary-color, #f5576c);
+  background: linear-gradient(135deg, var(--primary-color, #f093fb) 0%, var(--secondary-color, #f5576c) 100%);
   color: white;
   transform: translateY(-1px);
 }
@@ -108,7 +107,7 @@
   padding: 0.75rem;
   background: rgba(240, 147, 251, 0.1);
   border-radius: 8px;
-  border-left: 4px solid #f093fb;
+  border-left: 4px solid;
 }
 
 .sourceList {
@@ -121,7 +120,7 @@
 }
 
 .source a {
-  color: #f5576c;
+  color: var(--secondary-color, #f5576c);
   text-decoration: none;
   font-weight: 500;
 }
@@ -135,46 +134,46 @@
   padding: 0.75rem 1.5rem;
   font-size: 1rem;
   border: none;
-  background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
   color: white;
   border-radius: 25px;
   cursor: pointer;
   transition: all 0.3s ease;
   font-weight: 600;
-  box-shadow: 0 5px 15px rgba(245, 87, 108, 0.3);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
 }
 
 .nextButton:hover {
   transform: translateY(-2px);
-  box-shadow: 0 8px 20px rgba(245, 87, 108, 0.4);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
 }
 
 .progressContainer {
-  margin-bottom: 1.5rem;
   margin-top: 1.5rem;
   text-align: center;
+  width: 100%;
+  max-width: 800px;
 }
 
 .progressText {
   display: block;
   font-size: 1.5rem;
-  color: #666;
+  color: white;
   margin-bottom: 0.5rem;
   font-weight: 500;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
 }
 
 .progressBar {
   width: 100%;
-  height: 8px;
-  background-color: rgba(240, 147, 251, 0.3);
-  border-radius: 4px;
+  height: 10px;
+  background-color: rgba(255, 255, 255, 0.3);
+  border-radius: 5px;
   overflow: hidden;
 }
 
 .progressFill {
   height: 100%;
-  background: linear-gradient(135deg, blue 0%, #f5576c 100%);
-  border-radius: 4px;
+  border-radius: 5px;
   transition: width 0.3s ease;
 }
 
@@ -188,5 +187,9 @@
   
   .quizTitle {
     font-size: 1.3rem;
+  }
+  
+  .progressText {
+    font-size: 1.2rem;
   }
 }
