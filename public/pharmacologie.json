@@ -2,146 +2,146 @@
   {
     "question": "Lequel de ces médicaments est un AINS ?",
     "choices": [
-      { "text": "Carprofène", "correct": true },
-      { "text": "Atropine", "correct": false },
-      { "text": "Amoxicilline", "correct": false },
-      { "text": "Insuline", "correct": false },
-      { "text": "Furosémide", "correct": false }
+      {"text": "Carprofène", "correct": true},
+      {"text": "Atropine", "correct": false},
+      {"text": "Amoxicilline", "correct": false},
+      {"text": "Insuline", "correct": false},
+      {"text": "Furosémide", "correct": false}
     ],
     "source": [
-      "https://www.centredantipoisonanimal.fr/antiinflammatoires",
-      "https://www.vetcompendium.com/anti-inflammatoires-ains",
-      "https://www.santevet.com/anti-inflammatoires-animaux"
+      "https://www2.vetagro-sup.fr/bib/fondoc/th_sout/dl.php?file=2023lyon008.pdf",
+      "https://www.vetcompendium.be/fr/node/3556",
+      "https://www.advacarepharma.com/fr/produits-veterenaires/fabricant-anti-inflammatoires"
     ]
   },
   {
     "question": "Quel médicament appartient à la famille des antibiotiques ?",
     "choices": [
-      { "text": "Prednisone", "correct": false },
-      { "text": "Atropine", "correct": false },
-      { "text": "Gentamicine", "correct": true },
-      { "text": "Méloxicam", "correct": false },
-      { "text": "Insuline", "correct": false }
+      {"text": "Prednisone", "correct": false},
+      {"text": "Atropine", "correct": false},
+      {"text": "Gentamicine", "correct": true},
+      {"text": "Méloxicam", "correct": false},
+      {"text": "Insuline", "correct": false}
     ],
     "source": [
-      "https://www.anses.fr/fr/antibiotiques-veterinaires",
-      "https://www.biomerieux.fr/usage-antibiotiques-animaux",
-      "https://ordre-veterinaires.fr/fiches-antibiotiques-afvac"
+      "https://www.anses.fr/fr/system/files/ANMV2014SA0080Ra.pdf",
+      "https://productions-animales.org/article/view/7181",
+      "https://www.anses.fr/fr/system/files/SANT-Ra-ABR.pdf"
     ]
   },
   {
     "question": "Lequel de ces médicaments est un corticoïde ?",
     "choices": [
-      { "text": "Insuline", "correct": false },
-      { "text": "Atropine", "correct": false },
-      { "text": "Budésonide", "correct": true },
-      { "text": "Morphine", "correct": false },
-      { "text": "Méloxicam", "correct": false }
+      {"text": "Insuline", "correct": false},
+      {"text": "Atropine", "correct": false},
+      {"text": "Budésonide", "correct": true},
+      {"text": "Morphine", "correct": false},
+      {"text": "Méloxicam", "correct": false}
     ],
     "source": [
-      "https://vetsandclinics.com/corticoides-chien",
-      "https://www.vetopédia.com/traitements-corticoides",
-      "https://www.chuv.ch/fr/cortisone"
+      "https://www.cabinetvetderm.fr/cortisone-chien/",
+      "https://www.vetopedia.fr/traitements-corticoides-chien-chat/",
+      "https://ansm.sante.fr/rcp/prednisolone"
     ]
   },
   {
     "question": "Quel anesthésique local est le plus couramment utilisé ?",
     "choices": [
-      { "text": "Lidocaïne", "correct": true },
-      { "text": "Morphine", "correct": false },
-      { "text": "Prednisone", "correct": false },
-      { "text": "Méloxicam", "correct": false },
-      { "text": "Théophylline", "correct": false }
+      {"text": "Lidocaïne", "correct": true},
+      {"text": "Morphine", "correct": false},
+      {"text": "Prednisone", "correct": false},
+      {"text": "Méloxicam", "correct": false},
+      {"text": "Théophylline", "correct": false}
     ],
     "source": [
-      "https://www.vetcompendium.com/anesthesiques-locaux",
-      "https://cliniquehopia.fr/anesthesie-veterinaire",
-      "https://www.anicura.com/pratique-anesthesie-veterinaire"
+      "https://www.vetcompendium.be/fr/node/3603",
+      "http://doc-veto.oniris-nantes.fr/GED_CHN/194622491280/na_16_027.pdf",
+      "https://www.merckvetmanual.com/analgesia/local-regional-techniques"
     ]
   },
   {
     "question": "Lequel de ces médicaments est un opioïde ?",
     "choices": [
-      { "text": "Méloxicam", "correct": false },
-      { "text": "Fentanyl", "correct": true },
-      { "text": "Théophylline", "correct": false },
-      { "text": "Insuline", "correct": false },
-      { "text": "Diazépam", "correct": false }
+      {"text": "Méloxicam", "correct": false},
+      {"text": "Fentanyl", "correct": true},
+      {"text": "Théophylline", "correct": false},
+      {"text": "Insuline", "correct": false},
+      {"text": "Diazépam", "correct": false}
     ],
     "source": [
-      "https://www.vetcompendium.com/analgesie-veterinaire",
-      "https://www.lepointveterinaire.fr/analgesiques-perioperatoires",
-      "https://ordre-veterinaires.fr/analgesiques-opioides"
+      "https://www.veterinaire.fr/system/files/files/import/analgesiques-opioides.pdf",
+      "https://www.vetcompendium.be/fr/node/3556",
+      "https://www.lepointveterinaire.fr/publications/le-point-veterinaire/article/n-442/benefices-et-risques-de-l-utilisation-des-diuretiques-chez-les-nouveaux-animaux-de-compagnie.html"
     ]
   },
   {
     "question": "Quel médicament est un diurétique de l'anse ?",
     "choices": [
-      { "text": "Morphine", "correct": false },
-      { "text": "Prednisone", "correct": false },
-      { "text": "Insuline", "correct": false },
-      { "text": "Furosémide", "correct": true },
-      { "text": "Atropine", "correct": false }
+      {"text": "Morphine", "correct": false},
+      {"text": "Prednisone", "correct": false},
+      {"text": "Insuline", "correct": false},
+      {"text": "Furosémide", "correct": true},
+      {"text": "Atropine", "correct": false}
     ],
     "source": [
-      "https://www.lepointveterinaire.fr/diuretiques-mode-emploi",
-      "https://www.dogteur.com/diuretiques-chien-chat",
-      "https://www.vetcompendium.com/diuretiques"
+      "https://www.vetcompendium.be/fr/node/3482",
+      "https://www.medvet.fr/furosoral-40-mg",
+      "https://www.lepointveterinaire.fr/publications/le-point-veterinaire/article/n-442/benefices-et-risques-de-l-utilisation-des-diuretiques-chez-les-nouveaux-animaux-de-compagnie.html"
     ]
   },
   {
     "question": "Lequel de ces médicaments est un antihistaminique ?",
     "choices": [
-      { "text": "Chlorphéniramine", "correct": true },
-      { "text": "Furosémide", "correct": false },
-      { "text": "Prednisone", "correct": false },
-      { "text": "Morphine", "correct": false },
-      { "text": "Diazépam", "correct": false }
+      {"text": "Chlorphéniramine", "correct": true},
+      {"text": "Furosémide", "correct": false},
+      {"text": "Prednisone", "correct": false},
+      {"text": "Morphine", "correct": false},
+      {"text": "Diazépam", "correct": false}
     ],
     "source": [
-      "https://cabinetvetderm.com/antihistaminiques-chien",
-      "https://www.santevet.com/antihistaminiques-chien",
-      "https://vetsandclinics.com/antihistaminique-chien"
+      "https://www.cabinetvetderm.fr/antihistaminique-chien/",
+      "https://www.advacarepharma.com/fr/produits-veterenaires/fabricant-antihistaminiques",
+      "https://www.vetsandclinics.com/antihistaminique-chien"
     ]
   },
   {
     "question": "Quel antiparasitaire externe agit contre les puces ?",
     "choices": [
-      { "text": "Morphine", "correct": false },
-      { "text": "Insuline", "correct": false },
-      { "text": "Atropine", "correct": false },
-      { "text": "Imidaclopride", "correct": true },
-      { "text": "Théophylline", "correct": false }
+      {"text": "Morphine", "correct": false},
+      {"text": "Insuline", "correct": false},
+      {"text": "Atropine", "correct": false},
+      {"text": "Imidaclopride", "correct": true},
+      {"text": "Théophylline", "correct": false}
     ],
     "source": [
-      "https://www.sevetys.fr/antiparasitaires-externes",
-      "https://www.anses.fr/fr/usage-antiparasitaires-externes",
-      "https://www.msd-animal-health.com/antiparasitaires-externes"
+      "https://www.dg-vet.fr/conseils/animaux-de-compagnie/parasites/",
+      "https://productions-animales.org/article/view/7333",
+      "https://www.anses.fr/fr/system/files/ANMV2014SA0080Ra.pdf"
     ]
   },
   {
     "question": "Lequel de ces médicaments est un antifongique ?",
     "choices": [
-      { "text": "Diazépam", "correct": false },
-      { "text": "Furosémide", "correct": false },
-      { "text": "Itraconazole", "correct": true },
-      { "text": "Théophylline", "correct": false },
-      { "text": "Atropine", "correct": false }
+      {"text": "Diazépam", "correct": false},
+      {"text": "Furosémide", "correct": false},
+      {"text": "Itraconazole", "correct": true},
+      {"text": "Théophylline", "correct": false},
+      {"text": "Atropine", "correct": false}
     ],
     "source": [
-      "https://vetgirlontherun.com/antifongiques-veterinaires",
       "https://www.msdmanuals.com/fr/professional/dermatologie/fongiques",
-      "https://pro.virbac.com/itrafungol-solution"
+      "https://vetgirlontherun.com/antifongiques-veterinaires",
+      "https://www.medvet.fr/fungiconazol-200-mg"
     ]
   },
   {
     "question": "Quel médicament est un bronchodilatateur ?",
     "choices": [
-      { "text": "Diazépam", "correct": false },
-      { "text": "Salbutamol", "correct": true },
-      { "text": "Atropine", "correct": false },
-      { "text": "Morphine", "correct": false },
-      { "text": "Insuline", "correct": false }
+      {"text": "Diazépam", "correct": false},
+      {"text": "Salbutamol", "correct": true},
+      {"text": "Atropine", "correct": false},
+      {"text": "Morphine", "correct": false},
+      {"text": "Insuline", "correct": false}
     ],
     "source": [
       "https://www.vetcompendium.com/beta-2-adrenergiques",
@@ -152,11 +152,11 @@
   {
     "question": "Le méloxicam appartient à quelle famille thérapeutique ?",
     "choices": [
-      { "text": "AINS", "correct": true },
-      { "text": "Antibiotiques", "correct": false },
-      { "text": "Corticoïdes", "correct": false },
-      { "text": "Opioïdes", "correct": false },
-      { "text": "Diurétiques", "correct": false }
+      {"text": "AINS", "correct": true},
+      {"text": "Antibiotiques", "correct": false},
+      {"text": "Corticoïdes", "correct": false},
+      {"text": "Opioïdes", "correct": false},
+      {"text": "Diurétiques", "correct": false}
     ],
     "source": [
       "https://www.centredantipoisonanimal.fr/antiinflammatoires",
@@ -167,136 +167,136 @@
   {
     "question": "La prednisone est classée comme :",
     "choices": [
-      { "text": "AINS", "correct": false },
-      { "text": "Corticoïde", "correct": true },
-      { "text": "Antibiotique", "correct": false },
-      { "text": "Opioïde", "correct": false },
-      { "text": "Diurétique", "correct": false }
+      {"text": "AINS", "correct": false},
+      {"text": "Corticoïde", "correct": true},
+      {"text": "Antibiotique", "correct": false},
+      {"text": "Opioïde", "correct": false},
+      {"text": "Diurétique", "correct": false}
     ],
     "source": [
-      "https://vetsandclinics.com/corticoides-chien",
-      "https://ansm.sante.fr/rcp/prednisolone",
-      "https://dermavet.com/prednicortone"
+      "https://www.cabinetvetderm.fr/cortisone-chien/",
+      "https://www.vetopedia.fr/traitements-corticoides-chien-chat/",
+      "https://ansm.sante.fr/rcp/prednisolone"
     ]
   },
   {
     "question": "L'amoxicilline est un :",
     "choices": [
-      { "text": "Antibiotique", "correct": true },
-      { "text": "AINS", "correct": false },
-      { "text": "Corticoïde", "correct": false },
-      { "text": "Antifongique", "correct": false },
-      { "text": "Diurétique", "correct": false }
+      {"text": "Antibiotique", "correct": true},
+      {"text": "AINS", "correct": false},
+      {"text": "Corticoïde", "correct": false},
+      {"text": "Antifongique", "correct": false},
+      {"text": "Diurétique", "correct": false}
     ],
     "source": [
-      "https://www.anses.fr/fr/antibiotiques-veterinaires",
-      "https://www.biomerieux.fr/usage-antibiotiques-animaux",
-      "https://www.gouvernement.fr/usage-antibiotiques-animaux"
+      "https://www.anses.fr/fr/system/files/ANMV2014SA0080Ra.pdf",
+      "https://productions-animales.org/article/view/7181",
+      "https://www.anses.fr/fr/system/files/SANT-Ra-ABR.pdf"
     ]
   },
   {
     "question": "La lidocaïne est utilisée comme :",
     "choices": [
-      { "text": "AINS", "correct": false },
-      { "text": "Anesthésique local", "correct": true },
-      { "text": "Antibiotique", "correct": false },
-      { "text": "Corticoïde", "correct": false },
-      { "text": "Diurétique", "correct": false }
+      {"text": "AINS", "correct": false},
+      {"text": "Anesthésique local", "correct": true},
+      {"text": "Antibiotique", "correct": false},
+      {"text": "Corticoïde", "correct": false},
+      {"text": "Diurétique", "correct": false}
     ],
     "source": [
-      "https://www.vetcompendium.com/anesthesiques-locaux",
-      "https://clinicarche.fr/anesthesie",
-      "https://veterinaires-monedières.com/anesthesie"
+      "https://www.vetcompendium.be/fr/node/3603",
+      "http://doc-veto.oniris-nantes.fr/GED_CHN/194622491280/na_16_027.pdf",
+      "https://www.merckvetmanual.com/analgesia/local-regional-techniques"
     ]
   },
   {
     "question": "Le furosémide est un :",
     "choices": [
-      { "text": "AINS", "correct": false },
-      { "text": "Corticoïde", "correct": false },
-      { "text": "Diurétique", "correct": true },
-      { "text": "Antibiotique", "correct": false },
-      { "text": "Opioïde", "correct": false }
+      {"text": "AINS", "correct": false},
+      {"text": "Corticoïde", "correct": false},
+      {"text": "Diurétique", "correct": true},
+      {"text": "Antibiotique", "correct": false},
+      {"text": "Opioïde", "correct": false}
     ],
     "source": [
+      "https://www.vetcompendium.be/fr/node/3482",
       "https://www.medvet.fr/furosoral-40-mg",
-      "https://www.upcard-chien.com/diuretique-cardiaque",
-      "https://www.lepointveterinaire.fr/diuretiques-nac"
+      "https://www.lepointveterinaire.fr/publications/le-point-veterinaire/article/n-442/benefices-et-risques-de-l-utilisation-des-diuretiques-chez-les-nouveaux-animaux-de-compagnie.html"
     ]
   },
   {
     "question": "Le fipronil est un :",
     "choices": [
-      { "text": "AINS", "correct": false },
-      { "text": "Corticoïde", "correct": false },
-      { "text": "Antibiotique", "correct": false },
-      { "text": "Antiparasitaire externe", "correct": true },
-      { "text": "Antifongique", "correct": false }
+      {"text": "AINS", "correct": false},
+      {"text": "Corticoïde", "correct": false},
+      {"text": "Antibiotique", "correct": false},
+      {"text": "Antiparasitaire externe", "correct": true},
+      {"text": "Antifongique", "correct": false}
     ],
     "source": [
-      "https://www.sevetys.fr/traitements-antiparasitaires",
-      "https://www.quechoisir.org/antiparasitaires",
-      "https://www.vetoavenue.com/antiparasitaires-chien"
+      "https://www.dg-vet.fr/conseils/animaux-de-compagnie/parasites/",
+      "https://productions-animales.org/article/view/7333",
+      "https://www.advacarepharma.com/fr/produits-veterenaires/fabricant-anti-inflammatoires"
     ]
   },
   {
     "question": "Le kétoconazole traite les :",
     "choices": [
-      { "text": "Infections bactériennes", "correct": false },
-      { "text": "Infections fongiques", "correct": true },
-      { "text": "Douleurs", "correct": false },
-      { "text": "Allergies", "correct": false },
-      { "text": "Œdèmes", "correct": false }
+      {"text": "Infections bactériennes", "correct": false},
+      {"text": "Infections fongiques", "correct": true},
+      {"text": "Douleurs", "correct": false},
+      {"text": "Allergies", "correct": false},
+      {"text": "Œdèmes", "correct": false}
     ],
     "source": [
-      "https://www.medvet.fr/fungiconazol-200-mg",
-      "https://www.monvet.fr/antifongiques",
-      "https://www.vidal.fr/medicaments/mycoses"
+      "https://www.msdmanuals.com/fr/professional/dermatologie/fongiques",
+      "https://vetgirlontherun.com/antifongiques-veterinaires",
+      "https://www.medvet.fr/fungiconazol-200-mg"
     ]
   },
   {
     "question": "La morphine appartient aux :",
     "choices": [
-      { "text": "Opioïdes", "correct": true },
-      { "text": "AINS", "correct": false },
-      { "text": "Corticoïdes", "correct": false },
-      { "text": "Antibiotiques", "correct": false },
-      { "text": "Antihistaminiques", "correct": false }
+      {"text": "Opioïdes", "correct": true},
+      {"text": "AINS", "correct": false},
+      {"text": "Corticoïdes", "correct": false},
+      {"text": "Antibiotiques", "correct": false},
+      {"text": "Antihistaminiques", "correct": false}
     ],
     "source": [
-      "https://www.vetcompendium.com/analgesie-veterinaire",
-      "https://vetsandclinics.com/antalgique-chien",
-      "https://www.anicura.com/traitement-douleur"
+      "https://www.veterinaire.fr/system/files/files/import/analgesiques-opioides.pdf",
+      "https://www.vetcompendium.be/fr/node/3556",
+      "https://www.lepointveterinaire.fr/publications/le-point-veterinaire/article/n-442/benefices-et-risques-de-l-utilisation-des-diuretiques-chez-les-nouveaux-animaux-de-compagnie.html"
     ]
   },
   {
     "question": "Le salbutamol est un :",
     "choices": [
-      { "text": "AINS", "correct": false },
-      { "text": "Corticoïde", "correct": false },
-      { "text": "Bronchodilatateur", "correct": true },
-      { "text": "Antibiotique", "correct": false },
-      { "text": "Diurétique", "correct": false }
+      {"text": "AINS", "correct": false},
+      {"text": "Corticoïde", "correct": false},
+      {"text": "Bronchodilatateur", "correct": true},
+      {"text": "Antibiotique", "correct": false},
+      {"text": "Diurétique", "correct": false}
     ],
     "source": [
-      "https://cliniquefontaine.fr/asthe-felin",
-      "https://www.vidal.fr/medicaments/bpco",
-      "https://www.lepointveterinaire.fr/bronchodilatateurs"
+      "https://www.vetcompendium.com/beta-2-adrenergiques",
+      "https://www.lepointveterinaire.fr/bronchodilatateurs-respiratoires",
+      "https://chevaux-veterinaire.com/aerosoltherapie"
     ]
   },
   {
     "question": "La cétirizine est un :",
     "choices": [
-      { "text": "AINS", "correct": false },
-      { "text": "Corticoïde", "correct": false },
-      { "text": "Antibiotique", "correct": false },
-      { "text": "Antihistaminique", "correct": true },
-      { "text": "Opioïde", "correct": false }
+      {"text": "AINS", "correct": false},
+      {"text": "Corticoïde", "correct": false},
+      {"text": "Antibiotique", "correct": false},
+      {"text": "Antihistaminique", "correct": true},
+      {"text": "Opioïde", "correct": false}
     ],
     "source": [
-      "https://www.dalma.fr/antihistaminiques-chien",
-      "https://animigo.com/antiallergique-chien",
-      "https://advacare.com/antihistaminiques-veterinaires"
+      "https://www.cabinetvetderm.fr/antihistaminique-chien/",
+      "https://www.advacarepharma.com/fr/produits-veterenaires/fabricant-antihistaminiques",
+      "https://www.vetsandclinics.com/antihistaminique-chien"
     ]
   },
   {
@@ -309,9 +309,9 @@
       { "text": "Cétirizine", "correct": false }
     ],
     "source": [
-      "https://www.canada.ca/fr/sante-canada/carprofen-arthrose.html",
-      "https://www.plumbs.com/therapeutic-brief-carprofen",
-      "https://veterinaryrecord.bmj.com/content/clinical-efficacy-carprofen"
+      "https://www.msdvetmanual.com/pharmacology/anti-inflammatory-agents/nonsteroidal-anti-inflammatory-drugs",
+      "https://www.merckvetmanual.com/musculoskeletal-system/joint-diseases-of-dogs-and-cats/arthritis-in-dogs-and-cats",
+      "https://www.waltham.com/dyn/_assets/_pdfs/articlesprint/arthritis-in-dogs.pdf"
     ]
   },
   {
@@ -324,9 +324,9 @@
       { "text": "Furosémide", "correct": false }
     ],
     "source": [
-      "https://www.exoticpetjournal.com/enrofloxacin-review",
-      "https://www.vmd.gov.uk/product/enroxil-enrofloxacin",
-      "https://www.merckvetmanual.com/pharmacology/quinolones-fluoroquinolones"
+      "https://www.msdvetmanual.com/pharmacology/antibacterial-agents/fluoroquinolones",
+      "https://www.merckvetmanual.com/pharmacology/antibacterial-agents/overview-of-antibacterial-agents",
+      "https://www.ema.europa.eu/en/medicines/veterinary/EPAR/baytril"
     ]
   },
   {
@@ -339,9 +339,9 @@
       { "text": "Fipronil", "correct": false }
     ],
     "source": [
-      "https://www.merckvetmanual.com/therapeutics/corticosteroids",
-      "https://www.uzh.ch/dermatologie/prednisolone",
-      "https://onlinelibrary.wiley.com/journal/veterinary-dermatology"
+      "https://www.msdvetmanual.com/pharmacology/anti-inflammatory-agents/glucocorticoids",
+      "https://www.vidal.fr/medicaments/vidal-recos/prescription-corticotherapie-glucocorticoides.php",
+      "https://www.merckvetmanual.com/pharmacology/anti-inflammatory-agents/overview-of-anti-inflammatory-agents"
     ]
   },
   {
@@ -354,9 +354,9 @@
       { "text": "Salbutamol", "correct": false }
     ],
     "source": [
+      "https://www.msdvetmanual.com/management-and-nutrition/anesthesia-and-analgesia/local-anesthesia-in-animals",
       "https://www.merckvetmanual.com/analgesia/local-regional-techniques",
-      "https://www.merckvetmanual.com/drugs-relieve-pain",
-      "https://beavm.oregonstate.edu/pain-management"
+      "https://www.vet-encyclopedia.com/en/article/lidocaine"
     ]
   },
   {
@@ -369,9 +369,9 @@
       { "text": "Cétirizine", "correct": false }
     ],
     "source": [
-      "https://www.merckvetmanual.com/drugs-relieve-pain/opioids",
-      "https://fr.wikipedia.org/wiki/Butorphanol",
-      "https://www.bms.com/fr-FR/butorphanol"
+      "https://www.msdvetmanual.com/pharmacology/analgesics-and-adjuvants/opioid-analgesics",
+      "https://www.merckvetmanual.com/pharmacology/analgesics-and-adjuvant-agents/overview-of-analgesics-and-adjuvant-agents",
+      "https://www.sciencedirect.com/science/article/pii/S1090023318301978"
     ]
   },
   {
@@ -384,9 +384,9 @@
       { "text": "Kétoconazole", "correct": false }
     ],
     "source": [
-      "https://www.merckvetmanual.com/cardiovascular/diuretics",
-      "https://www.ema.europa.eu/loop-diuretics-heart-failure",
-      "https://veterinarytherapeutics.com/cardiac-diuretics"
+      "https://www.msdvetmanual.com/cardiovascular-system/approach-to-cardiovascular-diseases/management-of-congestive-heart-failure-in-dogs",
+      "https://veterinaryevidence.org/index.php/ve/article/view/184",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7115611/"
     ]
   },
   {
@@ -399,9 +399,9 @@
       { "text": "Amoxicilline", "correct": false }
     ],
     "source": [
-      "https://www.merckmanuals.com/contact-dermatitis-antihistamines",
-      "https://www.drugs.com/monograph/diphenhydramine.html",
-      "https://vetdermjournal.org/antihistamines-skin"
+      "https://www.msdvetmanual.com/pharmacology/antihistamines/overview-of-antihistamines",
+      "https://www.vetfocus.royalcanin.com/fr/scientific-content/medicaments-antihistaminiques",
+      "https://vcahospitals.com/know-your-pet/diphenhydramine"
     ]
   },
   {
@@ -414,9 +414,9 @@
       { "text": "Kétoconazole", "correct": false }
     ],
     "source": [
-      "https://www.merckvetmanual.com/flea-allergy-dermatitis",
-      "https://www.merckvetmanual.com/fleas-cats",
-      "https://www.k-state.edu/flea-control"
+      "https://www.esccap.org/uploads/docs/r0qj2kch_0812_ESCCAP_Guide_03_Anti_ectoparasitaires_2022_FINAL_FRA_Web.pdf",
+      "https://www.msd-animal-health-hub.fr/produits/bravecto",
+      "https://www.msdvetmanual.com/integumentary-system/fleas-and-flea-allergy-dermatitis/fleas-and-flea-allergy-dermatitis-in-dogs-and-cats"
     ]
   },
   {
@@ -429,9 +429,9 @@
       { "text": "Salbutamol", "correct": false }
     ],
     "source": [
-      "https://www.merckvetmanual.com/dermatology/antifungals",
-      "https://veterinarymycologyjournal.com/topical-antifungals",
-      "https://clinicalvetderm.org/enilconazole-ringworm"
+      "https://www.msdvetmanual.com/integumentary-system/dermatophytosis/dermatophytosis-in-dogs-and-cats",
+      "https://www.vidal.fr/vet/vetmedications/enilconazole.html",
+      "https://www.msd-animal-health.fr/products/imedra"
     ]
   },
   {
@@ -444,9 +444,9 @@
       { "text": "Morphine", "correct": false }
     ],
     "source": [
-      "https://www.ncbi.nlm.nih.gov/pmc/articles/bronchodilateurs",
-      "https://veterinaryrespiratoryjournal.com/feline-asthma",
-      "https://jfmonline.com/theophylline-feline-respiratory"
+      "https://www.msdvetmanual.com/respiratory-system/respiratory-diseases-of-cats/asthma-in-cats",
+      "https://vcahospitals.com/know-your-pet/asthma-in-cats",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7148165/"
     ]
   },
   {
@@ -459,9 +459,9 @@
       { "text": "Cataracte", "correct": false }
     ],
     "source": [
-      "https://www.centredantipoisonanimal.fr/antiinflammatoires",
-      "https://www.vetcompendium.com/anti-inflammatoires-ains",
-      "https://www.sciencesetavenir.fr/sante/medicaments-animaux-ains-carmaux"
+      "https://www.msdvetmanual.com/pharmacology/anti-inflammatory-agents/nonsteroidal-anti-inflammatory-drugs",
+      "https://www.vidal.fr/medicaments/vidal-recos/prescription-ains-utilisation-chez-animal.php",
+      "https://veterinaryrecord.bmj.com/content/early/2020/01/13/vr.105446"
     ]
   },
   {
@@ -474,9 +474,9 @@
       { "text": "Cataracte", "correct": false }
     ],
     "source": [
-      "https://www.vetcompendium.com/analgesie-veterinaire",
-      "https://vetsandclinics.com/antalgiques-chien",
-      "https://www.anicura.com/traitement-douleur"
+      "https://www.msdvetmanual.com/pharmacology/analgesics-and-adjuvants/opioid-analgesics",
+      "https://www.rcvsknowledge.org/elearning/learn-zone/pain-management/opioids-in-pain-management",
+      "https://www.ncbi.nlm.nih.gov/books/NBK548964/"
     ]
   },
   {
@@ -489,9 +489,9 @@
       { "text": "Inflammation", "correct": false }
     ],
     "source": [
-      "https://ansm.sante.fr/RCPrPrednisolone",
-      "https://www.vetsandclinics.com/corticoides-chien",
-      "https://vetopedia.com/traitements-corticoides"
+      "https://www.msdvetmanual.com/pharmacology/anti-inflammatory-agents/glucocorticoids",
+      "https://www.vidal.fr/medicaments/vidal-recos/prescription-corticotherapie-glucocorticoides.php",
+      "https://www.merckvetmanual.com/pharmacology/anti-inflammatory-agents/overview-of-anti-inflammatory-agents"
     ]
   },
   {
@@ -504,9 +504,9 @@
       { "text": "Inflammation", "correct": false }
     ],
     "source": [
-      "https://www.medvet.fr/furosoral-40-mg",
-      "https://www.lepointveterinaire.fr/diuretiques-mode-emploi",
-      "https://www.dogteur.com/diuretiques-chien-chat"
+      "https://www.msdvetmanual.com/pharmacology/cardiovascular-drugs/diuretics",
+      "https://vcahospitals.com/know-your-pet/furosemide",
+      "https://www.merckvetmanual.com/pharmacology/cardiovascular-drugs/overview-of-cardiovascular-drugs"
     ]
   },
   {
@@ -519,9 +519,9 @@
       { "text": "Douleur", "correct": false }
     ],
     "source": [
-      "https://www.anses.fr/fr/antibiotiques-veterinaires",
-      "https://www.biomerieux.fr/usage-antibiotiques-animaux",
-      "https://ordre-veterinaires.fr/fiches-antibiotiques-afvac"
+      "https://www.msdvetmanual.com/pharmacology/antibacterial-agents/overview-of-antibacterial-agents",
+      "https://www.anses.fr/fr/system/files/ANMV2014SA0080Ra.pdf",
+      "https://www.merckvetmanual.com/pharmacology/antibacterial-agents/penicillins"
     ]
   },
   {
@@ -534,9 +534,9 @@
       { "text": "La pompe Na-K", "correct": false }
     ],
     "source": [
-      "https://www.vetcompendium.com/anti-inflammatoires-ains",
-      "https://www.lepointveterinaire.fr/ains-non-steroidiens",
-      "https://advacare.com/anti-inflammatoires-veterinaires"
+      "https://www.msdvetmanual.com/pharmacology/anti-inflammatory-agents/nonsteroidal-anti-inflammatory-drugs",
+      "https://www.merckvetmanual.com/pharmacology/anti-inflammatory-agents/nonsteroidal-anti-inflammatory-drugs",
+      "https://www.vidal.fr/medicaments/vidal-recos/prescription-ains-utilisation-chez-animal.php"
     ]
   },
   {
@@ -549,9 +549,9 @@
       { "text": "La pompe Na-K", "correct": false }
     ],
     "source": [
-      "https://www.vetcompendium.com/analgesie-veterinaire",
-      "https://www.lepointveterinaire.fr/analgesiques-perioperatoires",
-      "https://vetsandclinics.com/antalgiques-chien"
+      "https://www.msdvetmanual.com/pharmacology/analgesics-and-adjuvants/opioid-analgesics",
+      "https://www.ncbi.nlm.nih.gov/books/NBK548964/",
+      "https://www.rcvsknowledge.org/elearning/learn-zone/pain-management/opioids-in-pain-management"
     ]
   },
   {
@@ -564,9 +564,9 @@
       { "text": "La pompe Na-K", "correct": false }
     ],
     "source": [
-      "https://cabinetvetderm.com/antihistaminiques-chien",
-      "https://vetsandclinics.com/antihistaminique-chien",
-      "https://advacare.com/antihistaminiques-veterinaires"
+      "https://www.msdvetmanual.com/pharmacology/antihistamines/overview-of-antihistamines",
+      "https://vcahospitals.com/know-your-pet/diphenhydramine",
+      "https://www.vetfocus.royalcanin.com/fr/scientific-content/medicaments-antihistaminiques"
     ]
   },
   {
@@ -579,9 +579,9 @@
       { "text": "La pompe Na-K-2Cl", "correct": true }
     ],
     "source": [
-      "https://www.vetcompendium.com/diuretiques",
-      "https://www.lepointveterinaire.fr/diuretiques-mode-emploi",
-      "https://www.medvet.fr/furosoral-40-mg"
+      "https://www.msdvetmanual.com/pharmacology/cardiovascular-drugs/diuretics",
+      "https://vcahospitals.com/know-your-pet/furosemide",
+      "https://www.merckvetmanual.com/pharmacology/cardiovascular-drugs/overview-of-cardiovascular-drugs"
     ]
   },
   {
@@ -594,9 +594,9 @@
       { "text": "La membrane cellulaire fongique", "correct": true }
     ],
     "source": [
-      "https://vetgirlontherun.com/antifongiques-veterinaires",
-      "https://www.msdmanuals.com/fr/professional/dermatologie/fongiques",
-      "https://www.medvet.fr/fungiconazol-200-mg"
+      "https://www.msdvetmanual.com/pharmacology/antifungal-agents/overview-of-antifungal-agents",
+      "https://www.ncbi.nlm.nih.gov/books/NBK544229/",
+      "https://www.ema.europa.eu/en/medicines/veterinary/EPAR/itrafungol"
     ]
   }
 ]
